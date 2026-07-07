@@ -5,12 +5,22 @@
 """
 import json
 from collections import defaultdict
+from datetime import date, timedelta
 from pathlib import Path
 
 DATA_DIR = Path(__file__).parent.parent / "docs" / "data"
 HISTORY_PATH = DATA_DIR / "ichioshi_history.json"
 SCHEDULE_PATH = DATA_DIR / "monex_schedule.json"
 OUT_PATH = DATA_DIR / "calendar_data.json"
+
+# 「前回決算」とみなすには、少なくとも何日以上前の言及である必要があるか。
+# 決算発表が前倒しになるケースを考慮し、1週間の余裕を持たせる。
+# (これより短い間隔の言及は「同じ決算に対する当日掲載」とみなして除外する)
+MIN_GAP_DAYS = 7
+
+
+def parse_date(s: str) -> date:
+    return date(int(s[0:4]), int(s[4:6]), int(s[6:8]))
 
 
 def load_history():
@@ -35,6 +45,17 @@ def build():
         code = entry["code"]
         if code not in code_to_dates:
             continue
+        target_date = parse_date(entry["date"])
+
+        # 対象日から MIN_GAP_DAYS 日以上前の言及だけを「前回決算」の候補とする
+        # (同日や直近の言及は、今回と同じ決算を指しているだけの可能性が高いため除外)
+        qualifying = [
+            d for d in code_to_dates[code]
+            if (target_date - parse_date(d)).days >= MIN_GAP_DAYS
+        ]
+        if not qualifying:
+            continue  # 前回に相当する言及が無いので掲載しない
+
         key = (entry["date"], code)
         if key in seen:
             continue
@@ -44,8 +65,8 @@ def build():
             "name": entry["name"],
             "time": entry["time"],
             "type": entry["type"],
-            "lastMentioned": code_to_dates[code][0],
-            "mentionCount": len(code_to_dates[code]),
+            "lastMentioned": qualifying[0],
+            "mentionCount": len(qualifying),
         })
 
     result = {

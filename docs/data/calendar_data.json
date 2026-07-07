@@ -17,36 +17,34 @@
         "lastMentionedPriceChangeType": "翌営業日"
       },
       {
-        "code": "2734",
-        "name": "サーラコーポレーション",
-        "time": "15:30\n（実績）",
-        "type": "2Q",
-        "lastMentioned": "20260707",
-        "mentionCount": 1
-      },
-      {
         "code": "5243",
         "name": "ｎｏｔｅ",
         "time": "15:30\n（実績）",
         "type": "2Q",
-        "lastMentioned": "20260707",
-        "mentionCount": 2
+        "lastMentioned": "20260414",
+        "mentionCount": 1,
+        "lastMentionedPriceChange": -16.25,
+        "lastMentionedPriceChangeType": "翌営業日"
       },
       {
         "code": "6469",
         "name": "放電精密加工研究所",
         "time": "16:00\n（実績）",
         "type": "1Q",
-        "lastMentioned": "20260707",
-        "mentionCount": 2
+        "lastMentioned": "20260403",
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 6.71,
+        "lastMentionedPriceChangeType": "翌営業日"
       },
       {
         "code": "9651",
         "name": "日本プロセス",
         "time": "16:30\n（実績）",
         "type": "本決算",
-        "lastMentioned": "20260707",
-        "mentionCount": 2
+        "lastMentioned": "20260331",
+        "mentionCount": 1,
+        "lastMentionedPriceChange": -0.69,
+        "lastMentionedPriceChangeType": "翌営業日"
       }
     ],
     "20260708": [
