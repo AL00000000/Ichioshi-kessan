@@ -12,7 +12,9 @@
         "time": "15:30\n（実績）",
         "type": "1Q",
         "lastMentioned": "20260407",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 7.12,
+        "lastMentionedPriceChangeType": "翌営業日"
       },
       {
         "code": "2734",
@@ -54,7 +56,9 @@
         "time": "15:30\n（予定）",
         "type": "1Q",
         "lastMentioned": "20260408",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 1.34,
+        "lastMentionedPriceChangeType": "翌営業日"
       }
     ],
     "20260709": [
@@ -64,7 +68,9 @@
         "time": "15:30\n（予定）",
         "type": "1Q",
         "lastMentioned": "20260409",
-        "mentionCount": 2
+        "mentionCount": 2,
+        "lastMentionedPriceChange": -3.64,
+        "lastMentionedPriceChangeType": "翌営業日"
       },
       {
         "code": "2809",
@@ -72,7 +78,9 @@
         "time": "15:30\n（予定）",
         "type": "2Q",
         "lastMentioned": "20260409",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": -4.81,
+        "lastMentionedPriceChangeType": "翌営業日"
       },
       {
         "code": "4187",
@@ -80,7 +88,9 @@
         "time": "15:30\n（予定）",
         "type": "2Q",
         "lastMentioned": "20260702",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": -0.17,
+        "lastMentionedPriceChangeType": "翌営業日"
       },
       {
         "code": "4825",
@@ -88,7 +98,9 @@
         "time": "15:30\n（予定）",
         "type": "本決算",
         "lastMentioned": "20260518",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 5.69,
+        "lastMentionedPriceChangeType": "翌営業日"
       },
       {
         "code": "6323",
@@ -96,7 +108,9 @@
         "time": "15:30\n（予定）",
         "type": "1Q",
         "lastMentioned": "20260409",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 21.41,
+        "lastMentionedPriceChangeType": "翌営業日"
       },
       {
         "code": "7649",
@@ -104,7 +118,9 @@
         "time": "15:30\n（予定）",
         "type": "1Q",
         "lastMentioned": "20260409",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": -1.78,
+        "lastMentionedPriceChangeType": "翌営業日"
       },
       {
         "code": "9983",
@@ -112,7 +128,9 @@
         "time": "15:31\n（予定）",
         "type": "3Q",
         "lastMentioned": "20260409",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 11.99,
+        "lastMentionedPriceChangeType": "翌営業日"
       }
     ],
     "20260710": [
@@ -122,7 +140,9 @@
         "time": "15:30\n（予定）",
         "type": "1Q",
         "lastMentioned": "20260324",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 1.53,
+        "lastMentionedPriceChangeType": "翌営業日"
       },
       {
         "code": "2999",
@@ -130,7 +150,9 @@
         "time": "15:30\n（予定）",
         "type": "3Q",
         "lastMentioned": "20260410",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 19.0,
+        "lastMentionedPriceChangeType": "翌営業日"
       },
       {
         "code": "3063",
@@ -138,7 +160,9 @@
         "time": "15:30\n（予定）",
         "type": "1Q",
         "lastMentioned": "20260528",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 18.32,
+        "lastMentionedPriceChangeType": "翌営業日"
       },
       {
         "code": "4343",
@@ -146,7 +170,9 @@
         "time": "15:30\n（予定）",
         "type": "1Q",
         "lastMentioned": "20260406",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 2.63,
+        "lastMentionedPriceChangeType": "翌営業日"
       },
       {
         "code": "4577",
@@ -154,7 +180,9 @@
         "time": "15:30\n（予定）",
         "type": "本決算",
         "lastMentioned": "20260410",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": -1.36,
+        "lastMentionedPriceChangeType": "翌営業日"
       },
       {
         "code": "4760",
@@ -162,7 +190,9 @@
         "time": "15:30\n（予定）",
         "type": "3Q",
         "lastMentioned": "20260406",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 2.39,
+        "lastMentionedPriceChangeType": "翌営業日"
       },
       {
         "code": "5967",
@@ -170,7 +200,9 @@
         "time": "15:30\n（予定）",
         "type": "本決算",
         "lastMentioned": "20260630",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 19.23,
+        "lastMentionedPriceChangeType": "翌営業日"
       },
       {
         "code": "6136",
@@ -178,7 +210,9 @@
         "time": "15:30\n（予定）",
         "type": "2Q",
         "lastMentioned": "20260702",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 10.18,
+        "lastMentionedPriceChangeType": "翌営業日"
       },
       {
         "code": "6506",
@@ -186,7 +220,9 @@
         "time": "16:00\n（予定）",
         "type": "1Q",
         "lastMentioned": "20260410",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 7.05,
+        "lastMentionedPriceChangeType": "翌営業日"
       },
       {
         "code": "7487",
@@ -194,7 +230,9 @@
         "time": "15:45\n（予定）",
         "type": "本決算",
         "lastMentioned": "20260630",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 1.02,
+        "lastMentionedPriceChangeType": "翌営業日"
       },
       {
         "code": "9270",
@@ -202,7 +240,9 @@
         "time": "16:00\n（予定）",
         "type": "3Q",
         "lastMentioned": "20260410",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 23.91,
+        "lastMentionedPriceChangeType": "翌営業日"
       }
     ],
     "20260713": [
@@ -212,7 +252,9 @@
         "time": "15:30\n（予定）",
         "type": "本決算",
         "lastMentioned": "20260519",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": -1.07,
+        "lastMentionedPriceChangeType": "翌営業日"
       },
       {
         "code": "463A",
@@ -220,7 +262,9 @@
         "time": "未定",
         "type": "本決算",
         "lastMentioned": "20260428",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": -0.19,
+        "lastMentionedPriceChangeType": "翌営業日"
       },
       {
         "code": "7085",
@@ -228,7 +272,9 @@
         "time": "15:30\n（予定）",
         "type": "3Q",
         "lastMentioned": "20260413",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 15.07,
+        "lastMentionedPriceChangeType": "翌営業日"
       },
       {
         "code": "7513",
@@ -236,7 +282,9 @@
         "time": "15:30\n（予定）",
         "type": "3Q",
         "lastMentioned": "20260409",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": -0.15,
+        "lastMentionedPriceChangeType": "翌営業日"
       },
       {
         "code": "9278",
@@ -244,7 +292,9 @@
         "time": "15:30\n（予定）",
         "type": "本決算",
         "lastMentioned": "20260413",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 13.18,
+        "lastMentionedPriceChangeType": "翌営業日"
       }
     ],
     "20260714": [
@@ -254,7 +304,9 @@
         "time": "16:00\n（予定）",
         "type": "1Q",
         "lastMentioned": "20260414",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 17.23,
+        "lastMentionedPriceChangeType": "翌営業日"
       },
       {
         "code": "1434",
@@ -262,7 +314,9 @@
         "time": "15:30\n（予定）",
         "type": "3Q",
         "lastMentioned": "20260413",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 21.33,
+        "lastMentionedPriceChangeType": "翌営業日"
       },
       {
         "code": "3608",
@@ -270,7 +324,9 @@
         "time": "15:30\n（予定）",
         "type": "1Q",
         "lastMentioned": "20260410",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 20.78,
+        "lastMentionedPriceChangeType": "翌営業日"
       },
       {
         "code": "3627",
@@ -278,7 +334,9 @@
         "time": "15:30\n（予定）",
         "type": "1Q",
         "lastMentioned": "20260410",
-        "mentionCount": 2
+        "mentionCount": 2,
+        "lastMentionedPriceChange": -3.07,
+        "lastMentionedPriceChangeType": "翌営業日"
       },
       {
         "code": "365A",
@@ -286,7 +344,9 @@
         "time": "16:00\n（予定）",
         "type": "1Q",
         "lastMentioned": "20260319",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": -1.37,
+        "lastMentionedPriceChangeType": "翌営業日"
       },
       {
         "code": "464A",
@@ -294,7 +354,9 @@
         "time": "未定",
         "type": "本決算",
         "lastMentioned": "20260701",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 3.93,
+        "lastMentionedPriceChangeType": "翌営業日"
       },
       {
         "code": "4885",
@@ -302,7 +364,9 @@
         "time": "16:00\n（予定）",
         "type": "本決算",
         "lastMentioned": "20260414",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": -1.5,
+        "lastMentionedPriceChangeType": "翌営業日"
       },
       {
         "code": "505A",
@@ -310,7 +374,9 @@
         "time": "未定",
         "type": "本決算",
         "lastMentioned": "20260413",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 3.49,
+        "lastMentionedPriceChangeType": "翌営業日"
       },
       {
         "code": "5246",
@@ -318,7 +384,9 @@
         "time": "16:00\n（予定）",
         "type": "2Q",
         "lastMentioned": "20260413",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 15.82,
+        "lastMentionedPriceChangeType": "翌営業日"
       },
       {
         "code": "5578",
@@ -326,7 +394,9 @@
         "time": "16:00\n（予定）",
         "type": "3Q",
         "lastMentioned": "20260413",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 17.38,
+        "lastMentionedPriceChangeType": "翌営業日"
       },
       {
         "code": "5885",
@@ -334,7 +404,9 @@
         "time": "15:30\n（予定）",
         "type": "本決算",
         "lastMentioned": "20260615",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 9.41,
+        "lastMentionedPriceChangeType": "翌営業日"
       },
       {
         "code": "7673",
@@ -342,7 +414,9 @@
         "time": "15:30\n（予定）",
         "type": "本決算",
         "lastMentioned": "20260518",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 7.11,
+        "lastMentionedPriceChangeType": "翌営業日"
       }
     ],
     "20260715": [
@@ -352,7 +426,9 @@
         "time": "12:30\n（予定）",
         "type": "本決算",
         "lastMentioned": "20260414",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 3.18,
+        "lastMentionedPriceChangeType": "同日"
       },
       {
         "code": "3915",
@@ -360,7 +436,9 @@
         "time": "15:30\n（予定）",
         "type": "1Q",
         "lastMentioned": "20260414",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 4.76,
+        "lastMentionedPriceChangeType": "翌営業日"
       },
       {
         "code": "4434",
@@ -368,7 +446,9 @@
         "time": "11:30\n（予定）",
         "type": "1Q",
         "lastMentioned": "20260414",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 1.49,
+        "lastMentionedPriceChangeType": "同日"
       },
       {
         "code": "6182",
@@ -376,7 +456,9 @@
         "time": "15:30\n（予定）",
         "type": "1Q",
         "lastMentioned": "20260407",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 5.86,
+        "lastMentionedPriceChangeType": "翌営業日"
       },
       {
         "code": "6505",
@@ -384,7 +466,9 @@
         "time": "15:30\n（予定）",
         "type": "本決算",
         "lastMentioned": "20260413",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 15.09,
+        "lastMentionedPriceChangeType": "翌営業日"
       },
       {
         "code": "6532",
@@ -392,7 +476,9 @@
         "time": "15:30\n（予定）",
         "type": "1Q",
         "lastMentioned": "20260414",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 14.32,
+        "lastMentionedPriceChangeType": "翌営業日"
       },
       {
         "code": "6552",
@@ -400,7 +486,9 @@
         "time": "15:30\n（予定）",
         "type": "本決算",
         "lastMentioned": "20260408",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 4.28,
+        "lastMentionedPriceChangeType": "翌営業日"
       },
       {
         "code": "6866",
@@ -408,7 +496,9 @@
         "time": "15:30\n（予定）",
         "type": "2Q",
         "lastMentioned": "20260605",
-        "mentionCount": 2
+        "mentionCount": 2,
+        "lastMentionedPriceChange": -4.82,
+        "lastMentionedPriceChangeType": "翌営業日"
       },
       {
         "code": "7730",
@@ -416,7 +506,9 @@
         "time": "15:30\n（予定）",
         "type": "3Q",
         "lastMentioned": "20260414",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 10.05,
+        "lastMentionedPriceChangeType": "翌営業日"
       },
       {
         "code": "7818",
@@ -424,7 +516,9 @@
         "time": "15:30\n（予定）",
         "type": "3Q",
         "lastMentioned": "20260407",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": -4.13,
+        "lastMentionedPriceChangeType": "翌営業日"
       }
     ],
     "20260722": [
@@ -434,7 +528,9 @@
         "time": "15:30\n（予定）",
         "type": "2Q",
         "lastMentioned": "20260421",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 0.09,
+        "lastMentionedPriceChangeType": "翌営業日"
       },
       {
         "code": "4684",
@@ -442,7 +538,9 @@
         "time": "15:30\n（予定）",
         "type": "1Q",
         "lastMentioned": "20260421",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 10.62,
+        "lastMentionedPriceChangeType": "翌営業日"
       },
       {
         "code": "5576",
@@ -450,7 +548,9 @@
         "time": "16:00\n（予定）",
         "type": "1Q",
         "lastMentioned": "20260422",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": -5.71,
+        "lastMentionedPriceChangeType": "翌営業日"
       }
     ],
     "20260723": [
@@ -460,7 +560,9 @@
         "time": "16:00\n（予定）",
         "type": "1Q",
         "lastMentioned": "20260422",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": -3.78,
+        "lastMentionedPriceChangeType": "翌営業日"
       }
     ],
     "20260724": [
@@ -470,7 +572,9 @@
         "time": "16:00\n（予定）",
         "type": "1Q",
         "lastMentioned": "20260424",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 29.67,
+        "lastMentionedPriceChangeType": "翌営業日"
       },
       {
         "code": "6653",
@@ -478,7 +582,9 @@
         "time": "15:30\n（予定）",
         "type": "2Q",
         "lastMentioned": "20260422",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": -6.03,
+        "lastMentionedPriceChangeType": "翌営業日"
       },
       {
         "code": "7175",
@@ -486,7 +592,9 @@
         "time": "15:30\n（予定）",
         "type": "1Q",
         "lastMentioned": "20260417",
-        "mentionCount": 2
+        "mentionCount": 2,
+        "lastMentionedPriceChange": 4.15,
+        "lastMentionedPriceChangeType": "翌営業日"
       },
       {
         "code": "8060",
@@ -494,7 +602,9 @@
         "time": "15:30\n（予定）",
         "type": "2Q",
         "lastMentioned": "20260422",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 3.94,
+        "lastMentionedPriceChangeType": "翌営業日"
       }
     ],
     "20260728": [
@@ -504,7 +614,9 @@
         "time": "13:00\n（予定）",
         "type": "1Q",
         "lastMentioned": "20260428",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 4.09,
+        "lastMentionedPriceChangeType": "同日"
       },
       {
         "code": "5279",
@@ -512,7 +624,9 @@
         "time": "16:30\n（予定）",
         "type": "1Q",
         "lastMentioned": "20260422",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 8.0,
+        "lastMentionedPriceChangeType": "翌営業日"
       },
       {
         "code": "7735",
@@ -520,7 +634,9 @@
         "time": "15:45\n（予定）",
         "type": "1Q",
         "lastMentioned": "20260513",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 8.83,
+        "lastMentionedPriceChangeType": "翌営業日"
       }
     ],
     "20260729": [
@@ -530,7 +646,9 @@
         "time": "15:30\n（予定）",
         "type": "1Q",
         "lastMentioned": "20260427",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 14.43,
+        "lastMentionedPriceChangeType": "翌営業日"
       },
       {
         "code": "1946",
@@ -538,7 +656,9 @@
         "time": "15:30\n（予定）",
         "type": "1Q",
         "lastMentioned": "20260428",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 14.85,
+        "lastMentionedPriceChangeType": "翌営業日"
       },
       {
         "code": "3793",
@@ -546,7 +666,9 @@
         "time": "15:30\n（予定）",
         "type": "1Q",
         "lastMentioned": "20260512",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 9.57,
+        "lastMentionedPriceChangeType": "翌営業日"
       },
       {
         "code": "6857",
@@ -554,7 +676,9 @@
         "time": "15:30\n（予定）",
         "type": "1Q",
         "lastMentioned": "20260427",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": -5.56,
+        "lastMentionedPriceChangeType": "翌営業日"
       },
       {
         "code": "8137",
@@ -562,7 +686,9 @@
         "time": "16:00\n（予定）",
         "type": "1Q",
         "lastMentioned": "20260508",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 21.51,
+        "lastMentionedPriceChangeType": "翌営業日"
       },
       {
         "code": "8572",
@@ -570,7 +696,9 @@
         "time": "15:30\n（予定）",
         "type": "1Q",
         "lastMentioned": "20260420",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 7.12,
+        "lastMentionedPriceChangeType": "翌営業日"
       },
       {
         "code": "8708",
@@ -578,7 +706,9 @@
         "time": "14:00\n（予定）",
         "type": "1Q",
         "lastMentioned": "20260323",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": -3.04,
+        "lastMentionedPriceChangeType": "同日"
       }
     ],
     "20260730": [
@@ -588,7 +718,9 @@
         "time": "15:30\n（予定）",
         "type": "1Q",
         "lastMentioned": "20260424",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": -13.41,
+        "lastMentionedPriceChangeType": "翌営業日"
       },
       {
         "code": "4552",
@@ -596,7 +728,9 @@
         "time": "16:00\n（予定）",
         "type": "1Q",
         "lastMentioned": "20260511",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 2.95,
+        "lastMentionedPriceChangeType": "翌営業日"
       },
       {
         "code": "5333",
@@ -604,7 +738,9 @@
         "time": "15:40\n（予定）",
         "type": "1Q",
         "lastMentioned": "20260324",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 5.72,
+        "lastMentionedPriceChangeType": "翌営業日"
       },
       {
         "code": "6454",
@@ -612,7 +748,9 @@
         "time": "15:30\n（予定）",
         "type": "1Q",
         "lastMentioned": "20260309",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 5.3,
+        "lastMentionedPriceChangeType": "翌営業日"
       },
       {
         "code": "6754",
@@ -620,7 +758,9 @@
         "time": "15:30\n（予定）",
         "type": "1Q",
         "lastMentioned": "20260427",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 5.83,
+        "lastMentionedPriceChangeType": "翌営業日"
       },
       {
         "code": "6971",
@@ -628,7 +768,9 @@
         "time": "15:30\n（予定）",
         "type": "1Q",
         "lastMentioned": "20260430",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 1.33,
+        "lastMentionedPriceChangeType": "翌営業日"
       },
       {
         "code": "8609",
@@ -636,7 +778,9 @@
         "time": "11:00\n（予定）",
         "type": "1Q",
         "lastMentioned": "20260326",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": -0.57,
+        "lastMentionedPriceChangeType": "同日"
       },
       {
         "code": "8613",
@@ -644,7 +788,9 @@
         "time": "12:00\n（予定）",
         "type": "1Q",
         "lastMentioned": "20260415",
-        "mentionCount": 2
+        "mentionCount": 2,
+        "lastMentionedPriceChange": 0.66,
+        "lastMentionedPriceChangeType": "同日"
       }
     ],
     "20260731": [
@@ -654,7 +800,9 @@
         "time": "14:00\n（予定）",
         "type": "1Q",
         "lastMentioned": "20260423",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 0.06,
+        "lastMentionedPriceChangeType": "同日"
       },
       {
         "code": "8473",
@@ -662,7 +810,9 @@
         "time": "10:15\n（予定）",
         "type": "1Q",
         "lastMentioned": "20260625",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 2.15,
+        "lastMentionedPriceChangeType": "同日"
       },
       {
         "code": "8616",
@@ -670,7 +820,9 @@
         "time": "11:00\n（予定）",
         "type": "1Q",
         "lastMentioned": "20260326",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": -0.52,
+        "lastMentionedPriceChangeType": "同日"
       }
     ],
     "20260803": [
@@ -680,7 +832,9 @@
         "time": "15:30\n（予定）",
         "type": "1Q",
         "lastMentioned": "20260422",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": -2.67,
+        "lastMentionedPriceChangeType": "翌営業日"
       },
       {
         "code": "6134",
@@ -688,7 +842,9 @@
         "time": "15:30\n（予定）",
         "type": "1Q",
         "lastMentioned": "20260514",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 11.0,
+        "lastMentionedPriceChangeType": "翌営業日"
       },
       {
         "code": "7236",
@@ -696,7 +852,9 @@
         "time": "17:30\n（予定）",
         "type": "1Q",
         "lastMentioned": "20260427",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 18.5,
+        "lastMentionedPriceChangeType": "翌営業日"
       },
       {
         "code": "7480",
@@ -704,7 +862,9 @@
         "time": "15:30\n（予定）",
         "type": "1Q",
         "lastMentioned": "20260507",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 11.61,
+        "lastMentionedPriceChangeType": "翌営業日"
       },
       {
         "code": "7609",
@@ -712,7 +872,9 @@
         "time": "16:00\n（予定）",
         "type": "2Q",
         "lastMentioned": "20260507",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 13.61,
+        "lastMentionedPriceChangeType": "翌営業日"
       }
     ],
     "20260804": [
@@ -722,7 +884,9 @@
         "time": "15:30\n（予定）",
         "type": "1Q",
         "lastMentioned": "20260501",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 14.41,
+        "lastMentionedPriceChangeType": "翌営業日"
       },
       {
         "code": "6141",
@@ -730,7 +894,9 @@
         "time": "15:30\n（予定）",
         "type": "2Q",
         "lastMentioned": "20260501",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 19.63,
+        "lastMentionedPriceChangeType": "翌営業日"
       },
       {
         "code": "6809",
@@ -738,7 +904,9 @@
         "time": "15:30\n（予定）",
         "type": "1Q",
         "lastMentioned": "20260318",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 1.11,
+        "lastMentionedPriceChangeType": "翌営業日"
       }
     ],
     "20260805": [
@@ -748,7 +916,9 @@
         "time": "15:30\n（予定）",
         "type": "1Q",
         "lastMentioned": "20260304",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 7.71,
+        "lastMentionedPriceChangeType": "翌営業日"
       },
       {
         "code": "3628",
@@ -756,7 +926,9 @@
         "time": "15:30\n（予定）",
         "type": "1Q",
         "lastMentioned": "20260512",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 20.0,
+        "lastMentionedPriceChangeType": "翌営業日"
       },
       {
         "code": "4320",
@@ -764,7 +936,9 @@
         "time": "15:30\n（予定）",
         "type": "3Q",
         "lastMentioned": "20260330",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 0.75,
+        "lastMentionedPriceChangeType": "翌営業日"
       },
       {
         "code": "4911",
@@ -772,7 +946,9 @@
         "time": "15:30\n（予定）",
         "type": "2Q",
         "lastMentioned": "20260512",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": -6.14,
+        "lastMentionedPriceChangeType": "翌営業日"
       },
       {
         "code": "7075",
@@ -780,7 +956,9 @@
         "time": "12:00\n（予定）",
         "type": "1Q",
         "lastMentioned": "20260317",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 0.39,
+        "lastMentionedPriceChangeType": "同日"
       },
       {
         "code": "9127",
@@ -788,7 +966,9 @@
         "time": "14:30\n（予定）",
         "type": "1Q",
         "lastMentioned": "20260323",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": -6.86,
+        "lastMentionedPriceChangeType": "同日"
       }
     ],
     "20260806": [
@@ -798,7 +978,9 @@
         "time": "14:30\n（予定）",
         "type": "1Q",
         "lastMentioned": "20260423",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 0.82,
+        "lastMentionedPriceChangeType": "同日"
       },
       {
         "code": "7955",
@@ -806,7 +988,9 @@
         "time": "15:00\n（予定）",
         "type": "1Q",
         "lastMentioned": "20260511",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 4.39,
+        "lastMentionedPriceChangeType": "翌営業日"
       }
     ],
     "20260807": [
@@ -816,7 +1000,9 @@
         "time": "13:00\n（予定）",
         "type": "1Q",
         "lastMentioned": "20260514",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": -1.17,
+        "lastMentionedPriceChangeType": "同日"
       }
     ],
     "20260810": [
@@ -826,7 +1012,9 @@
         "time": "15:00\n（予定）",
         "type": "1Q",
         "lastMentioned": "20260430",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 7.09,
+        "lastMentionedPriceChangeType": "翌営業日"
       },
       {
         "code": "4047",
@@ -834,7 +1022,9 @@
         "time": "15:30\n（予定）",
         "type": "1Q",
         "lastMentioned": "20260515",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 24.39,
+        "lastMentionedPriceChangeType": "翌営業日"
       },
       {
         "code": "4442",
@@ -842,7 +1032,9 @@
         "time": "15:30\n（予定）",
         "type": "1Q",
         "lastMentioned": "20260423",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": -2.13,
+        "lastMentionedPriceChangeType": "翌営業日"
       },
       {
         "code": "4971",
@@ -850,7 +1042,9 @@
         "time": "15:30\n（予定）",
         "type": "2Q",
         "lastMentioned": "20260512",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 2.59,
+        "lastMentionedPriceChangeType": "翌営業日"
       },
       {
         "code": "5139",
@@ -858,7 +1052,9 @@
         "time": "12:00\n（予定）",
         "type": "2Q",
         "lastMentioned": "20260317",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": -2.77,
+        "lastMentionedPriceChangeType": "同日"
       },
       {
         "code": "8051",
@@ -866,7 +1062,9 @@
         "time": "14:00\n（予定）",
         "type": "1Q",
         "lastMentioned": "20260330",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": -2.81,
+        "lastMentionedPriceChangeType": "同日"
       }
     ],
     "20260812": [
@@ -876,7 +1074,9 @@
         "time": "15:30\n（予定）",
         "type": "1Q",
         "lastMentioned": "20260312",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 9.11,
+        "lastMentionedPriceChangeType": "翌営業日"
       },
       {
         "code": "4419",
@@ -884,7 +1084,9 @@
         "time": "15:30\n（予定）",
         "type": "1Q",
         "lastMentioned": "20260512",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 2.55,
+        "lastMentionedPriceChangeType": "翌営業日"
       },
       {
         "code": "6335",
@@ -892,7 +1094,9 @@
         "time": "15:30\n（予定）",
         "type": "1Q",
         "lastMentioned": "20260318",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 6.19,
+        "lastMentionedPriceChangeType": "翌営業日"
       },
       {
         "code": "6554",
@@ -900,7 +1104,9 @@
         "time": "15:30\n（予定）",
         "type": "3Q",
         "lastMentioned": "20260422",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 5.52,
+        "lastMentionedPriceChangeType": "翌営業日"
       },
       {
         "code": "6871",
@@ -908,7 +1114,9 @@
         "time": "15:30\n（予定）",
         "type": "2Q",
         "lastMentioned": "20260513",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 14.28,
+        "lastMentionedPriceChangeType": "翌営業日"
       },
       {
         "code": "6914",
@@ -916,7 +1124,9 @@
         "time": "15:30\n（予定）",
         "type": "2Q",
         "lastMentioned": "20260513",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 22.12,
+        "lastMentionedPriceChangeType": "翌営業日"
       },
       {
         "code": "7183",
@@ -924,7 +1134,9 @@
         "time": "11:00\n（予定）",
         "type": "1Q",
         "lastMentioned": "20260420",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": -2.26,
+        "lastMentionedPriceChangeType": "同日"
       }
     ],
     "20260813": [
@@ -934,7 +1146,9 @@
         "time": "15:30\n（予定）",
         "type": "1Q",
         "lastMentioned": "20260508",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 2.63,
+        "lastMentionedPriceChangeType": "翌営業日"
       }
     ],
     "20260814": [
@@ -944,7 +1158,9 @@
         "time": "15:30\n（予定）",
         "type": "1Q",
         "lastMentioned": "20260520",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 0.63,
+        "lastMentionedPriceChangeType": "翌営業日"
       },
       {
         "code": "2435",
@@ -952,7 +1168,9 @@
         "time": "12:00\n（予定）",
         "type": "1Q",
         "lastMentioned": "20260305",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 2.96,
+        "lastMentionedPriceChangeType": "同日"
       },
       {
         "code": "3661",
@@ -960,7 +1178,9 @@
         "time": "15:30\n（予定）",
         "type": "1Q",
         "lastMentioned": "20260626",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 9.15,
+        "lastMentionedPriceChangeType": "翌営業日"
       },
       {
         "code": "3753",
@@ -968,7 +1188,9 @@
         "time": "15:30\n（予定）",
         "type": "1Q",
         "lastMentioned": "20260520",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 30.12,
+        "lastMentionedPriceChangeType": "翌営業日"
       },
       {
         "code": "3905",
@@ -976,7 +1198,9 @@
         "time": "15:30\n（予定）",
         "type": "1Q",
         "lastMentioned": "20260515",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 21.34,
+        "lastMentionedPriceChangeType": "翌営業日"
       },
       {
         "code": "3923",
@@ -984,7 +1208,9 @@
         "time": "15:30\n（予定）",
         "type": "1Q",
         "lastMentioned": "20260427",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 4.57,
+        "lastMentionedPriceChangeType": "翌営業日"
       },
       {
         "code": "7389",
@@ -992,7 +1218,9 @@
         "time": "15:00\n（予定）",
         "type": "1Q",
         "lastMentioned": "20260326",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 3.22,
+        "lastMentionedPriceChangeType": "翌営業日"
       }
     ],
     "20260818": [
@@ -1002,7 +1230,9 @@
         "time": "15:35\n（予定）",
         "type": "本決算",
         "lastMentioned": "20260619",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 19.27,
+        "lastMentionedPriceChangeType": "翌営業日"
       }
     ]
   }

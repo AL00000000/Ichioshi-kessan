@@ -6,35 +6,42 @@
 <title>株探イチオシ決算言及銘柄 次回決算カレンダー</title>
 <style>
   :root {
-    --yellow: #fff6d9;
-    --yellow-border: #f0c419;
-    --red: #d32f2f;
-    --blue: #1a4e9e;
-    --gray-border: #ddd;
-    --bg: #fafafa;
+    --accent: #e8b23d;
+    --accent-dim: #6b5323;
+    --red: #ef5f5f;
+    --blue: #6ea8ff;
+    --border: #333844;
+    --bg: #14161c;
+    --panel: #1b1e26;
+    --panel-alt: #21252f;
+    --text: #e4e6eb;
+    --text-dim: #9aa0ab;
+    --match-bg: #3a3218;
+    --match-bg-hover: #4a3f1e;
   }
   * { box-sizing: border-box; }
   body {
     font-family: "Hiragino Kaku Gothic ProN", "Yu Gothic", sans-serif;
     background: var(--bg);
-    color: #222;
+    color: var(--text);
     margin: 0;
     padding: 20px;
   }
   h1 {
     font-size: 20px;
-    border-left: 6px solid var(--yellow-border);
+    border-left: 6px solid var(--accent);
     padding-left: 10px;
     margin-bottom: 4px;
+    color: var(--text);
   }
   .subtitle {
-    color: #666;
+    color: var(--text-dim);
     font-size: 13px;
     margin-bottom: 20px;
   }
   .meta {
     font-size: 12px;
-    color: #888;
+    color: var(--text-dim);
     margin-bottom: 20px;
   }
   .calendars {
@@ -51,37 +58,39 @@
     font-weight: bold;
     font-size: 16px;
     margin-bottom: 8px;
+    color: var(--text);
   }
   table.cal {
     width: 100%;
     border-collapse: collapse;
-    background: #fff;
+    background: var(--panel);
   }
   table.cal th {
-    background: #f0f0f0;
+    background: var(--panel-alt);
     padding: 6px 0;
     font-size: 12px;
     font-weight: normal;
-    border: 1px solid var(--gray-border);
+    border: 1px solid var(--border);
+    color: var(--text-dim);
   }
   table.cal th.sun { color: var(--red); }
   table.cal th.sat { color: var(--blue); }
   table.cal td {
-    border: 1px solid var(--gray-border);
+    border: 1px solid var(--border);
     vertical-align: top;
     height: 56px;
     padding: 4px;
     font-size: 12px;
     text-align: right;
-    color: #999;
+    color: #565c69;
   }
   table.cal td.has-match {
-    background: var(--yellow);
+    background: var(--match-bg);
     cursor: pointer;
-    color: #333;
+    color: var(--text);
   }
   table.cal td.has-match:hover {
-    background: #ffe98a;
+    background: var(--match-bg-hover);
   }
   table.cal td.today {
     outline: 2px solid var(--red);
@@ -92,13 +101,13 @@
     margin-top: 4px;
     font-size: 13px;
     font-weight: bold;
-    color: var(--red);
+    color: var(--accent);
     text-align: center;
   }
   #detail {
     margin-top: 28px;
-    background: #fff;
-    border: 1px solid var(--gray-border);
+    background: var(--panel);
+    border: 1px solid var(--border);
     border-radius: 6px;
     padding: 16px 20px;
     display: none;
@@ -106,6 +115,7 @@
   #detail h2 {
     font-size: 15px;
     margin: 0 0 12px;
+    color: var(--text);
   }
   table.detail {
     width: 100%;
@@ -113,21 +123,29 @@
     font-size: 13px;
   }
   table.detail th, table.detail td {
-    border-bottom: 1px solid var(--gray-border);
+    border-bottom: 1px solid var(--border);
     padding: 8px 6px;
     text-align: left;
   }
   table.detail th {
-    background: #f5f5f5;
+    background: var(--panel-alt);
     font-weight: normal;
-    color: #555;
+    color: var(--text-dim);
   }
   .code {
-    color: #666;
+    color: var(--text-dim);
     font-size: 11px;
   }
+  .price-up {
+    color: var(--red);
+    font-weight: bold;
+  }
+  .price-down {
+    color: var(--blue);
+    font-weight: bold;
+  }
   .empty-note {
-    color: #888;
+    color: var(--text-dim);
     font-size: 13px;
     padding: 20px;
     text-align: center;
@@ -146,7 +164,7 @@
   <h2 id="detail-title"></h2>
   <table class="detail">
     <thead>
-      <tr><th>発表時刻</th><th>銘柄名</th><th>種別</th><th>前回イチオシ決算掲載日</th></tr>
+      <tr><th>発表時刻</th><th>銘柄名</th><th>種別</th><th>前回イチオシ決算掲載日</th><th>前回の騰落率</th></tr>
     </thead>
     <tbody id="detail-body"></tbody>
   </table>
@@ -236,11 +254,19 @@ function showDetail(dateStr, items) {
   body.innerHTML = "";
   items.forEach(it => {
     const tr = document.createElement("tr");
+    let changeHtml = "―";
+    if (typeof it.lastMentionedPriceChange === "number") {
+      const pct = it.lastMentionedPriceChange;
+      const cls = pct > 0 ? "price-up" : (pct < 0 ? "price-down" : "");
+      const sign = pct > 0 ? "+" : "";
+      changeHtml = `<span class="${cls}">${sign}${pct.toFixed(2)}%</span> <span class="code">(${it.lastMentionedPriceChangeType})</span>`;
+    }
     tr.innerHTML = `
       <td>${it.time.replace("\n"," ")}</td>
       <td>${it.name} <span class="code">(${it.code})</span></td>
       <td>${it.type}</td>
       <td>${fmtMentionDate(it.lastMentioned)}${it.mentionCount > 1 ? ` (計${it.mentionCount}回)` : ""}</td>
+      <td>${changeHtml}</td>
     `;
     body.appendChild(tr);
   });
