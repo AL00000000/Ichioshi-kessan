@@ -164,7 +164,7 @@
   <h2 id="detail-title"></h2>
   <table class="detail">
     <thead>
-      <tr><th>発表時刻</th><th>銘柄名</th><th>種別</th><th>前回イチオシ決算掲載日</th><th>前回の騰落率</th></tr>
+      <tr><th>発表時刻</th><th>銘柄名</th><th>種別</th><th>前回イチオシ決算掲載日</th><th>前回の騰落率</th><th>夜間PTS(当日)</th></tr>
     </thead>
     <tbody id="detail-body"></tbody>
   </table>
@@ -245,6 +245,14 @@ function buildMonthTable(year, month, dataByDate, todayStr) {
   return block;
 }
 
+let ptsLog = {};
+
+function pctSpan(pct) {
+  const cls = pct > 0 ? "price-up" : (pct < 0 ? "price-down" : "");
+  const sign = pct > 0 ? "+" : "";
+  return `<span class="${cls}">${sign}${pct.toFixed(2)}%</span>`;
+}
+
 function showDetail(dateStr, items) {
   const detail = document.getElementById("detail");
   const title = document.getElementById("detail-title");
@@ -252,14 +260,23 @@ function showDetail(dateStr, items) {
   const y = dateStr.slice(0,4), m = dateStr.slice(4,6), d = dateStr.slice(6,8);
   title.textContent = `${y}年${parseInt(m)}月${parseInt(d)}日 発表予定 (${items.length}銘柄)`;
   body.innerHTML = "";
+  const dayPts = ptsLog[dateStr] || {};
   items.forEach(it => {
     const tr = document.createElement("tr");
     let changeHtml = "―";
     if (typeof it.lastMentionedPriceChange === "number") {
-      const pct = it.lastMentionedPriceChange;
-      const cls = pct > 0 ? "price-up" : (pct < 0 ? "price-down" : "");
-      const sign = pct > 0 ? "+" : "";
-      changeHtml = `<span class="${cls}">${sign}${pct.toFixed(2)}%</span> <span class="code">(${it.lastMentionedPriceChangeType})</span>`;
+      changeHtml = `${pctSpan(it.lastMentionedPriceChange)} <span class="code">(${it.lastMentionedPriceChangeType})</span>`;
+    }
+    let ptsHtml = "―";
+    const pts = dayPts[it.code];
+    if (pts) {
+      ptsHtml = `${pts.pts}円`;
+      if (typeof pts.changeFromClose === "number") {
+        ptsHtml += ` ${pctSpan(pts.changeFromClose)}`;
+      }
+      if (pts.ptsTime) {
+        ptsHtml += ` <span class="code">(${pts.ptsTime})</span>`;
+      }
     }
     tr.innerHTML = `
       <td>${it.time.replace("\n"," ")}</td>
@@ -267,6 +284,7 @@ function showDetail(dateStr, items) {
       <td>${it.type}</td>
       <td>${fmtMentionDate(it.lastMentioned)}${it.mentionCount > 1 ? ` (計${it.mentionCount}回)` : ""}</td>
       <td>${changeHtml}</td>
+      <td>${ptsHtml}</td>
     `;
     body.appendChild(tr);
   });
@@ -277,6 +295,10 @@ function showDetail(dateStr, items) {
 async function init() {
   const res = await fetch("data/calendar_data.json");
   const data = await res.json();
+  try {
+    const ptsRes = await fetch("data/pts_log.json");
+    if (ptsRes.ok) ptsLog = await ptsRes.json();
+  } catch (e) { /* PTSログが無くても致命的ではない */ }
 
   const meta = document.getElementById("meta");
   const g = data.generatedFrom;
