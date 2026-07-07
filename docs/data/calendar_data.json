@@ -1,0 +1,1009 @@
+{
+  "generatedFrom": {
+    "historyEntries": 85,
+    "watchlistCodes": 349,
+    "scheduleEntries": 1550
+  },
+  "days": {
+    "20260707": [
+      {
+        "code": "2726",
+        "name": "パルグループホールディングス",
+        "time": "15:30\n（実績）",
+        "type": "1Q",
+        "lastMentioned": "20260407",
+        "mentionCount": 1
+      },
+      {
+        "code": "2734",
+        "name": "サーラコーポレーション",
+        "time": "15:30\n（実績）",
+        "type": "2Q",
+        "lastMentioned": "20260707",
+        "mentionCount": 1
+      },
+      {
+        "code": "5243",
+        "name": "ｎｏｔｅ",
+        "time": "15:30\n（実績）",
+        "type": "2Q",
+        "lastMentioned": "20260707",
+        "mentionCount": 2
+      },
+      {
+        "code": "6469",
+        "name": "放電精密加工研究所",
+        "time": "16:00\n（実績）",
+        "type": "1Q",
+        "lastMentioned": "20260707",
+        "mentionCount": 2
+      },
+      {
+        "code": "9651",
+        "name": "日本プロセス",
+        "time": "16:30\n（実績）",
+        "type": "本決算",
+        "lastMentioned": "20260707",
+        "mentionCount": 2
+      }
+    ],
+    "20260708": [
+      {
+        "code": "2670",
+        "name": "エービーシー・マート",
+        "time": "15:30\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260408",
+        "mentionCount": 1
+      }
+    ],
+    "20260709": [
+      {
+        "code": "2341",
+        "name": "アルバイトタイムス",
+        "time": "15:30\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260409",
+        "mentionCount": 2
+      },
+      {
+        "code": "2809",
+        "name": "キユーピー",
+        "time": "15:30\n（予定）",
+        "type": "2Q",
+        "lastMentioned": "20260409",
+        "mentionCount": 1
+      },
+      {
+        "code": "4187",
+        "name": "大阪有機化学工業",
+        "time": "15:30\n（予定）",
+        "type": "2Q",
+        "lastMentioned": "20260702",
+        "mentionCount": 1
+      },
+      {
+        "code": "4825",
+        "name": "ウェザーニューズ",
+        "time": "15:30\n（予定）",
+        "type": "本決算",
+        "lastMentioned": "20260518",
+        "mentionCount": 1
+      },
+      {
+        "code": "6323",
+        "name": "ローツェ",
+        "time": "15:30\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260409",
+        "mentionCount": 1
+      },
+      {
+        "code": "7649",
+        "name": "スギホールディングス",
+        "time": "15:30\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260409",
+        "mentionCount": 1
+      },
+      {
+        "code": "9983",
+        "name": "ファーストリテイリング",
+        "time": "15:31\n（予定）",
+        "type": "3Q",
+        "lastMentioned": "20260409",
+        "mentionCount": 1
+      }
+    ],
+    "20260710": [
+      {
+        "code": "2653",
+        "name": "イオン九州",
+        "time": "15:30\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260324",
+        "mentionCount": 1
+      },
+      {
+        "code": "2999",
+        "name": "ホームポジション",
+        "time": "15:30\n（予定）",
+        "type": "3Q",
+        "lastMentioned": "20260410",
+        "mentionCount": 1
+      },
+      {
+        "code": "3063",
+        "name": "ジェイグループホールディングス",
+        "time": "15:30\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260528",
+        "mentionCount": 1
+      },
+      {
+        "code": "4343",
+        "name": "イオンファンタジー",
+        "time": "15:30\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260406",
+        "mentionCount": 1
+      },
+      {
+        "code": "4577",
+        "name": "ダイト",
+        "time": "15:30\n（予定）",
+        "type": "本決算",
+        "lastMentioned": "20260410",
+        "mentionCount": 1
+      },
+      {
+        "code": "4760",
+        "name": "アルファ",
+        "time": "15:30\n（予定）",
+        "type": "3Q",
+        "lastMentioned": "20260406",
+        "mentionCount": 1
+      },
+      {
+        "code": "5967",
+        "name": "ＴＯＮＥ",
+        "time": "15:30\n（予定）",
+        "type": "本決算",
+        "lastMentioned": "20260630",
+        "mentionCount": 1
+      },
+      {
+        "code": "6136",
+        "name": "オーエスジー",
+        "time": "15:30\n（予定）",
+        "type": "2Q",
+        "lastMentioned": "20260702",
+        "mentionCount": 1
+      },
+      {
+        "code": "6506",
+        "name": "安川電機",
+        "time": "16:00\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260410",
+        "mentionCount": 1
+      },
+      {
+        "code": "7487",
+        "name": "小津産業",
+        "time": "15:45\n（予定）",
+        "type": "本決算",
+        "lastMentioned": "20260630",
+        "mentionCount": 1
+      },
+      {
+        "code": "9270",
+        "name": "バリュエンスホールディングス",
+        "time": "16:00\n（予定）",
+        "type": "3Q",
+        "lastMentioned": "20260410",
+        "mentionCount": 1
+      }
+    ],
+    "20260713": [
+      {
+        "code": "4443",
+        "name": "Ｓａｎｓａｎ",
+        "time": "15:30\n（予定）",
+        "type": "本決算",
+        "lastMentioned": "20260519",
+        "mentionCount": 1
+      },
+      {
+        "code": "463A",
+        "name": "インテリックスホールディングス",
+        "time": "未定",
+        "type": "本決算",
+        "lastMentioned": "20260428",
+        "mentionCount": 1
+      },
+      {
+        "code": "7085",
+        "name": "カーブスホールディングス",
+        "time": "15:30\n（予定）",
+        "type": "3Q",
+        "lastMentioned": "20260413",
+        "mentionCount": 1
+      },
+      {
+        "code": "7513",
+        "name": "コジマ",
+        "time": "15:30\n（予定）",
+        "type": "3Q",
+        "lastMentioned": "20260409",
+        "mentionCount": 1
+      },
+      {
+        "code": "9278",
+        "name": "ブックオフグループホールディングス",
+        "time": "15:30\n（予定）",
+        "type": "本決算",
+        "lastMentioned": "20260413",
+        "mentionCount": 1
+      }
+    ],
+    "20260714": [
+      {
+        "code": "135A",
+        "name": "ＶＲＡＩＮ　Ｓｏｌｕｔｉｏｎ",
+        "time": "16:00\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260414",
+        "mentionCount": 1
+      },
+      {
+        "code": "1434",
+        "name": "ＪＥＳＣＯホールディングス",
+        "time": "15:30\n（予定）",
+        "type": "3Q",
+        "lastMentioned": "20260413",
+        "mentionCount": 1
+      },
+      {
+        "code": "3608",
+        "name": "ＴＳＩホールディングス",
+        "time": "15:30\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260410",
+        "mentionCount": 1
+      },
+      {
+        "code": "3627",
+        "name": "テクミラホールディングス",
+        "time": "15:30\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260410",
+        "mentionCount": 2
+      },
+      {
+        "code": "365A",
+        "name": "伊澤タオル",
+        "time": "16:00\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260319",
+        "mentionCount": 1
+      },
+      {
+        "code": "464A",
+        "name": "ＱＰＳホールディングス",
+        "time": "未定",
+        "type": "本決算",
+        "lastMentioned": "20260701",
+        "mentionCount": 1
+      },
+      {
+        "code": "4885",
+        "name": "室町ケミカル",
+        "time": "16:00\n（予定）",
+        "type": "本決算",
+        "lastMentioned": "20260414",
+        "mentionCount": 1
+      },
+      {
+        "code": "505A",
+        "name": "ギークリー",
+        "time": "未定",
+        "type": "本決算",
+        "lastMentioned": "20260413",
+        "mentionCount": 1
+      },
+      {
+        "code": "5246",
+        "name": "ＥＬＥＭＥＮＴＳ",
+        "time": "16:00\n（予定）",
+        "type": "2Q",
+        "lastMentioned": "20260413",
+        "mentionCount": 1
+      },
+      {
+        "code": "5578",
+        "name": "ＡＲアドバンストテクノロジ",
+        "time": "16:00\n（予定）",
+        "type": "3Q",
+        "lastMentioned": "20260413",
+        "mentionCount": 1
+      },
+      {
+        "code": "5885",
+        "name": "ジーデップ・アドバンス",
+        "time": "15:30\n（予定）",
+        "type": "本決算",
+        "lastMentioned": "20260615",
+        "mentionCount": 1
+      },
+      {
+        "code": "7673",
+        "name": "ダイコー通産",
+        "time": "15:30\n（予定）",
+        "type": "本決算",
+        "lastMentioned": "20260518",
+        "mentionCount": 1
+      }
+    ],
+    "20260715": [
+      {
+        "code": "3021",
+        "name": "パシフィックネット",
+        "time": "12:30\n（予定）",
+        "type": "本決算",
+        "lastMentioned": "20260414",
+        "mentionCount": 1
+      },
+      {
+        "code": "3915",
+        "name": "テラスカイ",
+        "time": "15:30\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260414",
+        "mentionCount": 1
+      },
+      {
+        "code": "4434",
+        "name": "サーバーワークス",
+        "time": "11:30\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260414",
+        "mentionCount": 1
+      },
+      {
+        "code": "6182",
+        "name": "メタリアル",
+        "time": "15:30\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260407",
+        "mentionCount": 1
+      },
+      {
+        "code": "6505",
+        "name": "東洋電機製造",
+        "time": "15:30\n（予定）",
+        "type": "本決算",
+        "lastMentioned": "20260413",
+        "mentionCount": 1
+      },
+      {
+        "code": "6532",
+        "name": "ベイカレント",
+        "time": "15:30\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260414",
+        "mentionCount": 1
+      },
+      {
+        "code": "6552",
+        "name": "ＧａｍｅＷｉｔｈ",
+        "time": "15:30\n（予定）",
+        "type": "本決算",
+        "lastMentioned": "20260408",
+        "mentionCount": 1
+      },
+      {
+        "code": "6866",
+        "name": "日置電機",
+        "time": "15:30\n（予定）",
+        "type": "2Q",
+        "lastMentioned": "20260605",
+        "mentionCount": 2
+      },
+      {
+        "code": "7730",
+        "name": "マニー",
+        "time": "15:30\n（予定）",
+        "type": "3Q",
+        "lastMentioned": "20260414",
+        "mentionCount": 1
+      },
+      {
+        "code": "7818",
+        "name": "トランザクション",
+        "time": "15:30\n（予定）",
+        "type": "3Q",
+        "lastMentioned": "20260407",
+        "mentionCount": 1
+      }
+    ],
+    "20260722": [
+      {
+        "code": "3091",
+        "name": "ブロンコビリー",
+        "time": "15:30\n（予定）",
+        "type": "2Q",
+        "lastMentioned": "20260421",
+        "mentionCount": 1
+      },
+      {
+        "code": "4684",
+        "name": "オービック",
+        "time": "15:30\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260421",
+        "mentionCount": 1
+      },
+      {
+        "code": "5576",
+        "name": "オービーシステム",
+        "time": "16:00\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260422",
+        "mentionCount": 1
+      }
+    ],
+    "20260723": [
+      {
+        "code": "6146",
+        "name": "ディスコ",
+        "time": "16:00\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260422",
+        "mentionCount": 1
+      }
+    ],
+    "20260724": [
+      {
+        "code": "6629",
+        "name": "テクノホライゾン",
+        "time": "16:00\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260424",
+        "mentionCount": 1
+      },
+      {
+        "code": "6653",
+        "name": "正興電機製作所",
+        "time": "15:30\n（予定）",
+        "type": "2Q",
+        "lastMentioned": "20260422",
+        "mentionCount": 1
+      },
+      {
+        "code": "7175",
+        "name": "今村証券",
+        "time": "15:30\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260417",
+        "mentionCount": 2
+      },
+      {
+        "code": "8060",
+        "name": "キヤノンマーケティングジャパン",
+        "time": "15:30\n（予定）",
+        "type": "2Q",
+        "lastMentioned": "20260422",
+        "mentionCount": 1
+      }
+    ],
+    "20260728": [
+      {
+        "code": "1930",
+        "name": "北陸電気工事",
+        "time": "13:00\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260428",
+        "mentionCount": 1
+      },
+      {
+        "code": "5279",
+        "name": "日本興業",
+        "time": "16:30\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260422",
+        "mentionCount": 1
+      },
+      {
+        "code": "7735",
+        "name": "ＳＣＲＥＥＮホールディングス",
+        "time": "15:45\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260513",
+        "mentionCount": 1
+      }
+    ],
+    "20260729": [
+      {
+        "code": "1944",
+        "name": "きんでん",
+        "time": "15:30\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260427",
+        "mentionCount": 1
+      },
+      {
+        "code": "1946",
+        "name": "トーエネック",
+        "time": "15:30\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260428",
+        "mentionCount": 1
+      },
+      {
+        "code": "3793",
+        "name": "ドリコム",
+        "time": "15:30\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260512",
+        "mentionCount": 1
+      },
+      {
+        "code": "6857",
+        "name": "アドバンテスト",
+        "time": "15:30\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260427",
+        "mentionCount": 1
+      },
+      {
+        "code": "8137",
+        "name": "サンワテクノス",
+        "time": "16:00\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260508",
+        "mentionCount": 1
+      },
+      {
+        "code": "8572",
+        "name": "アコム",
+        "time": "15:30\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260420",
+        "mentionCount": 1
+      },
+      {
+        "code": "8708",
+        "name": "アイザワ証券グループ",
+        "time": "14:00\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260323",
+        "mentionCount": 1
+      }
+    ],
+    "20260730": [
+      {
+        "code": "4307",
+        "name": "野村総合研究所",
+        "time": "15:30\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260424",
+        "mentionCount": 1
+      },
+      {
+        "code": "4552",
+        "name": "ＪＣＲファーマ",
+        "time": "16:00\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260511",
+        "mentionCount": 1
+      },
+      {
+        "code": "5333",
+        "name": "ＮＧＫ",
+        "time": "15:40\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260324",
+        "mentionCount": 1
+      },
+      {
+        "code": "6454",
+        "name": "マックス",
+        "time": "15:30\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260309",
+        "mentionCount": 1
+      },
+      {
+        "code": "6754",
+        "name": "アンリツ",
+        "time": "15:30\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260427",
+        "mentionCount": 1
+      },
+      {
+        "code": "6971",
+        "name": "京セラ",
+        "time": "15:30\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260430",
+        "mentionCount": 1
+      },
+      {
+        "code": "8609",
+        "name": "岡三証券グループ",
+        "time": "11:00\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260326",
+        "mentionCount": 1
+      },
+      {
+        "code": "8613",
+        "name": "丸三証券",
+        "time": "12:00\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260415",
+        "mentionCount": 2
+      }
+    ],
+    "20260731": [
+      {
+        "code": "2053",
+        "name": "中部飼料",
+        "time": "14:00\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260423",
+        "mentionCount": 1
+      },
+      {
+        "code": "8473",
+        "name": "ＳＢＩホールディングス",
+        "time": "10:15\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260625",
+        "mentionCount": 1
+      },
+      {
+        "code": "8616",
+        "name": "東海東京フィナンシャル・ホールディングス",
+        "time": "11:00\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260326",
+        "mentionCount": 1
+      }
+    ],
+    "20260803": [
+      {
+        "code": "6018",
+        "name": "阪神内燃機工業",
+        "time": "15:30\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260422",
+        "mentionCount": 1
+      },
+      {
+        "code": "6134",
+        "name": "ＦＵＪＩ",
+        "time": "15:30\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260514",
+        "mentionCount": 1
+      },
+      {
+        "code": "7236",
+        "name": "ティラド",
+        "time": "17:30\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260427",
+        "mentionCount": 1
+      },
+      {
+        "code": "7480",
+        "name": "スズデン",
+        "time": "15:30\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260507",
+        "mentionCount": 1
+      },
+      {
+        "code": "7609",
+        "name": "ダイトロン",
+        "time": "16:00\n（予定）",
+        "type": "2Q",
+        "lastMentioned": "20260507",
+        "mentionCount": 1
+      }
+    ],
+    "20260804": [
+      {
+        "code": "5857",
+        "name": "ＡＲＥホールディングス",
+        "time": "15:30\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260501",
+        "mentionCount": 1
+      },
+      {
+        "code": "6141",
+        "name": "ＤＭＧ森精機",
+        "time": "15:30\n（予定）",
+        "type": "2Q",
+        "lastMentioned": "20260501",
+        "mentionCount": 1
+      },
+      {
+        "code": "6809",
+        "name": "ＴＯＡ",
+        "time": "15:30\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260318",
+        "mentionCount": 1
+      }
+    ],
+    "20260805": [
+      {
+        "code": "2307",
+        "name": "クロスキャット",
+        "time": "15:30\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260304",
+        "mentionCount": 1
+      },
+      {
+        "code": "3628",
+        "name": "データホライゾン",
+        "time": "15:30\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260512",
+        "mentionCount": 1
+      },
+      {
+        "code": "4320",
+        "name": "ＣＥホールディングス",
+        "time": "15:30\n（予定）",
+        "type": "3Q",
+        "lastMentioned": "20260330",
+        "mentionCount": 1
+      },
+      {
+        "code": "4911",
+        "name": "資生堂",
+        "time": "15:30\n（予定）",
+        "type": "2Q",
+        "lastMentioned": "20260512",
+        "mentionCount": 1
+      },
+      {
+        "code": "7075",
+        "name": "ＱＬＳホールディングス",
+        "time": "12:00\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260317",
+        "mentionCount": 1
+      },
+      {
+        "code": "9127",
+        "name": "玉井商船",
+        "time": "14:30\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260323",
+        "mentionCount": 1
+      }
+    ],
+    "20260806": [
+      {
+        "code": "6332",
+        "name": "月島ホールディングス",
+        "time": "14:30\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260423",
+        "mentionCount": 1
+      },
+      {
+        "code": "7955",
+        "name": "クリナップ",
+        "time": "15:00\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260511",
+        "mentionCount": 1
+      }
+    ],
+    "20260807": [
+      {
+        "code": "4619",
+        "name": "日本特殊塗料",
+        "time": "13:00\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260514",
+        "mentionCount": 1
+      }
+    ],
+    "20260810": [
+      {
+        "code": "1867",
+        "name": "植木組",
+        "time": "15:00\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260430",
+        "mentionCount": 1
+      },
+      {
+        "code": "4047",
+        "name": "関東電化工業",
+        "time": "15:30\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260515",
+        "mentionCount": 1
+      },
+      {
+        "code": "4442",
+        "name": "バルテス・ホールディングス",
+        "time": "15:30\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260423",
+        "mentionCount": 1
+      },
+      {
+        "code": "4971",
+        "name": "メック",
+        "time": "15:30\n（予定）",
+        "type": "2Q",
+        "lastMentioned": "20260512",
+        "mentionCount": 1
+      },
+      {
+        "code": "5139",
+        "name": "オープンワーク",
+        "time": "12:00\n（予定）",
+        "type": "2Q",
+        "lastMentioned": "20260317",
+        "mentionCount": 1
+      },
+      {
+        "code": "8051",
+        "name": "山善",
+        "time": "14:00\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260330",
+        "mentionCount": 1
+      }
+    ],
+    "20260812": [
+      {
+        "code": "4259",
+        "name": "エクサウィザーズ",
+        "time": "15:30\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260312",
+        "mentionCount": 1
+      },
+      {
+        "code": "4419",
+        "name": "Ｆｉｎａｔｅｘｔホールディングス",
+        "time": "15:30\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260512",
+        "mentionCount": 1
+      },
+      {
+        "code": "6335",
+        "name": "東京機械製作所",
+        "time": "15:30\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260318",
+        "mentionCount": 1
+      },
+      {
+        "code": "6554",
+        "name": "エスユーエス",
+        "time": "15:30\n（予定）",
+        "type": "3Q",
+        "lastMentioned": "20260422",
+        "mentionCount": 1
+      },
+      {
+        "code": "6871",
+        "name": "日本マイクロニクス",
+        "time": "15:30\n（予定）",
+        "type": "2Q",
+        "lastMentioned": "20260513",
+        "mentionCount": 1
+      },
+      {
+        "code": "6914",
+        "name": "オプテックスグループ",
+        "time": "15:30\n（予定）",
+        "type": "2Q",
+        "lastMentioned": "20260513",
+        "mentionCount": 1
+      },
+      {
+        "code": "7183",
+        "name": "あんしん保証",
+        "time": "11:00\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260420",
+        "mentionCount": 1
+      }
+    ],
+    "20260813": [
+      {
+        "code": "2780",
+        "name": "コメ兵ホールディングス",
+        "time": "15:30\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260508",
+        "mentionCount": 1
+      }
+    ],
+    "20260814": [
+      {
+        "code": "2340",
+        "name": "極楽湯ホールディングス",
+        "time": "15:30\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260520",
+        "mentionCount": 1
+      },
+      {
+        "code": "2435",
+        "name": "シダー",
+        "time": "12:00\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260305",
+        "mentionCount": 1
+      },
+      {
+        "code": "3661",
+        "name": "エムアップホールディングス",
+        "time": "15:30\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260626",
+        "mentionCount": 1
+      },
+      {
+        "code": "3753",
+        "name": "フライトソリューションズ",
+        "time": "15:30\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260520",
+        "mentionCount": 1
+      },
+      {
+        "code": "3905",
+        "name": "データセクション",
+        "time": "15:30\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260515",
+        "mentionCount": 1
+      },
+      {
+        "code": "3923",
+        "name": "ラクス",
+        "time": "15:30\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260427",
+        "mentionCount": 1
+      },
+      {
+        "code": "7389",
+        "name": "あいちフィナンシャルグループ",
+        "time": "15:00\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260326",
+        "mentionCount": 1
+      }
+    ],
+    "20260818": [
+      {
+        "code": "6327",
+        "name": "北川精機",
+        "time": "15:35\n（予定）",
+        "type": "本決算",
+        "lastMentioned": "20260619",
+        "mentionCount": 1
+      }
+    ]
+  }
+}

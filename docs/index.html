@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>イチオシ決算 再登場カレンダー</title>
+<style>
+  :root {
+    --yellow: #fff6d9;
+    --yellow-border: #f0c419;
+    --red: #d32f2f;
+    --blue: #1a4e9e;
+    --gray-border: #ddd;
+    --bg: #fafafa;
+  }
+  * { box-sizing: border-box; }
+  body {
+    font-family: "Hiragino Kaku Gothic ProN", "Yu Gothic", sans-serif;
+    background: var(--bg);
+    color: #222;
+    margin: 0;
+    padding: 20px;
+  }
+  h1 {
+    font-size: 20px;
+    border-left: 6px solid var(--yellow-border);
+    padding-left: 10px;
+    margin-bottom: 4px;
+  }
+  .subtitle {
+    color: #666;
+    font-size: 13px;
+    margin-bottom: 20px;
+  }
+  .meta {
+    font-size: 12px;
+    color: #888;
+    margin-bottom: 20px;
+  }
+  .calendars {
+    display: flex;
+    gap: 24px;
+    flex-wrap: wrap;
+  }
+  .cal-block {
+    flex: 1 1 380px;
+    min-width: 320px;
+  }
+  .cal-title {
+    text-align: center;
+    font-weight: bold;
+    font-size: 16px;
+    margin-bottom: 8px;
+  }
+  table.cal {
+    width: 100%;
+    border-collapse: collapse;
+    background: #fff;
+  }
+  table.cal th {
+    background: #f0f0f0;
+    padding: 6px 0;
+    font-size: 12px;
+    font-weight: normal;
+    border: 1px solid var(--gray-border);
+  }
+  table.cal th.sun { color: var(--red); }
+  table.cal th.sat { color: var(--blue); }
+  table.cal td {
+    border: 1px solid var(--gray-border);
+    vertical-align: top;
+    height: 56px;
+    padding: 4px;
+    font-size: 12px;
+    text-align: right;
+    color: #999;
+  }
+  table.cal td.has-match {
+    background: var(--yellow);
+    cursor: pointer;
+    color: #333;
+  }
+  table.cal td.has-match:hover {
+    background: #ffe98a;
+  }
+  table.cal td.today {
+    outline: 2px solid var(--red);
+    outline-offset: -2px;
+  }
+  .count-badge {
+    display: block;
+    margin-top: 4px;
+    font-size: 13px;
+    font-weight: bold;
+    color: var(--red);
+    text-align: center;
+  }
+  #detail {
+    margin-top: 28px;
+    background: #fff;
+    border: 1px solid var(--gray-border);
+    border-radius: 6px;
+    padding: 16px 20px;
+    display: none;
+  }
+  #detail h2 {
+    font-size: 15px;
+    margin: 0 0 12px;
+  }
+  table.detail {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 13px;
+  }
+  table.detail th, table.detail td {
+    border-bottom: 1px solid var(--gray-border);
+    padding: 8px 6px;
+    text-align: left;
+  }
+  table.detail th {
+    background: #f5f5f5;
+    font-weight: normal;
+    color: #555;
+  }
+  .code {
+    color: #666;
+    font-size: 11px;
+  }
+  .empty-note {
+    color: #888;
+    font-size: 13px;
+    padding: 20px;
+    text-align: center;
+  }
+</style>
+</head>
+<body>
+
+<h1>イチオシ決算 再登場カレンダー</h1>
+<div class="subtitle">株探「イチオシ決算」で過去に言及された銘柄が、次はいつ決算発表するかを一覧表示します</div>
+<div class="meta" id="meta"></div>
+
+<div class="calendars" id="calendars"></div>
+
+<div id="detail">
+  <h2 id="detail-title"></h2>
+  <table class="detail">
+    <thead>
+      <tr><th>発表時刻</th><th>銘柄名</th><th>種別</th><th>前回イチオシ決算掲載日</th></tr>
+    </thead>
+    <tbody id="detail-body"></tbody>
+  </table>
+</div>
+
+<script>
+const WEEKDAYS = ["日","月","火","水","木","金","土"];
+
+function fmtMentionDate(yyyymmdd) {
+  return `${yyyymmdd.slice(0,4)}/${yyyymmdd.slice(4,6)}/${yyyymmdd.slice(6,8)}`;
+}
+
+function buildMonthTable(year, month, dataByDate, todayStr) {
+  const block = document.createElement("div");
+  block.className = "cal-block";
+
+  const title = document.createElement("div");
+  title.className = "cal-title";
+  title.textContent = `${year}年${month}月`;
+  block.appendChild(title);
+
+  const table = document.createElement("table");
+  table.className = "cal";
+
+  const thead = document.createElement("thead");
+  const trh = document.createElement("tr");
+  WEEKDAYS.forEach((w, i) => {
+    const th = document.createElement("th");
+    th.textContent = w;
+    if (i === 0) th.className = "sun";
+    if (i === 6) th.className = "sat";
+    trh.appendChild(th);
+  });
+  thead.appendChild(trh);
+  table.appendChild(thead);
+
+  const tbody = document.createElement("tbody");
+  const first = new Date(year, month - 1, 1);
+  const startWeekday = first.getDay();
+  const daysInMonth = new Date(year, month, 0).getDate();
+
+  let day = 1;
+  let row = document.createElement("tr");
+  for (let i = 0; i < startWeekday; i++) {
+    row.appendChild(document.createElement("td"));
+  }
+  let col = startWeekday;
+  while (day <= daysInMonth) {
+    if (col === 7) {
+      tbody.appendChild(row);
+      row = document.createElement("tr");
+      col = 0;
+    }
+    const dateStr = `${year}${String(month).padStart(2,"0")}${String(day).padStart(2,"0")}`;
+    const td = document.createElement("td");
+    const items = dataByDate[dateStr];
+    td.innerHTML = String(day);
+    if (dateStr === todayStr) td.classList.add("today");
+    if (items && items.length) {
+      td.classList.add("has-match");
+      const badge = document.createElement("span");
+      badge.className = "count-badge";
+      badge.textContent = `${items.length}件`;
+      td.appendChild(badge);
+      td.addEventListener("click", () => showDetail(dateStr, items));
+    }
+    row.appendChild(td);
+    day++;
+    col++;
+  }
+  while (col < 7 && col !== 0) {
+    row.appendChild(document.createElement("td"));
+    col++;
+  }
+  tbody.appendChild(row);
+  table.appendChild(tbody);
+  block.appendChild(table);
+  return block;
+}
+
+function showDetail(dateStr, items) {
+  const detail = document.getElementById("detail");
+  const title = document.getElementById("detail-title");
+  const body = document.getElementById("detail-body");
+  const y = dateStr.slice(0,4), m = dateStr.slice(4,6), d = dateStr.slice(6,8);
+  title.textContent = `${y}年${parseInt(m)}月${parseInt(d)}日 発表予定 (${items.length}銘柄)`;
+  body.innerHTML = "";
+  items.forEach(it => {
+    const tr = document.createElement("tr");
+    tr.innerHTML = `
+      <td>${it.time.replace("\n"," ")}</td>
+      <td>${it.name} <span class="code">(${it.code})</span></td>
+      <td>${it.type}</td>
+      <td>${fmtMentionDate(it.lastMentioned)}${it.mentionCount > 1 ? ` (計${it.mentionCount}回)` : ""}</td>
+    `;
+    body.appendChild(tr);
+  });
+  detail.style.display = "block";
+  detail.scrollIntoView({behavior: "smooth", block: "nearest"});
+}
+
+async function init() {
+  const res = await fetch("data/calendar_data.json");
+  const data = await res.json();
+
+  const meta = document.getElementById("meta");
+  const g = data.generatedFrom;
+  meta.textContent = `イチオシ決算 言及銘柄 ${g.watchlistCodes}件 / 決算スケジュール ${g.scheduleEntries}件 と突き合わせ`;
+
+  const dates = Object.keys(data.days);
+  const today = new Date();
+  const todayStr = `${today.getFullYear()}${String(today.getMonth()+1).padStart(2,"0")}${String(today.getDate()).padStart(2,"0")}`;
+
+  const container = document.getElementById("calendars");
+  const months = new Set();
+  months.add(`${today.getFullYear()}-${today.getMonth()+1}`);
+  dates.forEach(d => months.add(`${d.slice(0,4)}-${parseInt(d.slice(4,6))}`));
+  const sortedMonths = [...months].sort();
+
+  sortedMonths.forEach(key => {
+    const [y, m] = key.split("-").map(Number);
+    container.appendChild(buildMonthTable(y, m, data.days, todayStr));
+  });
+
+  if (dates.length === 0) {
+    container.innerHTML = '<div class="empty-note">該当する銘柄が見つかりませんでした</div>';
+  }
+}
+
+init();
+</script>
+</body>
+</html>
