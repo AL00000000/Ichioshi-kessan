@@ -164,7 +164,7 @@
   <h2 id="detail-title"></h2>
   <table class="detail">
     <thead>
-      <tr><th>発表時刻</th><th>銘柄名</th><th>種別</th><th>前回イチオシ決算掲載日</th><th>前回の騰落率</th><th>夜間PTS(当日)</th></tr>
+      <tr><th>発表時刻</th><th>銘柄名</th><th>種別</th><th>決算前5営業日の騰落率</th><th>前回イチオシ決算掲載日</th><th>前回の騰落率</th><th>夜間PTS(当日)</th></tr>
     </thead>
     <tbody id="detail-body"></tbody>
   </table>
@@ -267,6 +267,10 @@ function showDetail(dateStr, items) {
     if (typeof it.lastMentionedPriceChange === "number") {
       changeHtml = `${pctSpan(it.lastMentionedPriceChange)} <span class="code">(${it.lastMentionedPriceChangeType})</span>`;
     }
+    let preEarningsHtml = "―";
+    if (typeof it.preEarningsChange === "number") {
+      preEarningsHtml = pctSpan(it.preEarningsChange);
+    }
     let ptsHtml = "―";
     const pts = dayPts[it.code];
     if (pts) {
@@ -282,6 +286,7 @@ function showDetail(dateStr, items) {
       <td>${it.time.replace("\n"," ")}</td>
       <td>${it.name} <span class="code">(${it.code})</span></td>
       <td>${it.type}</td>
+      <td>${preEarningsHtml}</td>
       <td>${fmtMentionDate(it.lastMentioned)}${it.mentionCount > 1 ? ` (計${it.mentionCount}回)` : ""}</td>
       <td>${changeHtml}</td>
       <td>${ptsHtml}</td>
