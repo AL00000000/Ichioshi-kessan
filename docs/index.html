@@ -290,6 +290,12 @@ function showDetail(dateStr, items) {
       if (highPct !== null) {
         ptsHtml += ` / 高${pctSpan(highPct)} <span class="code">(${highTime})</span>`;
       }
+    } else if (typeof pts.ptsLegacy === "number") {
+      // 旧方式(始値/高値を分けず、深夜時点の1点だけ記録していた頃のデータ)
+      const legacyPct = pctFromRef(pts.ptsLegacy);
+      if (legacyPct !== null) {
+        ptsHtml = `${pctSpan(legacyPct)} <span class="code">(${pts.ptsLegacyTime})</span>`;
+      }
     }
     let nextDayHtml = "―";
     if (typeof pts.nextDayHigh === "number" || typeof pts.nextDayClose === "number") {
