@@ -114,6 +114,15 @@ def get_pre_earnings_momentum(code: str, earnings_date: str, lookback_days: int 
     return {"pct": pct, "fromDate": rows[idx_before][0]}
 
 
+def get_reference_close(code: str, earnings_date: str):
+    """決算発表日当日の終値。PTS等の騰落率表示の基準値として使う。"""
+    rows = fetch_price_rows(code)
+    dates = [d for d, _, _ in rows]
+    if earnings_date not in dates:
+        return None
+    return rows[dates.index(earnings_date)][1]
+
+
 def main():
     data = json.loads(CALENDAR_PATH.read_text(encoding="utf-8"))
     total = 0
@@ -122,6 +131,10 @@ def main():
     for date_str, items in data["days"].items():
         for item in items:
             total += 1
+
+            ref_close = get_reference_close(item["code"], date_str)
+            if ref_close is not None:
+                item["referenceClose"] = ref_close
             change = get_price_change(item["code"], item["lastMentioned"], item["time"])
             if change:
                 item["lastMentionedPriceChange"] = change["pct"]

@@ -272,26 +272,37 @@ function showDetail(dateStr, items) {
       preEarningsHtml = pctSpan(it.preEarningsChange);
     }
     const pts = dayPts[it.code] || {};
+    const refClose = it.referenceClose;
+
+    function pctFromRef(price) {
+      if (typeof price !== "number" || typeof refClose !== "number" || !refClose) return null;
+      return (price - refClose) / refClose * 100;
+    }
+
     let ptsHtml = "―";
     if (typeof pts.ptsOpen === "number") {
       const high = typeof pts.ptsHighFinal === "number" ? pts.ptsHighFinal
         : (typeof pts.ptsHighEarly === "number" ? pts.ptsHighEarly : null);
       const highTime = pts.ptsHighFinalTime || pts.ptsHighEarlyTime || "";
-      ptsHtml = `始${pts.ptsOpen}円`;
-      if (high !== null) {
-        ptsHtml += ` / 高${high}円 <span class="code">(${highTime})</span>`;
+      const openPct = pctFromRef(pts.ptsOpen);
+      const highPct = pctFromRef(high);
+      ptsHtml = openPct !== null ? `始${pctSpan(openPct)}` : "始―";
+      if (highPct !== null) {
+        ptsHtml += ` / 高${pctSpan(highPct)} <span class="code">(${highTime})</span>`;
       }
     }
     let nextDayHtml = "―";
     if (typeof pts.nextDayHigh === "number" || typeof pts.nextDayClose === "number") {
       const parts = [];
-      if (typeof pts.nextDayHigh === "number") {
-        parts.push(`高${pts.nextDayHigh}円${pts.nextDayHighTime ? ` <span class="code">(${pts.nextDayHighTime})</span>` : ""}`);
+      const highPct = pctFromRef(pts.nextDayHigh);
+      const closePct = pctFromRef(pts.nextDayClose);
+      if (highPct !== null) {
+        parts.push(`高${pctSpan(highPct)}${pts.nextDayHighTime ? ` <span class="code">(${pts.nextDayHighTime})</span>` : ""}`);
       }
-      if (typeof pts.nextDayClose === "number") {
-        parts.push(`終${pts.nextDayClose}円`);
+      if (closePct !== null) {
+        parts.push(`終${pctSpan(closePct)}`);
       }
-      nextDayHtml = parts.join(" / ");
+      nextDayHtml = parts.length ? parts.join(" / ") : "―";
     }
     tr.innerHTML = `
       <td>${it.time.replace("\n"," ")}</td>
@@ -310,10 +321,10 @@ function showDetail(dateStr, items) {
 }
 
 async function init() {
-  const res = await fetch("data/calendar_data.json");
+  const res = await fetch("data/calendar_data.json", {cache: "no-store"});
   const data = await res.json();
   try {
-    const ptsRes = await fetch("data/pts_detail_log.json");
+    const ptsRes = await fetch("data/pts_detail_log.json", {cache: "no-store"});
     if (ptsRes.ok) ptsLog = await ptsRes.json();
   } catch (e) { /* PTSログが無くても致命的ではない */ }
 
