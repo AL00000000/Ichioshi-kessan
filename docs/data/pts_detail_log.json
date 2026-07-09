@@ -1,0 +1,38 @@
+{
+  "20260708": {
+    "2670": {
+      "name": "エービーシー・マート",
+      "ptsHighFinal": 2805.1,
+      "ptsHighFinalTime": "17:21　07/08",
+      "nextDayHigh": 2631.5,
+      "nextDayHighTime": "09:19",
+      "nextDayClose": 2592.0
+    }
+  },
+  "20260707": {
+    "2726": {
+      "name": "パルグループホールディングス",
+      "nextDayHigh": 1522.0,
+      "nextDayClose": 1470.0,
+      "nextDayHighTime": null
+    },
+    "5243": {
+      "name": "ｎｏｔｅ",
+      "nextDayHigh": 2499.0,
+      "nextDayClose": 2289.0,
+      "nextDayHighTime": null
+    },
+    "6469": {
+      "name": "放電精密加工研究所",
+      "nextDayHigh": 3235.0,
+      "nextDayClose": 3235.0,
+      "nextDayHighTime": null
+    },
+    "9651": {
+      "name": "日本プロセス",
+      "nextDayHigh": 2014.0,
+      "nextDayClose": 2014.0,
+      "nextDayHighTime": null
+    }
+  }
+}

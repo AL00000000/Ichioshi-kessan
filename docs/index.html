@@ -164,7 +164,7 @@
   <h2 id="detail-title"></h2>
   <table class="detail">
     <thead>
-      <tr><th>発表時刻</th><th>銘柄名</th><th>種別</th><th>決算前5営業日の騰落率</th><th>前回イチオシ決算掲載日</th><th>前回の騰落率</th><th>夜間PTS(当日)</th></tr>
+      <tr><th>発表時刻</th><th>銘柄名</th><th>種別</th><th>決算前5営業日の騰落率</th><th>前回イチオシ決算掲載日</th><th>前回の騰落率</th><th>夜間PTS(始値/高値)</th><th>翌営業日場中(高値/終値)</th></tr>
     </thead>
     <tbody id="detail-body"></tbody>
   </table>
@@ -271,16 +271,27 @@ function showDetail(dateStr, items) {
     if (typeof it.preEarningsChange === "number") {
       preEarningsHtml = pctSpan(it.preEarningsChange);
     }
+    const pts = dayPts[it.code] || {};
     let ptsHtml = "―";
-    const pts = dayPts[it.code];
-    if (pts) {
-      ptsHtml = `${pts.pts}円`;
-      if (typeof pts.changeFromClose === "number") {
-        ptsHtml += ` ${pctSpan(pts.changeFromClose)}`;
+    if (typeof pts.ptsOpen === "number") {
+      const high = typeof pts.ptsHighFinal === "number" ? pts.ptsHighFinal
+        : (typeof pts.ptsHighEarly === "number" ? pts.ptsHighEarly : null);
+      const highTime = pts.ptsHighFinalTime || pts.ptsHighEarlyTime || "";
+      ptsHtml = `始${pts.ptsOpen}円`;
+      if (high !== null) {
+        ptsHtml += ` / 高${high}円 <span class="code">(${highTime})</span>`;
       }
-      if (pts.ptsTime) {
-        ptsHtml += ` <span class="code">(${pts.ptsTime})</span>`;
+    }
+    let nextDayHtml = "―";
+    if (typeof pts.nextDayHigh === "number" || typeof pts.nextDayClose === "number") {
+      const parts = [];
+      if (typeof pts.nextDayHigh === "number") {
+        parts.push(`高${pts.nextDayHigh}円${pts.nextDayHighTime ? ` <span class="code">(${pts.nextDayHighTime})</span>` : ""}`);
       }
+      if (typeof pts.nextDayClose === "number") {
+        parts.push(`終${pts.nextDayClose}円`);
+      }
+      nextDayHtml = parts.join(" / ");
     }
     tr.innerHTML = `
       <td>${it.time.replace("\n"," ")}</td>
@@ -290,6 +301,7 @@ function showDetail(dateStr, items) {
       <td>${fmtMentionDate(it.lastMentioned)}${it.mentionCount > 1 ? ` (計${it.mentionCount}回)` : ""}</td>
       <td>${changeHtml}</td>
       <td>${ptsHtml}</td>
+      <td>${nextDayHtml}</td>
     `;
     body.appendChild(tr);
   });
@@ -301,7 +313,7 @@ async function init() {
   const res = await fetch("data/calendar_data.json");
   const data = await res.json();
   try {
-    const ptsRes = await fetch("data/pts_log.json");
+    const ptsRes = await fetch("data/pts_detail_log.json");
     if (ptsRes.ok) ptsLog = await ptsRes.json();
   } catch (e) { /* PTSログが無くても致命的ではない */ }
 

@@ -1,16 +1,16 @@
-name: Daily PTS price log
+name: PTS final high
 
 on:
   schedule:
-    # 平日 23:30 JST (14:30 UTC) - PTS取引時間帯の終盤
-    - cron: "30 14 * * 1-5"
+    # 毎日 00:19 JST (前日15:19 UTC) = 夜間PTS終了(23:59)の20分後
+    - cron: "19 15 * * 1-5"
   workflow_dispatch: {}
 
 permissions:
   contents: write
 
 jobs:
-  pts:
+  pts-final:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -22,17 +22,17 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Fetch PTS prices
-        run: python scripts/fetch_pts_prices.py
+      - name: Fetch PTS final high
+        run: python scripts/fetch_pts_final.py
 
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/data/pts_log.json
+          git add docs/data/pts_detail_log.json
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "chore: PTS price log update"
+            git commit -m "chore: PTS final high snapshot"
             git push
           fi

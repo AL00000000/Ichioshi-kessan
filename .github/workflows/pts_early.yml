@@ -1,16 +1,16 @@
-name: Daily price change update
+name: PTS early snapshot
 
 on:
   schedule:
-    # 平日 15:40 JST (06:40 UTC) - 大引け後、データ確定を待って更新
-    - cron: "40 6 * * 1-5"
+    # 平日 17:20 JST (08:20 UTC)
+    - cron: "20 8 * * 1-5"
   workflow_dispatch: {}
 
 permissions:
   contents: write
 
 jobs:
-  update:
+  pts-early:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -22,20 +22,17 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Update price changes
-        run: python scripts/fetch_price_changes.py
-
-      - name: Fetch next-day session high/close
-        run: python scripts/fetch_next_day_session.py
+      - name: Fetch PTS open/early-high
+        run: python scripts/fetch_pts_early.py
 
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/data/calendar_data.json docs/data/pts_detail_log.json
+          git add docs/data/pts_detail_log.json
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "chore: daily price change update"
+            git commit -m "chore: PTS early snapshot"
             git push
           fi
