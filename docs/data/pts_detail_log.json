@@ -107,77 +107,99 @@
       "ptsOpen": 2804.0,
       "ptsOpenTime": "21:25　07/10",
       "ptsHighEarly": 2804.0,
-      "ptsHighEarlyTime": "21:25　07/10"
+      "ptsHighEarlyTime": "21:25　07/10",
+      "ptsHighFinal": 2804.0,
+      "ptsHighFinalTime": "21:25　07/10"
     },
     "2999": {
       "name": "ホームポジション",
       "ptsOpen": 611.1,
       "ptsOpenTime": "17:08　07/10",
       "ptsHighEarly": 649.9,
-      "ptsHighEarlyTime": "21:46　07/10"
+      "ptsHighEarlyTime": "21:46　07/10",
+      "ptsHighFinal": 649.9,
+      "ptsHighFinalTime": "21:46　07/10"
     },
     "3063": {
       "name": "ジェイグループホールディングス",
       "ptsOpen": 1136.0,
       "ptsOpenTime": "17:06　07/10",
       "ptsHighEarly": 1215.0,
-      "ptsHighEarlyTime": "22:14　07/10"
+      "ptsHighEarlyTime": "22:14　07/10",
+      "ptsHighFinal": 1215.0,
+      "ptsHighFinalTime": "22:14　07/10"
     },
     "4343": {
       "name": "イオンファンタジー",
       "ptsOpen": 2630.0,
       "ptsOpenTime": "17:08　07/10",
       "ptsHighEarly": 2650.0,
-      "ptsHighEarlyTime": "17:27　07/10"
+      "ptsHighEarlyTime": "17:27　07/10",
+      "ptsHighFinal": 2650.0,
+      "ptsHighFinalTime": "17:27　07/10"
     },
     "4577": {
       "name": "ダイト",
       "ptsOpen": 1275.2,
       "ptsOpenTime": "17:07　07/10",
       "ptsHighEarly": 1276.0,
-      "ptsHighEarlyTime": "17:11　07/10"
+      "ptsHighEarlyTime": "17:11　07/10",
+      "ptsHighFinal": 1276.0,
+      "ptsHighFinalTime": "17:11　07/10"
     },
     "4760": {
       "name": "アルファ",
       "ptsOpen": 1551.0,
       "ptsOpenTime": "18:51　07/10",
       "ptsHighEarly": 1565.0,
-      "ptsHighEarlyTime": "19:31　07/10"
+      "ptsHighEarlyTime": "19:31　07/10",
+      "ptsHighFinal": 1575.0,
+      "ptsHighFinalTime": "23:56　07/10"
     },
     "5967": {
       "name": "ＴＯＮＥ",
       "ptsOpen": 479.0,
       "ptsOpenTime": "17:04　07/10",
       "ptsHighEarly": 499.0,
-      "ptsHighEarlyTime": "17:49　07/10"
+      "ptsHighEarlyTime": "17:49　07/10",
+      "ptsHighFinal": 499.0,
+      "ptsHighFinalTime": "17:49　07/10"
     },
     "6136": {
       "name": "オーエスジー",
       "ptsOpen": 4050.0,
       "ptsOpenTime": "17:00　07/10",
       "ptsHighEarly": 4100.0,
-      "ptsHighEarlyTime": "17:02　07/10"
+      "ptsHighEarlyTime": "17:02　07/10",
+      "ptsHighFinal": 4100.0,
+      "ptsHighFinalTime": "17:02　07/10"
     },
     "6506": {
       "name": "安川電機",
       "ptsOpen": 6414.0,
       "ptsOpenTime": "17:00　07/10",
       "ptsHighEarly": 6500.0,
-      "ptsHighEarlyTime": "17:00　07/10"
+      "ptsHighEarlyTime": "17:00　07/10",
+      "ptsHighFinal": 6500.0,
+      "ptsHighFinalTime": "17:00　07/10"
     },
     "7487": {
       "name": "小津産業",
       "ptsOpen": 1719.0,
       "ptsOpenTime": "17:18　07/10",
       "ptsHighEarly": 1800.0,
-      "ptsHighEarlyTime": "17:29　07/10"
+      "ptsHighEarlyTime": "17:29　07/10",
+      "ptsHighFinal": 1800.0,
+      "ptsHighFinalTime": "17:29　07/10"
     },
     "9270": {
       "name": "バリュエンスホールディングス",
       "ptsOpen": 2129.9,
       "ptsOpenTime": "17:01　07/10",
       "ptsHighEarly": 2135.0,
-      "ptsHighEarlyTime": "23:32　07/10"
+      "ptsHighEarlyTime": "23:32　07/10",
+      "ptsHighFinal": 2140.0,
+      "ptsHighFinalTime": "23:56　07/10"
     }
   },
   "20260711": {}
