@@ -290,34 +290,54 @@
   },
   "20260715": {
     "3021": {
-      "name": "パシフィックネット"
+      "name": "パシフィックネット",
+      "ptsHighFinal": 1790.0,
+      "ptsHighFinalTime": "17:09　07/15"
     },
     "3915": {
-      "name": "テラスカイ"
+      "name": "テラスカイ",
+      "ptsHighFinal": 2380.0,
+      "ptsHighFinalTime": "22:10　07/15"
     },
     "4434": {
-      "name": "サーバーワークス"
+      "name": "サーバーワークス",
+      "ptsHighFinal": 2040.0,
+      "ptsHighFinalTime": "17:01　07/15"
     },
     "6182": {
-      "name": "メタリアル"
+      "name": "メタリアル",
+      "ptsHighFinal": 550.0,
+      "ptsHighFinalTime": "17:04　07/15"
     },
     "6505": {
-      "name": "東洋電機製造"
+      "name": "東洋電機製造",
+      "ptsHighFinal": 2485.0,
+      "ptsHighFinalTime": "20:48　07/15"
     },
     "6532": {
-      "name": "ベイカレント"
+      "name": "ベイカレント",
+      "ptsHighFinal": 6230.0,
+      "ptsHighFinalTime": "17:04　07/15"
     },
     "6552": {
-      "name": "ＧａｍｅＷｉｔｈ"
+      "name": "ＧａｍｅＷｉｔｈ",
+      "ptsHighFinal": 203.0,
+      "ptsHighFinalTime": "17:14　07/15"
     },
     "6866": {
-      "name": "日置電機"
+      "name": "日置電機",
+      "ptsHighFinal": 12790.0,
+      "ptsHighFinalTime": "20:55　07/15"
     },
     "7730": {
-      "name": "マニー"
+      "name": "マニー",
+      "ptsHighFinal": 1743.0,
+      "ptsHighFinalTime": "17:02　07/15"
     },
     "7818": {
-      "name": "トランザクション"
+      "name": "トランザクション",
+      "ptsHighFinal": 1450.0,
+      "ptsHighFinalTime": "23:03　07/15"
     }
   }
 }
