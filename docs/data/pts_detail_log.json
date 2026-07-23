@@ -238,106 +238,190 @@
   "20260711": {},
   "20260713": {
     "4443": {
-      "name": "Ｓａｎｓａｎ"
+      "name": "Ｓａｎｓａｎ",
+      "nextDayHigh": 1915.0,
+      "nextDayClose": 1850.0,
+      "nextDayHighTime": null
     },
     "463A": {
-      "name": "インテリックスホールディングス"
+      "name": "インテリックスホールディングス",
+      "nextDayHigh": 931.0,
+      "nextDayClose": 926.0,
+      "nextDayHighTime": null
     },
     "7085": {
-      "name": "カーブスホールディングス"
+      "name": "カーブスホールディングス",
+      "nextDayHigh": 1002.0,
+      "nextDayClose": 986.0,
+      "nextDayHighTime": null
     },
     "7513": {
-      "name": "コジマ"
+      "name": "コジマ",
+      "nextDayHigh": 1400.0,
+      "nextDayClose": 1312.0,
+      "nextDayHighTime": null
     },
     "9278": {
-      "name": "ブックオフグループホールディングス"
+      "name": "ブックオフグループホールディングス",
+      "nextDayHigh": 2345.0,
+      "nextDayClose": 2206.0,
+      "nextDayHighTime": null
     }
   },
   "20260714": {
     "135A": {
-      "name": "ＶＲＡＩＮ　Ｓｏｌｕｔｉｏｎ"
+      "name": "ＶＲＡＩＮ　Ｓｏｌｕｔｉｏｎ",
+      "nextDayHigh": 4175.0,
+      "nextDayClose": 4040.0,
+      "nextDayHighTime": null
     },
     "1434": {
-      "name": "ＪＥＳＣＯホールディングス"
+      "name": "ＪＥＳＣＯホールディングス",
+      "nextDayHigh": 1960.0,
+      "nextDayClose": 1890.0,
+      "nextDayHighTime": null
     },
     "3608": {
-      "name": "ＴＳＩホールディングス"
+      "name": "ＴＳＩホールディングス",
+      "nextDayHigh": 1265.0,
+      "nextDayClose": 1232.0,
+      "nextDayHighTime": null
     },
     "365A": {
-      "name": "伊澤タオル"
+      "name": "伊澤タオル",
+      "nextDayHigh": 773.0,
+      "nextDayClose": 773.0,
+      "nextDayHighTime": null
     },
     "464A": {
-      "name": "ＱＰＳホールディングス"
+      "name": "ＱＰＳホールディングス",
+      "nextDayHigh": 1906.0,
+      "nextDayClose": 1886.0,
+      "nextDayHighTime": null
     },
     "4885": {
-      "name": "室町ケミカル"
+      "name": "室町ケミカル",
+      "nextDayHigh": 920.0,
+      "nextDayClose": 913.0,
+      "nextDayHighTime": null
     },
     "505A": {
-      "name": "ギークリー"
+      "name": "ギークリー",
+      "nextDayHigh": 1424.0,
+      "nextDayClose": 1419.0,
+      "nextDayHighTime": null
     },
     "5246": {
-      "name": "ＥＬＥＭＥＮＴＳ"
+      "name": "ＥＬＥＭＥＮＴＳ",
+      "nextDayHigh": 762.0,
+      "nextDayClose": 720.0,
+      "nextDayHighTime": null
     },
     "5578": {
-      "name": "ＡＲアドバンストテクノロジ"
+      "name": "ＡＲアドバンストテクノロジ",
+      "nextDayHigh": 900.0,
+      "nextDayClose": 840.0,
+      "nextDayHighTime": null
     },
     "5885": {
-      "name": "ジーデップ・アドバンス"
+      "name": "ジーデップ・アドバンス",
+      "nextDayHigh": 2930.0,
+      "nextDayClose": 2930.0,
+      "nextDayHighTime": null
     },
     "7673": {
-      "name": "ダイコー通産"
+      "name": "ダイコー通産",
+      "nextDayHigh": 1742.0,
+      "nextDayClose": 1700.0,
+      "nextDayHighTime": null
+    },
+    "3627": {
+      "name": "テクミラホールディングス",
+      "nextDayHigh": 275.0,
+      "nextDayClose": 272.0,
+      "nextDayHighTime": null
     }
   },
   "20260715": {
     "3021": {
       "name": "パシフィックネット",
       "ptsHighFinal": 1790.0,
-      "ptsHighFinalTime": "17:09　07/15"
+      "ptsHighFinalTime": "17:09　07/15",
+      "nextDayHigh": 1733.0,
+      "nextDayClose": 1641.0,
+      "nextDayHighTime": null
     },
     "3915": {
       "name": "テラスカイ",
       "ptsHighFinal": 2380.0,
-      "ptsHighFinalTime": "22:10　07/15"
+      "ptsHighFinalTime": "22:10　07/15",
+      "nextDayHigh": 2532.0,
+      "nextDayClose": 2266.0,
+      "nextDayHighTime": null
     },
     "4434": {
       "name": "サーバーワークス",
       "ptsHighFinal": 2040.0,
-      "ptsHighFinalTime": "17:01　07/15"
+      "ptsHighFinalTime": "17:01　07/15",
+      "nextDayHigh": 1977.0,
+      "nextDayClose": 1939.0,
+      "nextDayHighTime": null
     },
     "6182": {
       "name": "メタリアル",
       "ptsHighFinal": 550.0,
-      "ptsHighFinalTime": "17:04　07/15"
+      "ptsHighFinalTime": "17:04　07/15",
+      "nextDayHigh": 515.0,
+      "nextDayClose": 495.0,
+      "nextDayHighTime": null
     },
     "6505": {
       "name": "東洋電機製造",
       "ptsHighFinal": 2485.0,
-      "ptsHighFinalTime": "20:48　07/15"
+      "ptsHighFinalTime": "20:48　07/15",
+      "nextDayHigh": 2447.0,
+      "nextDayClose": 2369.0,
+      "nextDayHighTime": null
     },
     "6532": {
       "name": "ベイカレント",
       "ptsHighFinal": 6230.0,
-      "ptsHighFinalTime": "17:04　07/15"
+      "ptsHighFinalTime": "17:04　07/15",
+      "nextDayHigh": 6960.0,
+      "nextDayClose": 6755.0,
+      "nextDayHighTime": null
     },
     "6552": {
       "name": "ＧａｍｅＷｉｔｈ",
       "ptsHighFinal": 203.0,
-      "ptsHighFinalTime": "17:14　07/15"
+      "ptsHighFinalTime": "17:14　07/15",
+      "nextDayHigh": 193.0,
+      "nextDayClose": 180.0,
+      "nextDayHighTime": null
     },
     "6866": {
       "name": "日置電機",
       "ptsHighFinal": 12790.0,
-      "ptsHighFinalTime": "20:55　07/15"
+      "ptsHighFinalTime": "20:55　07/15",
+      "nextDayHigh": 12900.0,
+      "nextDayClose": 11230.0,
+      "nextDayHighTime": null
     },
     "7730": {
       "name": "マニー",
       "ptsHighFinal": 1743.0,
-      "ptsHighFinalTime": "17:02　07/15"
+      "ptsHighFinalTime": "17:02　07/15",
+      "nextDayHigh": 1628.0,
+      "nextDayClose": 1601.0,
+      "nextDayHighTime": null
     },
     "7818": {
       "name": "トランザクション",
       "ptsHighFinal": 1450.0,
-      "ptsHighFinalTime": "23:03　07/15"
+      "ptsHighFinalTime": "23:03　07/15",
+      "nextDayHigh": 1393.0,
+      "nextDayClose": 1291.0,
+      "nextDayHighTime": null
     }
   },
   "20260716": {},
@@ -346,13 +430,22 @@
   "20260721": {},
   "20260722": {
     "3091": {
-      "name": "ブロンコビリー"
+      "name": "ブロンコビリー",
+      "nextDayHigh": 2498.0,
+      "nextDayClose": 2453.0,
+      "nextDayHighTime": null
     },
     "4684": {
-      "name": "オービック"
+      "name": "オービック",
+      "nextDayHigh": 4260.0,
+      "nextDayClose": 4161.0,
+      "nextDayHighTime": null
     },
     "5576": {
-      "name": "オービーシステム"
+      "name": "オービーシステム",
+      "nextDayHigh": 2995.0,
+      "nextDayClose": 2947.0,
+      "nextDayHighTime": null
     }
   },
   "20260723": {
