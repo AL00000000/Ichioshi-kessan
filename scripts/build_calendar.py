@@ -35,9 +35,32 @@ def load_history():
     return code_to_dates
 
 
+EXTRA_FIELDS = (
+    "lastMentionedPriceChange", "lastMentionedPriceChangeType",
+    "referenceClose", "preEarningsChange", "preEarningsFromDate",
+)
+
+
+def load_existing_days():
+    """既存のcalendar_data.jsonを (date, code) -> item の辞書として読み込む。
+    マネックスの取得窓(直近45日)から外れた過去日を保持するためと、
+    fetch_price_changes.py等が後から追記した株価系フィールドを
+    再生成時に消さないようにするために使う。"""
+    if not OUT_PATH.exists():
+        return {}, {}
+    old = json.loads(OUT_PATH.read_text(encoding="utf-8"))
+    by_key = {}
+    by_day = old.get("days", {})
+    for d, items in by_day.items():
+        for it in items:
+            by_key[(d, it["code"])] = it
+    return by_key, by_day
+
+
 def build():
     code_to_dates = load_history()
     schedule = json.loads(SCHEDULE_PATH.read_text(encoding="utf-8"))
+    existing_by_key, existing_by_day = load_existing_days()
 
     by_date = defaultdict(list)
     seen = set()
@@ -60,14 +83,27 @@ def build():
         if key in seen:
             continue
         seen.add(key)
-        by_date[entry["date"]].append({
+        item = {
             "code": code,
             "name": entry["name"],
             "time": entry["time"],
             "type": entry["type"],
             "lastMentioned": qualifying[0],
             "mentionCount": len(qualifying),
-        })
+        }
+        # 既に株価系データが取得済みなら引き継ぐ(再生成のたびに消さない)
+        old_item = existing_by_key.get(key)
+        if old_item:
+            for f in EXTRA_FIELDS:
+                if f in old_item:
+                    item[f] = old_item[f]
+        by_date[entry["date"]].append(item)
+
+    # 今回のマネックス取得窓に無かった過去日は、既存データをそのまま保持する
+    fresh_dates = set(by_date.keys())
+    for d, items in existing_by_day.items():
+        if d not in fresh_dates:
+            by_date[d] = items
 
     result = {
         "generatedFrom": {
