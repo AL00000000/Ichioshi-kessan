@@ -1,9 +1,9 @@
 name: PTS final high
 
 on:
-  schedule:
-    # 毎日 00:19 JST (前日15:19 UTC) = 夜間PTS終了(23:59)の20分後
-    - cron: "19 15 * * 1-5"
+  # GitHub ActionsのIPからのkabutan.jpへのアクセスがブロックされるため、
+  # 定期実行はローカル端末のスケジュールタスクに移行した。
+  # このワークフローは手動実行(デバッグ用)にのみ残す。
   workflow_dispatch: {}
 
 permissions:

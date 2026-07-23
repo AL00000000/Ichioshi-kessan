@@ -1,9 +1,9 @@
 name: Daily price change update
 
 on:
-  schedule:
-    # 平日 15:40 JST (06:40 UTC) - 大引け後、データ確定を待って更新
-    - cron: "40 6 * * 1-5"
+  # GitHub ActionsのIPからのkabutan.jpへのアクセスがブロックされるため、
+  # 定期実行はローカル端末のスケジュールタスクに移行した。
+  # このワークフローは手動実行(デバッグ用)にのみ残す。
   workflow_dispatch: {}
 
 permissions:

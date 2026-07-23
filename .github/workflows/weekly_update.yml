@@ -1,9 +1,9 @@
 name: Weekly update
 
 on:
-  schedule:
-    # 毎週月曜 21:00 JST (12:00 UTC)
-    - cron: "0 12 * * 1"
+  # GitHub ActionsのIPからのkabutan.jpへのアクセスがブロックされるため、
+  # 定期実行はローカル端末のスケジュールタスクに移行した。
+  # このワークフローは手動実行(デバッグ用)にのみ残す。
   workflow_dispatch: {}
 
 permissions:
