@@ -150,6 +150,30 @@
     padding: 20px;
     text-align: center;
   }
+  .tabs {
+    display: flex;
+    gap: 4px;
+    margin-bottom: 20px;
+    border-bottom: 1px solid var(--border);
+  }
+  .tab-btn {
+    background: none;
+    border: none;
+    color: var(--text-dim);
+    font-size: 13px;
+    padding: 8px 14px;
+    cursor: pointer;
+    border-bottom: 2px solid transparent;
+    font-family: inherit;
+  }
+  .tab-btn:hover {
+    color: var(--text);
+  }
+  .tab-btn.active {
+    color: var(--accent);
+    border-bottom-color: var(--accent);
+    font-weight: bold;
+  }
 </style>
 </head>
 <body>
@@ -157,6 +181,12 @@
 <h1>株探イチオシ決算言及銘柄 次回決算カレンダー</h1>
 <div class="subtitle">株探「イチオシ決算」で過去に言及された銘柄が、次はいつ決算発表するかを一覧表示します</div>
 <div class="meta" id="meta"></div>
+
+<div class="tabs" id="tabs">
+  <button class="tab-btn active" data-filter="all">すべて</button>
+  <button class="tab-btn" data-filter="intraday">場中決算のみ</button>
+  <button class="tab-btn" data-filter="aisemi">AI半導体関連株のみ</button>
+</div>
 
 <div class="calendars" id="calendars"></div>
 
@@ -326,23 +356,40 @@ function showDetail(dateStr, items) {
   detail.scrollIntoView({behavior: "smooth", block: "nearest"});
 }
 
-async function init() {
-  const res = await fetch("data/calendar_data.json", {cache: "no-store"});
-  const data = await res.json();
-  try {
-    const ptsRes = await fetch("data/pts_detail_log.json", {cache: "no-store"});
-    if (ptsRes.ok) ptsLog = await ptsRes.json();
-  } catch (e) { /* PTSログが無くても致命的ではない */ }
+let rawData = null;
+let aiSemiCodes = new Set();
+let currentFilter = "all";
 
-  const meta = document.getElementById("meta");
-  const g = data.generatedFrom;
-  meta.textContent = `イチオシ決算 言及銘柄 ${g.watchlistCodes}件 / 決算スケジュール ${g.scheduleEntries}件 と突き合わせ`;
+function isIntraday(timeText) {
+  const m = /(\d{1,2}):(\d{2})/.exec(timeText || "");
+  if (!m) return false;
+  const minutes = parseInt(m[1], 10) * 60 + parseInt(m[2], 10);
+  return minutes >= 9 * 60 && minutes < 15 * 60;
+}
 
-  const dates = Object.keys(data.days);
+function itemMatchesFilter(it) {
+  if (currentFilter === "intraday") return isIntraday(it.time);
+  if (currentFilter === "aisemi") return aiSemiCodes.has(it.code);
+  return true;
+}
+
+function getFilteredDays() {
+  const out = {};
+  for (const [d, items] of Object.entries(rawData.days)) {
+    const filtered = items.filter(itemMatchesFilter);
+    if (filtered.length) out[d] = filtered;
+  }
+  return out;
+}
+
+function renderCalendars() {
+  const filteredDays = getFilteredDays();
+  const dates = Object.keys(filteredDays);
   const today = new Date();
   const todayStr = `${today.getFullYear()}${String(today.getMonth()+1).padStart(2,"0")}${String(today.getDate()).padStart(2,"0")}`;
 
   const container = document.getElementById("calendars");
+  container.innerHTML = "";
   const months = new Set();
   months.add(`${today.getFullYear()}-${today.getMonth()+1}`);
   dates.forEach(d => months.add(`${d.slice(0,4)}-${parseInt(d.slice(4,6))}`));
@@ -350,12 +397,48 @@ async function init() {
 
   sortedMonths.forEach(key => {
     const [y, m] = key.split("-").map(Number);
-    container.appendChild(buildMonthTable(y, m, data.days, todayStr));
+    container.appendChild(buildMonthTable(y, m, filteredDays, todayStr));
   });
 
   if (dates.length === 0) {
     container.innerHTML = '<div class="empty-note">該当する銘柄が見つかりませんでした</div>';
   }
+
+  document.getElementById("detail").style.display = "none";
+}
+
+function initTabs() {
+  document.querySelectorAll(".tab-btn").forEach(btn => {
+    btn.addEventListener("click", () => {
+      document.querySelectorAll(".tab-btn").forEach(b => b.classList.remove("active"));
+      btn.classList.add("active");
+      currentFilter = btn.dataset.filter;
+      renderCalendars();
+    });
+  });
+}
+
+async function init() {
+  const res = await fetch("data/calendar_data.json", {cache: "no-store"});
+  rawData = await res.json();
+  try {
+    const ptsRes = await fetch("data/pts_detail_log.json", {cache: "no-store"});
+    if (ptsRes.ok) ptsLog = await ptsRes.json();
+  } catch (e) { /* PTSログが無くても致命的ではない */ }
+  try {
+    const aiRes = await fetch("data/ai_semi_tags.json", {cache: "no-store"});
+    if (aiRes.ok) {
+      const aiData = await aiRes.json();
+      aiSemiCodes = new Set(aiData.codes || []);
+    }
+  } catch (e) { /* タグが無くても致命的ではない */ }
+
+  const meta = document.getElementById("meta");
+  const g = rawData.generatedFrom;
+  meta.textContent = `イチオシ決算 言及銘柄 ${g.watchlistCodes}件 / 決算スケジュール ${g.scheduleEntries}件 と突き合わせ`;
+
+  initTabs();
+  renderCalendars();
 }
 
 init();
