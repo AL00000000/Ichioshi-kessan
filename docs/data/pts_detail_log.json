@@ -452,7 +452,10 @@
     "6146": {
       "name": "ディスコ",
       "ptsHighFinal": 70440.0,
-      "ptsHighFinalTime": "17:22　07/23"
+      "ptsHighFinalTime": "17:22　07/23",
+      "nextDayHigh": 63020.0,
+      "nextDayHighTime": "09:18",
+      "nextDayClose": 60890.0
     }
   }
 }
