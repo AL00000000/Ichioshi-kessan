@@ -77,7 +77,13 @@ def click_day_and_scrape(page: Page, target: date, table_index: int) -> list[dic
     return results
 
 
-def scrape_upcoming(days: int = 45):
+def scrape_upcoming(days: int = 45, lookback_days: int = 20):
+    """今後days日分に加え、直近lookback_days日分も再取得する。
+    直近分は「予定」から「実績」(確定時刻)に更新されていることが多く、
+    build_calendar.py側でこの最新時刻に上書きされる。
+    (カレンダーが当月+翌月しか表示しないため、当月の範囲を超えるlookbackは
+    自動的にスキップされる)
+    """
     all_results = []
     with sync_playwright() as p:
         # このサイトはヘッドレスブラウザを403でブロックするため、ヘッド付きモードで起動する
@@ -94,9 +100,10 @@ def scrape_upcoming(days: int = 45):
             page.wait_for_timeout(1200)
 
         sys_date = get_sys_date(page)
+        start = sys_date - timedelta(days=lookback_days)
         end = sys_date + timedelta(days=days)
 
-        d = sys_date
+        d = start
         while d <= end:
             if d.weekday() < 5:  # 平日のみ
                 month_offset = (d.year - sys_date.year) * 12 + (d.month - sys_date.month)
