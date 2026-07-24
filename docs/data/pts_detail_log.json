@@ -457,5 +457,35 @@
       "nextDayHighTime": "09:18",
       "nextDayClose": 60890.0
     }
+  },
+  "20260724": {
+    "6629": {
+      "name": "テクノホライゾン",
+      "ptsOpen": 1085.0,
+      "ptsOpenTime": "17:00　07/24",
+      "ptsHighEarly": 1138.0,
+      "ptsHighEarlyTime": "17:01　07/24"
+    },
+    "6653": {
+      "name": "正興電機製作所",
+      "ptsOpen": 2250.0,
+      "ptsOpenTime": "17:00　07/24",
+      "ptsHighEarly": 2250.0,
+      "ptsHighEarlyTime": "17:00　07/24"
+    },
+    "7175": {
+      "name": "今村証券",
+      "ptsOpen": 1750.0,
+      "ptsOpenTime": "17:25　07/24",
+      "ptsHighEarly": 1750.0,
+      "ptsHighEarlyTime": "17:25　07/24"
+    },
+    "8060": {
+      "name": "キヤノンマーケティングジャパン",
+      "ptsOpen": 3368.0,
+      "ptsOpenTime": "17:00　07/24",
+      "ptsHighEarly": 3439.9,
+      "ptsHighEarlyTime": "21:26　07/24"
+    }
   }
 }
