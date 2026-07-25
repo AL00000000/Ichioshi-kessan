@@ -136,6 +136,9 @@
     color: var(--text-dim);
     font-size: 11px;
   }
+  .star {
+    color: var(--accent);
+  }
   .price-up {
     color: var(--red);
     font-weight: bold;
@@ -342,10 +345,10 @@ function showDetail(dateStr, items) {
     }
     tr.innerHTML = `
       <td>${it.time.replace("\n"," ")}</td>
-      <td>${it.name} <span class="code">(${it.code})</span></td>
+      <td>${it.isWatchlist ? '<span class="star" title="イチオシ決算で過去に言及">★</span> ' : ""}${it.name} <span class="code">(${it.code})</span></td>
       <td>${it.type}</td>
       <td>${preEarningsHtml}</td>
-      <td>${fmtMentionDate(it.lastMentioned)}${it.mentionCount > 1 ? ` (計${it.mentionCount}回)` : ""}</td>
+      <td>${it.lastMentioned ? `${fmtMentionDate(it.lastMentioned)}${it.mentionCount > 1 ? ` (計${it.mentionCount}回)` : ""}` : "―"}</td>
       <td>${changeHtml}</td>
       <td>${ptsHtml}</td>
       <td>${nextDayHtml}</td>
@@ -357,26 +360,21 @@ function showDetail(dateStr, items) {
 }
 
 let rawData = null;
+let intradayData = null;
 let aiSemiCodes = new Set();
 let currentFilter = "all";
 
-function isIntraday(timeText) {
-  const m = /(\d{1,2}):(\d{2})/.exec(timeText || "");
-  if (!m) return false;
-  const minutes = parseInt(m[1], 10) * 60 + parseInt(m[2], 10);
-  return minutes >= 9 * 60 && minutes < 15 * 60;
-}
-
-function itemMatchesFilter(it) {
-  if (currentFilter === "intraday") return isIntraday(it.time);
-  if (currentFilter === "aisemi") return aiSemiCodes.has(it.code);
-  return true;
-}
-
 function getFilteredDays() {
+  // 「場中決算のみ」はイチオシ決算の言及有無に関わらず全銘柄が対象なので、
+  // 専用データ(intraday_data.json)をそのまま使う
+  if (currentFilter === "intraday") {
+    return intradayData ? intradayData.days : {};
+  }
   const out = {};
   for (const [d, items] of Object.entries(rawData.days)) {
-    const filtered = items.filter(itemMatchesFilter);
+    const filtered = currentFilter === "aisemi"
+      ? items.filter(it => aiSemiCodes.has(it.code))
+      : items;
     if (filtered.length) out[d] = filtered;
   }
   return out;
@@ -432,6 +430,10 @@ async function init() {
       aiSemiCodes = new Set(aiData.codes || []);
     }
   } catch (e) { /* タグが無くても致命的ではない */ }
+  try {
+    const intraRes = await fetch("data/intraday_data.json", {cache: "no-store"});
+    if (intraRes.ok) intradayData = await intraRes.json();
+  } catch (e) { /* 場中データが無くても致命的ではない */ }
 
   const meta = document.getElementById("meta");
   const g = rawData.generatedFrom;

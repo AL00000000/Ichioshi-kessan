@@ -13,9 +13,9 @@
         "type": "2Q",
         "lastMentioned": "20260406",
         "mentionCount": 1,
-        "referenceClose": 4130.0,
         "lastMentionedPriceChange": -2.24,
         "lastMentionedPriceChangeType": "翌営業日",
+        "referenceClose": 4130.0,
         "preEarningsChange": 2.99,
         "preEarningsFromDate": "20260629"
       },
@@ -26,9 +26,9 @@
         "type": "本決算",
         "lastMentioned": "20260319",
         "mentionCount": 1,
-        "referenceClose": 1860.0,
         "lastMentionedPriceChange": -4.29,
         "lastMentionedPriceChangeType": "翌営業日",
+        "referenceClose": 1860.0,
         "preEarningsChange": 7.64,
         "preEarningsFromDate": "20260629"
       }
@@ -242,9 +242,9 @@
         "type": "1Q",
         "lastMentioned": "20260410",
         "mentionCount": 2,
-        "referenceClose": 279.0,
         "lastMentionedPriceChange": -3.07,
         "lastMentionedPriceChangeType": "翌営業日",
+        "referenceClose": 279.0,
         "preEarningsChange": 2.2,
         "preEarningsFromDate": "20260703"
       },
@@ -333,9 +333,9 @@
         "type": "3Q",
         "lastMentioned": "20260410",
         "mentionCount": 1,
-        "referenceClose": 3623.0,
         "lastMentionedPriceChange": 1.44,
         "lastMentionedPriceChangeType": "翌営業日",
+        "referenceClose": 3623.0,
         "preEarningsChange": 0.22,
         "preEarningsFromDate": "20260703"
       },
@@ -586,9 +586,9 @@
         "type": "3Q",
         "lastMentioned": "20260414",
         "mentionCount": 1,
-        "referenceClose": 1418.0,
         "lastMentionedPriceChange": 10.65,
         "lastMentionedPriceChangeType": "翌営業日",
+        "referenceClose": 1418.0,
         "preEarningsChange": -0.77,
         "preEarningsFromDate": "20260708"
       },
@@ -813,9 +813,9 @@
         "type": "1Q",
         "lastMentioned": "20260417",
         "mentionCount": 2,
-        "referenceClose": 4275.0,
         "lastMentionedPriceChange": -2.23,
         "lastMentionedPriceChangeType": "翌営業日",
+        "referenceClose": 4275.0,
         "preEarningsChange": -2.17,
         "preEarningsFromDate": "20260716"
       }

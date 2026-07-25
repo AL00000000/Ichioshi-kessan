@@ -2,8 +2,12 @@
 イチオシ決算の言及履歴(data/ichioshi_history.json)と
 マネックス決算スケジュール(data/monex_schedule.json)を証券コードで突き合わせ、
 サイト表示用のカレンダーデータ(data/calendar_data.json)を生成する。
+
+あわせて、イチオシ決算の言及有無に関わらず「場中決算」の全銘柄を集めた
+data/intraday_data.json も生成する(サイトの「場中決算のみ」タブ用)。
 """
 import json
+import re
 from collections import defaultdict
 from datetime import date, timedelta
 from pathlib import Path
@@ -12,15 +16,29 @@ DATA_DIR = Path(__file__).parent.parent / "docs" / "data"
 HISTORY_PATH = DATA_DIR / "ichioshi_history.json"
 SCHEDULE_PATH = DATA_DIR / "monex_schedule.json"
 OUT_PATH = DATA_DIR / "calendar_data.json"
+INTRADAY_OUT_PATH = DATA_DIR / "intraday_data.json"
 
 # 「前回決算」とみなすには、少なくとも何日以上前の言及である必要があるか。
 # 決算発表が前倒しになるケースを考慮し、1週間の余裕を持たせる。
 # (これより短い間隔の言及は「同じ決算に対する当日掲載」とみなして除外する)
 MIN_GAP_DAYS = 7
 
+# 東証の大引けは15:30(2024年11月の取引時間延長以降)。
+# 9:00以上15:30未満の発表を「場中決算」とみなす。
+MARKET_OPEN_MIN = 9 * 60
+MARKET_CLOSE_MIN = 15 * 60 + 30
+
 
 def parse_date(s: str) -> date:
     return date(int(s[0:4]), int(s[4:6]), int(s[6:8]))
+
+
+def is_intraday(time_text: str) -> bool:
+    m = re.search(r"(\d{1,2}):(\d{2})", time_text or "")
+    if not m:
+        return False
+    minutes = int(m.group(1)) * 60 + int(m.group(2))
+    return MARKET_OPEN_MIN <= minutes < MARKET_CLOSE_MIN
 
 
 def load_history():
@@ -118,6 +136,64 @@ def build():
     print(f"matched days: {len(by_date)}")
     print(f"total matches: {sum(len(v) for v in by_date.values())}")
     print(f"saved to {OUT_PATH}")
+
+    build_intraday(schedule, code_to_dates, result["days"])
+
+
+def build_intraday(schedule, code_to_dates, calendar_days):
+    """イチオシ決算の言及有無に関わらず、場中決算の全銘柄を集めたデータを生成する。
+    ウォッチリスト銘柄については、calendar_data.json側で計算済みの株価系
+    フィールドを引き継いで表示できるようにする。"""
+    # ウォッチリスト銘柄の enriched データを (日付, コード) で引けるようにする
+    enriched = {}
+    for d, items in calendar_days.items():
+        for it in items:
+            enriched[(d, it["code"])] = it
+
+    # 既存の場中データ(取得窓から外れた過去日を保持するため)
+    existing_days = {}
+    if INTRADAY_OUT_PATH.exists():
+        existing_days = json.loads(INTRADAY_OUT_PATH.read_text(encoding="utf-8")).get("days", {})
+
+    by_date = defaultdict(list)
+    seen = set()
+    for entry in schedule:
+        if not is_intraday(entry.get("time", "")):
+            continue
+        key = (entry["date"], entry["code"])
+        if key in seen:
+            continue
+        seen.add(key)
+
+        item = {
+            "code": entry["code"],
+            "name": entry["name"],
+            "time": entry["time"],
+            "type": entry["type"],
+            "isWatchlist": entry["code"] in code_to_dates,
+        }
+        # ウォッチリスト銘柄なら前回言及日・株価系データを引き継ぐ
+        old = enriched.get(key)
+        if old:
+            for f in ("lastMentioned", "mentionCount", *EXTRA_FIELDS):
+                if f in old:
+                    item[f] = old[f]
+        by_date[entry["date"]].append(item)
+
+    # 今回の取得窓に無かった過去日は既存データを保持
+    fresh_dates = set(by_date.keys())
+    for d, items in existing_days.items():
+        if d not in fresh_dates:
+            by_date[d] = items
+
+    result = {
+        "days": {d: sorted(v, key=lambda x: x["code"]) for d, v in sorted(by_date.items())},
+    }
+    INTRADAY_OUT_PATH.write_text(json.dumps(result, ensure_ascii=False, indent=2), encoding="utf-8")
+    total = sum(len(v) for v in by_date.values())
+    watch_count = sum(1 for v in by_date.values() for it in v if it.get("isWatchlist"))
+    print(f"intraday days: {len(by_date)}, total: {total} (うちイチオシ銘柄 {watch_count})")
+    print(f"saved to {INTRADAY_OUT_PATH}")
 
 
 if __name__ == "__main__":

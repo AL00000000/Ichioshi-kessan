@@ -74,8 +74,9 @@ def is_intraday(time_text: str) -> bool:
     if not m:
         return False
     minutes = int(m.group(1)) * 60 + int(m.group(2))
-    # 大引け(15:00)ちょうど・それ以降は「引け後」扱いとする
-    return 9 * 60 <= minutes < 15 * 60
+    # 東証の大引けは15:30(2024年11月の取引時間延長以降)。
+    # 15:30ちょうど・それ以降は「引け後」扱いとする
+    return 9 * 60 <= minutes < 15 * 60 + 30
 
 
 def get_price_change(code: str, mention_date: str, time_text: str):
