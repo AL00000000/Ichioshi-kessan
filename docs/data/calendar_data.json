@@ -1,8 +1,8 @@
 {
   "generatedFrom": {
-    "historyEntries": 89,
-    "watchlistCodes": 364,
-    "scheduleEntries": 1615
+    "historyEntries": 94,
+    "watchlistCodes": 376,
+    "scheduleEntries": 1607
   },
   "days": {
     "20260706": [
@@ -824,14 +824,14 @@
       {
         "code": "3635",
         "name": "コーエーテクモホールディングス",
-        "time": "16:00\n（予定）",
+        "time": "16:00\n（実績）",
         "type": "1Q",
         "lastMentioned": "20260420",
         "mentionCount": 1,
         "lastMentionedPriceChange": -0.95,
         "lastMentionedPriceChangeType": "翌営業日",
-        "referenceClose": 1594.0,
-        "preEarningsChange": 1.27,
+        "referenceClose": 1596.0,
+        "preEarningsChange": 1.4,
         "preEarningsFromDate": "20260717"
       }
     ],
@@ -875,7 +875,7 @@
         "type": "1Q",
         "lastMentioned": "20260427",
         "mentionCount": 1,
-        "lastMentionedPriceChange": 4.82,
+        "lastMentionedPriceChange": 4.29,
         "lastMentionedPriceChangeType": "翌営業日"
       },
       {
@@ -905,7 +905,7 @@
         "type": "1Q",
         "lastMentioned": "20260427",
         "mentionCount": 1,
-        "lastMentionedPriceChange": -1.61,
+        "lastMentionedPriceChange": -1.95,
         "lastMentionedPriceChangeType": "翌営業日"
       },
       {
@@ -977,7 +977,7 @@
         "type": "1Q",
         "lastMentioned": "20260427",
         "mentionCount": 1,
-        "lastMentionedPriceChange": -1.42,
+        "lastMentionedPriceChange": -1.06,
         "lastMentionedPriceChangeType": "翌営業日"
       },
       {
@@ -1081,7 +1081,7 @@
         "type": "1Q",
         "lastMentioned": "20260427",
         "mentionCount": 1,
-        "lastMentionedPriceChange": 2.86,
+        "lastMentionedPriceChange": 2.53,
         "lastMentionedPriceChangeType": "翌営業日"
       },
       {
@@ -1144,6 +1144,16 @@
         "lastMentioned": "20260318",
         "mentionCount": 1,
         "lastMentionedPriceChange": 1.11,
+        "lastMentionedPriceChangeType": "翌営業日"
+      },
+      {
+        "code": "9107",
+        "name": "川崎汽船",
+        "time": "15:30\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260724",
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 1.57,
         "lastMentionedPriceChangeType": "翌営業日"
       }
     ],

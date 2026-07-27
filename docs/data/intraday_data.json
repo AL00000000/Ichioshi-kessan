@@ -518,21 +518,42 @@
       {
         "code": "3132",
         "name": "マクニカホールディングス",
-        "time": "15:00\n（予定）",
+        "time": "15:00\n（実績）",
         "type": "1Q",
         "isWatchlist": false
       },
       {
-        "code": "7299",
-        "name": "フジオーゼックス",
-        "time": "15:00\n（予定）",
+        "code": "4366",
+        "name": "ダイトーケミックス",
+        "time": "14:30\n（実績）",
+        "type": "1Q",
+        "isWatchlist": false
+      },
+      {
+        "code": "6230",
+        "name": "ＳＡＮＥＩ",
+        "time": "12:00\n（実績）",
+        "type": "1Q",
+        "isWatchlist": false
+      },
+      {
+        "code": "8190",
+        "name": "ヤマナカ",
+        "time": "13:00\n（実績）",
         "type": "1Q",
         "isWatchlist": false
       },
       {
         "code": "9533",
         "name": "東邦瓦斯",
-        "time": "11:40\n（予定）",
+        "time": "11:40\n（実績）",
+        "type": "1Q",
+        "isWatchlist": false
+      },
+      {
+        "code": "9663",
+        "name": "ナガワ",
+        "time": "13:00\n（実績）",
         "type": "1Q",
         "isWatchlist": false
       }
@@ -3253,8 +3274,8 @@
         "isWatchlist": true,
         "lastMentioned": "20260511",
         "mentionCount": 1,
-        "lastMentionedPriceChange": 4.39,
-        "lastMentionedPriceChangeType": "翌営業日"
+        "lastMentionedPriceChange": 1.22,
+        "lastMentionedPriceChangeType": "同日"
       },
       {
         "code": "7956",
@@ -4105,8 +4126,8 @@
         "isWatchlist": true,
         "lastMentioned": "20260430",
         "mentionCount": 1,
-        "lastMentionedPriceChange": 7.09,
-        "lastMentionedPriceChangeType": "翌営業日"
+        "lastMentionedPriceChange": -3.57,
+        "lastMentionedPriceChangeType": "同日"
       },
       {
         "code": "2108",
@@ -5507,8 +5528,8 @@
         "isWatchlist": true,
         "lastMentioned": "20260326",
         "mentionCount": 1,
-        "lastMentionedPriceChange": 3.22,
-        "lastMentionedPriceChangeType": "翌営業日"
+        "lastMentionedPriceChange": 0.29,
+        "lastMentionedPriceChangeType": "同日"
       },
       {
         "code": "7494",
