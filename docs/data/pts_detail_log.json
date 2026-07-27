@@ -466,7 +466,9 @@
       "ptsHighEarly": 1138.0,
       "ptsHighEarlyTime": "17:01　07/24",
       "ptsHighFinal": 1138.0,
-      "ptsHighFinalTime": "17:01　07/24"
+      "ptsHighFinalTime": "17:01　07/24",
+      "nextDayHigh": 1084.0,
+      "nextDayHighTime": "09:00"
     },
     "6653": {
       "name": "正興電機製作所",
@@ -475,7 +477,9 @@
       "ptsHighEarly": 2250.0,
       "ptsHighEarlyTime": "17:00　07/24",
       "ptsHighFinal": 2250.0,
-      "ptsHighFinalTime": "17:00　07/24"
+      "ptsHighFinalTime": "17:00　07/24",
+      "nextDayHigh": 2272.0,
+      "nextDayHighTime": "14:01"
     },
     "7175": {
       "name": "今村証券",
@@ -484,7 +488,9 @@
       "ptsHighEarly": 1750.0,
       "ptsHighEarlyTime": "17:25　07/24",
       "ptsHighFinal": 1750.0,
-      "ptsHighFinalTime": "17:25　07/24"
+      "ptsHighFinalTime": "17:25　07/24",
+      "nextDayHigh": 1880.0,
+      "nextDayHighTime": "09:09"
     },
     "8060": {
       "name": "キヤノンマーケティングジャパン",
@@ -493,12 +499,16 @@
       "ptsHighEarly": 3439.9,
       "ptsHighEarlyTime": "21:26　07/24",
       "ptsHighFinal": 3439.9,
-      "ptsHighFinalTime": "21:26　07/24"
+      "ptsHighFinalTime": "21:26　07/24",
+      "nextDayHigh": 3575.0,
+      "nextDayHighTime": "10:55"
     },
     "8707": {
       "name": "岩井コスモホールディングス",
       "ptsHighFinal": 4349.5,
-      "ptsHighFinalTime": "17:01　07/24"
+      "ptsHighFinalTime": "17:01　07/24",
+      "nextDayHigh": 4320.0,
+      "nextDayHighTime": "13:54"
     }
   }
 }
