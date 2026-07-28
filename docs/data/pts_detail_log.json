@@ -524,5 +524,20 @@
       "nextDayHighTime": "09:03",
       "nextDayClose": 1530.0
     }
+  },
+  "20260728": {
+    "1930": {
+      "name": "北陸電気工事"
+    },
+    "5279": {
+      "name": "日本興業"
+    },
+    "7735": {
+      "name": "ＳＣＲＥＥＮホールディングス",
+      "ptsOpen": 12999.0,
+      "ptsOpenTime": "17:00　07/28",
+      "ptsHighEarly": 13400.0,
+      "ptsHighEarlyTime": "17:00　07/28"
+    }
   }
 }
