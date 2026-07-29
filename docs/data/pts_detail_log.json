@@ -529,12 +529,16 @@
     "1930": {
       "name": "北陸電気工事",
       "ptsHighFinal": 1502.0,
-      "ptsHighFinalTime": "20:34　07/28"
+      "ptsHighFinalTime": "20:34　07/28",
+      "nextDayHigh": 1512.0,
+      "nextDayHighTime": "09:00"
     },
     "5279": {
       "name": "日本興業",
       "ptsHighFinal": 1165.0,
-      "ptsHighFinalTime": "21:16　07/28"
+      "ptsHighFinalTime": "21:16　07/28",
+      "nextDayHigh": 1214.0,
+      "nextDayHighTime": "09:24"
     },
     "7735": {
       "name": "ＳＣＲＥＥＮホールディングス",
@@ -543,7 +547,9 @@
       "ptsHighEarly": 13400.0,
       "ptsHighEarlyTime": "17:00　07/28",
       "ptsHighFinal": 13400.0,
-      "ptsHighFinalTime": "17:00　07/28"
+      "ptsHighFinalTime": "17:00　07/28",
+      "nextDayHigh": 13270.0,
+      "nextDayHighTime": "09:09"
     }
   }
 }
