@@ -551,5 +551,40 @@
       "nextDayHigh": 13270.0,
       "nextDayHighTime": "09:09"
     }
+  },
+  "20260729": {
+    "1944": {
+      "name": "きんでん"
+    },
+    "1946": {
+      "name": "トーエネック",
+      "ptsOpen": 2065.0,
+      "ptsOpenTime": "17:00　07/29",
+      "ptsHighEarly": 2065.0,
+      "ptsHighEarlyTime": "17:00　07/29"
+    },
+    "3793": {
+      "name": "ドリコム",
+      "ptsOpen": 455.0,
+      "ptsOpenTime": "17:02　07/29",
+      "ptsHighEarly": 455.0,
+      "ptsHighEarlyTime": "17:02　07/29"
+    },
+    "6857": {
+      "name": "アドバンテスト",
+      "ptsOpen": 27800.0,
+      "ptsOpenTime": "17:00　07/29",
+      "ptsHighEarly": 28660.0,
+      "ptsHighEarlyTime": "17:00　07/29"
+    },
+    "8137": {
+      "name": "サンワテクノス"
+    },
+    "8572": {
+      "name": "アコム"
+    },
+    "8708": {
+      "name": "アイザワ証券グループ"
+    }
   }
 }
