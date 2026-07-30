@@ -556,7 +556,9 @@
     "1944": {
       "name": "きんでん",
       "ptsHighFinal": 7500.0,
-      "ptsHighFinalTime": "17:07　07/29"
+      "ptsHighFinalTime": "17:07　07/29",
+      "nextDayHigh": 7390.0,
+      "nextDayHighTime": "09:18"
     },
     "1946": {
       "name": "トーエネック",
@@ -565,7 +567,9 @@
       "ptsHighEarly": 2065.0,
       "ptsHighEarlyTime": "17:00　07/29",
       "ptsHighFinal": 2089.0,
-      "ptsHighFinalTime": "22:04　07/29"
+      "ptsHighFinalTime": "22:04　07/29",
+      "nextDayHigh": 2026.0,
+      "nextDayHighTime": "11:26"
     },
     "3793": {
       "name": "ドリコム",
@@ -574,7 +578,9 @@
       "ptsHighEarly": 455.0,
       "ptsHighEarlyTime": "17:02　07/29",
       "ptsHighFinal": 455.0,
-      "ptsHighFinalTime": "17:02　07/29"
+      "ptsHighFinalTime": "17:02　07/29",
+      "nextDayHigh": 437.0,
+      "nextDayHighTime": "09:03"
     },
     "6857": {
       "name": "アドバンテスト",
@@ -583,22 +589,30 @@
       "ptsHighEarly": 28660.0,
       "ptsHighEarlyTime": "17:00　07/29",
       "ptsHighFinal": 28660.0,
-      "ptsHighFinalTime": "17:00　07/29"
+      "ptsHighFinalTime": "17:00　07/29",
+      "nextDayHigh": 29425.0,
+      "nextDayHighTime": "09:26"
     },
     "8137": {
       "name": "サンワテクノス",
       "ptsHighFinal": 3699.5,
-      "ptsHighFinalTime": "23:19　07/29"
+      "ptsHighFinalTime": "23:19　07/29",
+      "nextDayHigh": 3590.0,
+      "nextDayHighTime": "09:03"
     },
     "8572": {
       "name": "アコム",
       "ptsHighFinal": 496.0,
-      "ptsHighFinalTime": "21:35　07/29"
+      "ptsHighFinalTime": "21:35　07/29",
+      "nextDayHigh": 496.0,
+      "nextDayHighTime": "09:18"
     },
     "8708": {
       "name": "アイザワ証券グループ",
       "ptsHighFinal": 1670.0,
-      "ptsHighFinalTime": "22:52　07/29"
+      "ptsHighFinalTime": "22:52　07/29",
+      "nextDayHigh": 1675.0,
+      "nextDayHighTime": "13:26"
     }
   }
 }
