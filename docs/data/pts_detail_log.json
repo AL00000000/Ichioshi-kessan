@@ -621,26 +621,38 @@
       "ptsOpen": 5125.0,
       "ptsOpenTime": "17:03　07/30",
       "ptsHighEarly": 5125.0,
-      "ptsHighEarlyTime": "17:03　07/30"
+      "ptsHighEarlyTime": "17:03　07/30",
+      "ptsHighFinal": 5290.0,
+      "ptsHighFinalTime": "22:42　07/30"
     },
     "5333": {
-      "name": "ＮＧＫ"
+      "name": "ＮＧＫ",
+      "ptsHighFinal": 5750.0,
+      "ptsHighFinalTime": "23:02　07/30"
     },
     "6454": {
-      "name": "マックス"
+      "name": "マックス",
+      "ptsHighFinal": 1722.0,
+      "ptsHighFinalTime": "18:03　07/30"
     },
     "6754": {
-      "name": "アンリツ"
+      "name": "アンリツ",
+      "ptsHighFinal": 3849.9,
+      "ptsHighFinalTime": "23:53　07/30"
     },
     "6971": {
       "name": "京セラ",
       "ptsOpen": 3749.9,
       "ptsOpenTime": "17:04　07/30",
       "ptsHighEarly": 3749.9,
-      "ptsHighEarlyTime": "17:04　07/30"
+      "ptsHighEarlyTime": "17:04　07/30",
+      "ptsHighFinal": 3900.0,
+      "ptsHighFinalTime": "23:58　07/30"
     },
     "8609": {
-      "name": "岡三証券グループ"
+      "name": "岡三証券グループ",
+      "ptsHighFinal": 1120.0,
+      "ptsHighFinalTime": "19:43　07/30"
     },
     "8613": {
       "name": "丸三証券"
