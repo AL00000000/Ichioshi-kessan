@@ -1,8 +1,8 @@
 {
   "generatedFrom": {
-    "historyEntries": 94,
-    "watchlistCodes": 376,
-    "scheduleEntries": 1607
+    "historyEntries": 99,
+    "watchlistCodes": 409,
+    "scheduleEntries": 885
   },
   "days": {
     "20260706": [
@@ -936,7 +936,7 @@
         "type": "1Q",
         "lastMentioned": "20260508",
         "mentionCount": 1,
-        "lastMentionedPriceChange": 2.5,
+        "lastMentionedPriceChange": 1.8,
         "lastMentionedPriceChangeType": "翌営業日",
         "referenceClose": 3670.0,
         "preEarningsChange": -2.52,
@@ -1107,79 +1107,79 @@
       {
         "code": "3914",
         "name": "ＪＩＧ－ＳＡＷ",
-        "time": "16:00\n（予定）",
+        "time": "16:00\n（実績）",
         "type": "2Q",
         "lastMentioned": "20260507",
         "mentionCount": 1,
         "lastMentionedPriceChange": 18.76,
         "lastMentionedPriceChangeType": "翌営業日",
-        "referenceClose": 2533.0,
-        "preEarningsChange": 3.64,
+        "referenceClose": 2529.0,
+        "preEarningsChange": 3.48,
         "preEarningsFromDate": "20260727"
       },
       {
         "code": "6018",
         "name": "阪神内燃機工業",
-        "time": "15:30\n（予定）",
+        "time": "15:30\n（実績）",
         "type": "1Q",
         "lastMentioned": "20260422",
         "mentionCount": 1,
         "lastMentionedPriceChange": -2.67,
         "lastMentionedPriceChangeType": "翌営業日",
-        "referenceClose": 6630.0,
-        "preEarningsChange": 3.76,
+        "referenceClose": 6710.0,
+        "preEarningsChange": 5.01,
         "preEarningsFromDate": "20260723"
       },
       {
         "code": "6134",
         "name": "ＦＵＪＩ",
-        "time": "15:30\n（予定）",
+        "time": "15:30\n（実績）",
         "type": "1Q",
         "lastMentioned": "20260514",
         "mentionCount": 1,
         "lastMentionedPriceChange": 11.0,
         "lastMentionedPriceChangeType": "翌営業日",
-        "referenceClose": 7380.0,
-        "preEarningsChange": -2.19,
+        "referenceClose": 7445.0,
+        "preEarningsChange": -1.33,
         "preEarningsFromDate": "20260727"
       },
       {
         "code": "7236",
         "name": "ティラド",
-        "time": "17:30\n（予定）",
+        "time": "16:00\n（実績）",
         "type": "1Q",
         "lastMentioned": "20260427",
         "mentionCount": 1,
         "lastMentionedPriceChange": 18.5,
         "lastMentionedPriceChangeType": "翌営業日",
-        "referenceClose": 1521.0,
-        "preEarningsChange": -1.23,
+        "referenceClose": 1525.0,
+        "preEarningsChange": -0.97,
         "preEarningsFromDate": "20260727"
       },
       {
         "code": "7480",
         "name": "スズデン",
-        "time": "15:30\n（予定）",
+        "time": "15:30\n（実績）",
         "type": "1Q",
         "lastMentioned": "20260507",
         "mentionCount": 1,
         "lastMentionedPriceChange": 11.61,
         "lastMentionedPriceChangeType": "翌営業日",
-        "referenceClose": 2403.0,
-        "preEarningsChange": -1.84,
+        "referenceClose": 2401.0,
+        "preEarningsChange": -1.92,
         "preEarningsFromDate": "20260727"
       },
       {
         "code": "7609",
         "name": "ダイトロン",
-        "time": "16:00\n（予定）",
+        "time": "16:00\n（実績）",
         "type": "2Q",
         "lastMentioned": "20260507",
         "mentionCount": 1,
         "lastMentionedPriceChange": 13.61,
         "lastMentionedPriceChangeType": "翌営業日",
-        "referenceClose": 3570.0,
-        "preEarningsChange": 3.18,
+        "referenceClose": 3580.0,
+        "preEarningsChange": 3.47,
         "preEarningsFromDate": "20260727"
       }
     ],
@@ -1415,36 +1415,6 @@
         "lastMentionedPriceChangeType": "翌営業日"
       },
       {
-        "code": "6554",
-        "name": "エスユーエス",
-        "time": "15:30\n（予定）",
-        "type": "3Q",
-        "lastMentioned": "20260422",
-        "mentionCount": 1,
-        "lastMentionedPriceChange": 5.52,
-        "lastMentionedPriceChangeType": "翌営業日"
-      },
-      {
-        "code": "6871",
-        "name": "日本マイクロニクス",
-        "time": "15:30\n（予定）",
-        "type": "2Q",
-        "lastMentioned": "20260513",
-        "mentionCount": 1,
-        "lastMentionedPriceChange": 14.28,
-        "lastMentionedPriceChangeType": "翌営業日"
-      },
-      {
-        "code": "6914",
-        "name": "オプテックスグループ",
-        "time": "15:30\n（予定）",
-        "type": "2Q",
-        "lastMentioned": "20260513",
-        "mentionCount": 1,
-        "lastMentionedPriceChange": 22.12,
-        "lastMentionedPriceChangeType": "翌営業日"
-      },
-      {
         "code": "7183",
         "name": "あんしん保証",
         "time": "11:00\n（予定）",
@@ -1463,7 +1433,7 @@
         "type": "1Q",
         "lastMentioned": "20260508",
         "mentionCount": 1,
-        "lastMentionedPriceChange": -4.16,
+        "lastMentionedPriceChange": -3.76,
         "lastMentionedPriceChangeType": "翌営業日"
       },
       {
@@ -1517,7 +1487,7 @@
         "type": "本決算",
         "lastMentioned": "20260619",
         "mentionCount": 1,
-        "lastMentionedPriceChange": 3.02,
+        "lastMentionedPriceChange": 3.27,
         "lastMentionedPriceChangeType": "翌営業日"
       }
     ]
