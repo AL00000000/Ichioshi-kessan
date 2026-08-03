@@ -676,17 +676,23 @@
     "2053": {
       "name": "中部飼料",
       "ptsHighFinal": 1888.0,
-      "ptsHighFinalTime": "23:03　07/31"
+      "ptsHighFinalTime": "23:03　07/31",
+      "nextDayHigh": 1920.0,
+      "nextDayHighTime": "14:33"
     },
     "8473": {
       "name": "ＳＢＩホールディングス",
       "ptsHighFinal": 3046.0,
-      "ptsHighFinalTime": "18:04　07/31"
+      "ptsHighFinalTime": "18:04　07/31",
+      "nextDayHigh": 3002.0,
+      "nextDayHighTime": "09:00"
     },
     "8616": {
       "name": "東海東京フィナンシャル・ホールディングス",
       "ptsHighFinal": 818.0,
-      "ptsHighFinalTime": "19:08　07/31"
+      "ptsHighFinalTime": "19:08　07/31",
+      "nextDayHigh": 813.0,
+      "nextDayHighTime": "09:09"
     }
   }
 }
