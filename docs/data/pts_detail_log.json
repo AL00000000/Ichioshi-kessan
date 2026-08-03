@@ -701,7 +701,9 @@
       "ptsOpen": 2299.9,
       "ptsOpenTime": "17:00　08/03",
       "ptsHighEarly": 2300.0,
-      "ptsHighEarlyTime": "17:02　08/03"
+      "ptsHighEarlyTime": "17:02　08/03",
+      "ptsHighFinal": 2388.0,
+      "ptsHighFinalTime": "18:10　08/03"
     },
     "6018": {
       "name": "阪神内燃機工業"
@@ -711,14 +713,18 @@
       "ptsOpen": 8945.0,
       "ptsOpenTime": "17:01　08/03",
       "ptsHighEarly": 8945.0,
-      "ptsHighEarlyTime": "17:01　08/03"
+      "ptsHighEarlyTime": "17:01　08/03",
+      "ptsHighFinal": 8945.0,
+      "ptsHighFinalTime": "17:01　08/03"
     },
     "7236": {
       "name": "ティラド",
       "ptsOpen": 1550.0,
       "ptsOpenTime": "17:00　08/03",
       "ptsHighEarly": 1550.0,
-      "ptsHighEarlyTime": "17:00　08/03"
+      "ptsHighEarlyTime": "17:00　08/03",
+      "ptsHighFinal": 1550.0,
+      "ptsHighFinalTime": "17:00　08/03"
     },
     "7480": {
       "name": "スズデン"
@@ -728,7 +734,9 @@
       "ptsOpen": 3800.5,
       "ptsOpenTime": "17:00　08/03",
       "ptsHighEarly": 3825.0,
-      "ptsHighEarlyTime": "17:01　08/03"
+      "ptsHighEarlyTime": "17:01　08/03",
+      "ptsHighFinal": 3850.0,
+      "ptsHighFinalTime": "17:14　08/03"
     }
   }
 }
