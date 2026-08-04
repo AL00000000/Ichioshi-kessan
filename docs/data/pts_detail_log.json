@@ -703,10 +703,14 @@
       "ptsHighEarly": 2300.0,
       "ptsHighEarlyTime": "17:02　08/03",
       "ptsHighFinal": 2388.0,
-      "ptsHighFinalTime": "18:10　08/03"
+      "ptsHighFinalTime": "18:10　08/03",
+      "nextDayHigh": 2369.0,
+      "nextDayHighTime": "09:21"
     },
     "6018": {
-      "name": "阪神内燃機工業"
+      "name": "阪神内燃機工業",
+      "nextDayHigh": 6610.0,
+      "nextDayHighTime": "09:02"
     },
     "6134": {
       "name": "ＦＵＪＩ",
@@ -715,7 +719,9 @@
       "ptsHighEarly": 8945.0,
       "ptsHighEarlyTime": "17:01　08/03",
       "ptsHighFinal": 8945.0,
-      "ptsHighFinalTime": "17:01　08/03"
+      "ptsHighFinalTime": "17:01　08/03",
+      "nextDayHigh": 8673.0,
+      "nextDayHighTime": "09:24"
     },
     "7236": {
       "name": "ティラド",
@@ -724,7 +730,9 @@
       "ptsHighEarly": 1550.0,
       "ptsHighEarlyTime": "17:00　08/03",
       "ptsHighFinal": 1550.0,
-      "ptsHighFinalTime": "17:00　08/03"
+      "ptsHighFinalTime": "17:00　08/03",
+      "nextDayHigh": 1486.0,
+      "nextDayHighTime": "10:16"
     },
     "7480": {
       "name": "スズデン"
@@ -736,7 +744,9 @@
       "ptsHighEarly": 3825.0,
       "ptsHighEarlyTime": "17:01　08/03",
       "ptsHighFinal": 3850.0,
-      "ptsHighFinalTime": "17:14　08/03"
+      "ptsHighFinalTime": "17:14　08/03",
+      "nextDayHigh": 4280.0,
+      "nextDayHighTime": "14:09"
     }
   }
 }
