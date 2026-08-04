@@ -748,5 +748,38 @@
       "nextDayHigh": 4280.0,
       "nextDayHighTime": "14:09"
     }
+  },
+  "20260804": {
+    "5857": {
+      "name": "ＡＲＥホールディングス",
+      "ptsOpen": 3236.0,
+      "ptsOpenTime": "17:03　08/04",
+      "ptsHighEarly": 3236.0,
+      "ptsHighEarlyTime": "17:03　08/04"
+    },
+    "6141": {
+      "name": "ＤＭＧ森精機",
+      "ptsOpen": 3557.0,
+      "ptsOpenTime": "17:03　08/04",
+      "ptsHighEarly": 3557.0,
+      "ptsHighEarlyTime": "17:03　08/04"
+    },
+    "6622": {
+      "name": "ダイヘン",
+      "ptsOpen": 14200.0,
+      "ptsOpenTime": "17:04　08/04",
+      "ptsHighEarly": 14200.0,
+      "ptsHighEarlyTime": "17:04　08/04"
+    },
+    "6809": {
+      "name": "ＴＯＡ"
+    },
+    "9107": {
+      "name": "川崎汽船",
+      "ptsOpen": 2790.0,
+      "ptsOpenTime": "17:02　08/04",
+      "ptsHighEarly": 2790.0,
+      "ptsHighEarlyTime": "17:02　08/04"
+    }
   }
 }
