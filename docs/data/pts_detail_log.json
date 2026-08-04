@@ -755,31 +755,41 @@
       "ptsOpen": 3236.0,
       "ptsOpenTime": "17:03　08/04",
       "ptsHighEarly": 3236.0,
-      "ptsHighEarlyTime": "17:03　08/04"
+      "ptsHighEarlyTime": "17:03　08/04",
+      "ptsHighFinal": 3350.0,
+      "ptsHighFinalTime": "17:08　08/04"
     },
     "6141": {
       "name": "ＤＭＧ森精機",
       "ptsOpen": 3557.0,
       "ptsOpenTime": "17:03　08/04",
       "ptsHighEarly": 3557.0,
-      "ptsHighEarlyTime": "17:03　08/04"
+      "ptsHighEarlyTime": "17:03　08/04",
+      "ptsHighFinal": 3852.0,
+      "ptsHighFinalTime": "23:52　08/04"
     },
     "6622": {
       "name": "ダイヘン",
       "ptsOpen": 14200.0,
       "ptsOpenTime": "17:04　08/04",
       "ptsHighEarly": 14200.0,
-      "ptsHighEarlyTime": "17:04　08/04"
+      "ptsHighEarlyTime": "17:04　08/04",
+      "ptsHighFinal": 14400.0,
+      "ptsHighFinalTime": "23:01　08/04"
     },
     "6809": {
-      "name": "ＴＯＡ"
+      "name": "ＴＯＡ",
+      "ptsHighFinal": 1696.0,
+      "ptsHighFinalTime": "22:44　08/04"
     },
     "9107": {
       "name": "川崎汽船",
       "ptsOpen": 2790.0,
       "ptsOpenTime": "17:02　08/04",
       "ptsHighEarly": 2790.0,
-      "ptsHighEarlyTime": "17:02　08/04"
+      "ptsHighEarlyTime": "17:02　08/04",
+      "ptsHighFinal": 2796.0,
+      "ptsHighFinalTime": "18:31　08/04"
     }
   }
 }
