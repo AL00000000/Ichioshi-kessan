@@ -804,22 +804,34 @@
   },
   "20260805": {
     "2307": {
-      "name": "クロスキャット"
+      "name": "クロスキャット",
+      "ptsHighFinal": 1035.0,
+      "ptsHighFinalTime": "17:20　08/05"
     },
     "3628": {
-      "name": "データホライゾン"
+      "name": "データホライゾン",
+      "ptsHighFinal": 585.0,
+      "ptsHighFinalTime": "17:16　08/05"
     },
     "4320": {
-      "name": "ＣＥホールディングス"
+      "name": "ＣＥホールディングス",
+      "ptsHighFinal": 2000.0,
+      "ptsHighFinalTime": "18:45　08/05"
     },
     "4911": {
-      "name": "資生堂"
+      "name": "資生堂",
+      "ptsHighFinal": 3458.0,
+      "ptsHighFinalTime": "22:53　08/05"
     },
     "7075": {
-      "name": "ＱＬＳホールディングス"
+      "name": "ＱＬＳホールディングス",
+      "ptsHighFinal": 870.0,
+      "ptsHighFinalTime": "21:08　08/05"
     },
     "9127": {
-      "name": "玉井商船"
+      "name": "玉井商船",
+      "ptsHighFinal": 2919.9,
+      "ptsHighFinalTime": "21:37　08/05"
     }
   }
 }
