@@ -806,32 +806,44 @@
     "2307": {
       "name": "クロスキャット",
       "ptsHighFinal": 1035.0,
-      "ptsHighFinalTime": "17:20　08/05"
+      "ptsHighFinalTime": "17:20　08/05",
+      "nextDayHigh": 994.0,
+      "nextDayHighTime": "14:23"
     },
     "3628": {
       "name": "データホライゾン",
       "ptsHighFinal": 585.0,
-      "ptsHighFinalTime": "17:16　08/05"
+      "ptsHighFinalTime": "17:16　08/05",
+      "nextDayHigh": 577.0,
+      "nextDayHighTime": "09:48"
     },
     "4320": {
       "name": "ＣＥホールディングス",
       "ptsHighFinal": 2000.0,
-      "ptsHighFinalTime": "18:45　08/05"
+      "ptsHighFinalTime": "18:45　08/05",
+      "nextDayHigh": 1650.0,
+      "nextDayHighTime": "11:02"
     },
     "4911": {
       "name": "資生堂",
       "ptsHighFinal": 3458.0,
-      "ptsHighFinalTime": "22:53　08/05"
+      "ptsHighFinalTime": "22:53　08/05",
+      "nextDayHigh": 3467.0,
+      "nextDayHighTime": "09:04"
     },
     "7075": {
       "name": "ＱＬＳホールディングス",
       "ptsHighFinal": 870.0,
-      "ptsHighFinalTime": "21:08　08/05"
+      "ptsHighFinalTime": "21:08　08/05",
+      "nextDayHigh": 860.0,
+      "nextDayHighTime": "09:15"
     },
     "9127": {
       "name": "玉井商船",
       "ptsHighFinal": 2919.9,
-      "ptsHighFinalTime": "21:37　08/05"
+      "ptsHighFinalTime": "21:37　08/05",
+      "nextDayHigh": 2910.0,
+      "nextDayHighTime": "09:00"
     }
   }
 }
