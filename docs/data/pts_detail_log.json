@@ -848,10 +848,14 @@
   },
   "20260806": {
     "6332": {
-      "name": "月島ホールディングス"
+      "name": "月島ホールディングス",
+      "ptsHighFinal": 2820.0,
+      "ptsHighFinalTime": "17:29　08/06"
     },
     "7955": {
-      "name": "クリナップ"
+      "name": "クリナップ",
+      "ptsHighFinal": 922.0,
+      "ptsHighFinalTime": "22:35　08/06"
     }
   }
 }
