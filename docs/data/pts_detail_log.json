@@ -850,12 +850,16 @@
     "6332": {
       "name": "月島ホールディングス",
       "ptsHighFinal": 2820.0,
-      "ptsHighFinalTime": "17:29　08/06"
+      "ptsHighFinalTime": "17:29　08/06",
+      "nextDayHigh": 2773.0,
+      "nextDayHighTime": "12:33"
     },
     "7955": {
       "name": "クリナップ",
       "ptsHighFinal": 922.0,
-      "ptsHighFinalTime": "22:35　08/06"
+      "ptsHighFinalTime": "22:35　08/06",
+      "nextDayHigh": 960.0,
+      "nextDayHighTime": "09:08"
     }
   }
 }
