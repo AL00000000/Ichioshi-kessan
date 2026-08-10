@@ -887,7 +887,19 @@
       "name": "オープンワーク"
     },
     "8051": {
-      "name": "山善"
+      "name": "山善",
+      "ptsHighFinal": 1900.0,
+      "ptsHighFinalTime": "23:22　08/10"
+    },
+    "546A": {
+      "name": "ＭＩＲＡＩＮＩホールディングス",
+      "ptsHighFinal": 2601.0,
+      "ptsHighFinalTime": "18:10　08/10"
+    },
+    "8999": {
+      "name": "グランディハウス",
+      "ptsHighFinal": 560.0,
+      "ptsHighFinalTime": "17:35　08/10"
     }
   }
 }
