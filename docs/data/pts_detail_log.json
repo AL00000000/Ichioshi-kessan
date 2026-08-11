@@ -871,7 +871,10 @@
   },
   "20260810": {
     "1867": {
-      "name": "植木組"
+      "name": "植木組",
+      "nextDayHigh": 2900.0,
+      "nextDayHighTime": "09:03",
+      "nextDayClose": 2675.0
     },
     "4047": {
       "name": "関東電化工業",
@@ -884,22 +887,34 @@
       "name": "バルテス・ホールディングス"
     },
     "5139": {
-      "name": "オープンワーク"
+      "name": "オープンワーク",
+      "nextDayHigh": 961.0,
+      "nextDayHighTime": "15:11",
+      "nextDayClose": 947.0
     },
     "8051": {
       "name": "山善",
       "ptsHighFinal": 1900.0,
-      "ptsHighFinalTime": "23:22　08/10"
+      "ptsHighFinalTime": "23:22　08/10",
+      "nextDayHigh": 1958.0,
+      "nextDayHighTime": "14:01",
+      "nextDayClose": 1900.0
     },
     "546A": {
       "name": "ＭＩＲＡＩＮＩホールディングス",
       "ptsHighFinal": 2601.0,
-      "ptsHighFinalTime": "18:10　08/10"
+      "ptsHighFinalTime": "18:10　08/10",
+      "nextDayHigh": 2739.0,
+      "nextDayHighTime": "14:17",
+      "nextDayClose": 2603.0
     },
     "8999": {
       "name": "グランディハウス",
       "ptsHighFinal": 560.0,
-      "ptsHighFinalTime": "17:35　08/10"
+      "ptsHighFinalTime": "17:35　08/10",
+      "nextDayHigh": 568.0,
+      "nextDayHighTime": "15:02",
+      "nextDayClose": 552.0
     }
   }
 }
