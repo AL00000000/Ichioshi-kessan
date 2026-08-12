@@ -917,5 +917,28 @@
       "nextDayClose": 552.0
     }
   },
-  "20260811": {}
+  "20260811": {},
+  "20260812": {
+    "4259": {
+      "name": "エクサウィザーズ",
+      "ptsOpen": 750.0,
+      "ptsOpenTime": "17:00　08/12",
+      "ptsHighEarly": 760.0,
+      "ptsHighEarlyTime": "17:00　08/12"
+    },
+    "4419": {
+      "name": "Ｆｉｎａｔｅｘｔホールディングス",
+      "ptsOpen": 1300.8,
+      "ptsOpenTime": "17:01　08/12",
+      "ptsHighEarly": 1300.8,
+      "ptsHighEarlyTime": "17:01　08/12"
+    },
+    "7183": {
+      "name": "あんしん保証",
+      "ptsOpen": 255.1,
+      "ptsOpenTime": "17:00　08/12",
+      "ptsHighEarly": 255.1,
+      "ptsHighEarlyTime": "17:00　08/12"
+    }
+  }
 }
