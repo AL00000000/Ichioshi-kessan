@@ -924,21 +924,27 @@
       "ptsOpen": 750.0,
       "ptsOpenTime": "17:00　08/12",
       "ptsHighEarly": 760.0,
-      "ptsHighEarlyTime": "17:00　08/12"
+      "ptsHighEarlyTime": "17:00　08/12",
+      "ptsHighFinal": 775.9,
+      "ptsHighFinalTime": "19:07　08/12"
     },
     "4419": {
       "name": "Ｆｉｎａｔｅｘｔホールディングス",
       "ptsOpen": 1300.8,
       "ptsOpenTime": "17:01　08/12",
       "ptsHighEarly": 1300.8,
-      "ptsHighEarlyTime": "17:01　08/12"
+      "ptsHighEarlyTime": "17:01　08/12",
+      "ptsHighFinal": 1419.9,
+      "ptsHighFinalTime": "19:09　08/12"
     },
     "7183": {
       "name": "あんしん保証",
       "ptsOpen": 255.1,
       "ptsOpenTime": "17:00　08/12",
       "ptsHighEarly": 255.1,
-      "ptsHighEarlyTime": "17:00　08/12"
+      "ptsHighEarlyTime": "17:00　08/12",
+      "ptsHighFinal": 255.1,
+      "ptsHighFinalTime": "17:00　08/12"
     }
   }
 }
