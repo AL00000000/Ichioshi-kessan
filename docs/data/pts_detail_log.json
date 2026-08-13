@@ -926,7 +926,10 @@
       "ptsHighEarly": 760.0,
       "ptsHighEarlyTime": "17:00　08/12",
       "ptsHighFinal": 775.9,
-      "ptsHighFinalTime": "19:07　08/12"
+      "ptsHighFinalTime": "19:07　08/12",
+      "nextDayHigh": 716.0,
+      "nextDayHighTime": "12:40",
+      "nextDayClose": 692.0
     },
     "4419": {
       "name": "Ｆｉｎａｔｅｘｔホールディングス",
@@ -935,7 +938,10 @@
       "ptsHighEarly": 1300.8,
       "ptsHighEarlyTime": "17:01　08/12",
       "ptsHighFinal": 1419.9,
-      "ptsHighFinalTime": "19:09　08/12"
+      "ptsHighFinalTime": "19:09　08/12",
+      "nextDayHigh": 1374.0,
+      "nextDayHighTime": "09:36",
+      "nextDayClose": 1269.0
     },
     "7183": {
       "name": "あんしん保証",
@@ -944,7 +950,10 @@
       "ptsHighEarly": 255.1,
       "ptsHighEarlyTime": "17:00　08/12",
       "ptsHighFinal": 255.1,
-      "ptsHighFinalTime": "17:00　08/12"
+      "ptsHighFinalTime": "17:00　08/12",
+      "nextDayHigh": 255.0,
+      "nextDayHighTime": "12:44",
+      "nextDayClose": 254.0
     }
   }
 }
