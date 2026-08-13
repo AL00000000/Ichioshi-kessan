@@ -955,5 +955,17 @@
       "nextDayHighTime": "12:44",
       "nextDayClose": 254.0
     }
+  },
+  "20260813": {
+    "2780": {
+      "name": "コメ兵ホールディングス",
+      "ptsOpen": 5500.0,
+      "ptsOpenTime": "17:00　08/13",
+      "ptsHighEarly": 5500.0,
+      "ptsHighEarlyTime": "17:00　08/13"
+    },
+    "3696": {
+      "name": "セレス"
+    }
   }
 }
