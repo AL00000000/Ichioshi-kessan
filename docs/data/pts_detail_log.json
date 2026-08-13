@@ -962,10 +962,14 @@
       "ptsOpen": 5500.0,
       "ptsOpenTime": "17:00　08/13",
       "ptsHighEarly": 5500.0,
-      "ptsHighEarlyTime": "17:00　08/13"
+      "ptsHighEarlyTime": "17:00　08/13",
+      "ptsHighFinal": 5570.0,
+      "ptsHighFinalTime": "23:55　08/13"
     },
     "3696": {
-      "name": "セレス"
+      "name": "セレス",
+      "ptsHighFinal": 2060.0,
+      "ptsHighFinalTime": "23:50　08/13"
     }
   }
 }
