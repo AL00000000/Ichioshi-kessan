@@ -964,12 +964,18 @@
       "ptsHighEarly": 5500.0,
       "ptsHighEarlyTime": "17:00　08/13",
       "ptsHighFinal": 5570.0,
-      "ptsHighFinalTime": "23:55　08/13"
+      "ptsHighFinalTime": "23:55　08/13",
+      "nextDayHigh": 5400.0,
+      "nextDayHighTime": "09:06",
+      "nextDayClose": 5170.0
     },
     "3696": {
       "name": "セレス",
       "ptsHighFinal": 2060.0,
-      "ptsHighFinalTime": "23:50　08/13"
+      "ptsHighFinalTime": "23:50　08/13",
+      "nextDayHigh": 2167.0,
+      "nextDayHighTime": "10:17",
+      "nextDayClose": 2066.0
     }
   }
 }
