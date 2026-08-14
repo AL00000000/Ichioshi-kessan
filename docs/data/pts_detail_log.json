@@ -977,5 +977,20 @@
       "nextDayHighTime": "10:17",
       "nextDayClose": 2066.0
     }
+  },
+  "20260814": {
+    "2340": {
+      "name": "極楽湯ホールディングス",
+      "ptsOpen": 495.0,
+      "ptsOpenTime": "17:01　08/14",
+      "ptsHighEarly": 495.0,
+      "ptsHighEarlyTime": "17:01　08/14"
+    },
+    "2435": {
+      "name": "シダー"
+    },
+    "7389": {
+      "name": "あいちフィナンシャルグループ"
+    }
   }
 }
