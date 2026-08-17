@@ -986,17 +986,26 @@
       "ptsHighEarly": 495.0,
       "ptsHighEarlyTime": "17:01　08/14",
       "ptsHighFinal": 515.0,
-      "ptsHighFinalTime": "21:44　08/14"
+      "ptsHighFinalTime": "21:44　08/14",
+      "nextDayHigh": 530.0,
+      "nextDayHighTime": "09:37",
+      "nextDayClose": 523.0
     },
     "2435": {
       "name": "シダー",
       "ptsHighFinal": 208.0,
-      "ptsHighFinalTime": "18:09　08/14"
+      "ptsHighFinalTime": "18:09　08/14",
+      "nextDayHigh": 219.0,
+      "nextDayHighTime": "09:00",
+      "nextDayClose": 218.0
     },
     "7389": {
       "name": "あいちフィナンシャルグループ",
       "ptsHighFinal": 1869.0,
-      "ptsHighFinalTime": "21:35　08/14"
+      "ptsHighFinalTime": "21:35　08/14",
+      "nextDayHigh": 1926.0,
+      "nextDayHighTime": "09:01",
+      "nextDayClose": 1862.0
     }
   }
 }
