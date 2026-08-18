@@ -1015,7 +1015,9 @@
       "ptsOpen": 3880.0,
       "ptsOpenTime": "17:00　08/18",
       "ptsHighEarly": 3900.0,
-      "ptsHighEarlyTime": "17:00　08/18"
+      "ptsHighEarlyTime": "17:00　08/18",
+      "ptsHighFinal": 3900.0,
+      "ptsHighFinalTime": "17:00　08/18"
     }
   }
 }
