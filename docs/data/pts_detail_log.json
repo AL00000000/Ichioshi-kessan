@@ -1040,5 +1040,14 @@
       "nextDayHigh": 3550.0,
       "nextDayHighTime": "09:15"
     }
+  },
+  "20260828": {
+    "4707": {
+      "name": "キタック",
+      "ptsOpen": 336.0,
+      "ptsOpenTime": "17:00　08/28",
+      "ptsHighEarly": 345.0,
+      "ptsHighEarlyTime": "17:04　08/28"
+    }
   }
 }
