@@ -1,8 +1,8 @@
 {
   "generatedFrom": {
-    "historyEntries": 113,
-    "watchlistCodes": 484,
-    "scheduleEntries": 1018
+    "historyEntries": 118,
+    "watchlistCodes": 492,
+    "scheduleEntries": 527
   },
   "days": {
     "20260706": [
@@ -777,7 +777,7 @@
         "lastMentionedPriceChange": -6.03,
         "lastMentionedPriceChangeType": "翌営業日",
         "referenceClose": 2218.0,
-        "preEarningsChange": -2.2,
+        "preEarningsChange": -1.81,
         "preEarningsFromDate": "20260831"
       },
       {
@@ -787,10 +787,10 @@
         "type": "1Q",
         "lastMentioned": "20260417",
         "mentionCount": 2,
-        "lastMentionedPriceChange": -1.15,
+        "lastMentionedPriceChange": -2.05,
         "lastMentionedPriceChangeType": "翌営業日",
         "referenceClose": 1720.0,
-        "preEarningsChange": -13.04,
+        "preEarningsChange": -12.24,
         "preEarningsFromDate": "20260831"
       },
       {
@@ -803,7 +803,7 @@
         "lastMentionedPriceChange": 3.94,
         "lastMentionedPriceChangeType": "翌営業日",
         "referenceClose": 3574.0,
-        "preEarningsChange": -3.95,
+        "preEarningsChange": -4.41,
         "preEarningsFromDate": "20260831"
       },
       {
@@ -813,10 +813,10 @@
         "type": "1Q",
         "lastMentioned": "20260417",
         "mentionCount": 2,
-        "lastMentionedPriceChange": -1.46,
+        "lastMentionedPriceChange": -1.67,
         "lastMentionedPriceChangeType": "翌営業日",
         "referenceClose": 4275.0,
-        "preEarningsChange": -9.52,
+        "preEarningsChange": -9.33,
         "preEarningsFromDate": "20260831"
       }
     ],
@@ -1543,7 +1543,7 @@
       {
         "code": "2590",
         "name": "ダイドーグループホールディングス",
-        "time": "15:30\n（予定）",
+        "time": "15:30\n（実績）",
         "type": "2Q",
         "lastMentioned": "20260526",
         "mentionCount": 2,
@@ -1558,7 +1558,7 @@
       {
         "code": "4707",
         "name": "キタック",
-        "time": "15:30\n（予定）",
+        "time": "15:30\n（実績）",
         "type": "3Q",
         "lastMentioned": "20260529",
         "mentionCount": 1,
@@ -1573,40 +1573,40 @@
       {
         "code": "4369",
         "name": "トリケミカル研究所",
-        "time": "15:30\n（予定）",
+        "time": "15:30\n（実績）",
         "type": "2Q",
         "lastMentioned": "20260529",
         "mentionCount": 1,
         "lastMentionedPriceChange": 10.88,
         "lastMentionedPriceChangeType": "翌営業日",
-        "referenceClose": 3105.0,
-        "preEarningsChange": -3.27,
+        "referenceClose": 3080.0,
+        "preEarningsChange": -4.05,
         "preEarningsFromDate": "20260824"
       },
       {
         "code": "436A",
         "name": "サイバーソリューションズ",
-        "time": "未定",
+        "time": "15:30\n（実績）",
         "type": "1Q",
         "lastMentioned": "20260605",
         "mentionCount": 1,
         "lastMentionedPriceChange": -10.61,
         "lastMentionedPriceChangeType": "翌営業日",
-        "referenceClose": 1195.0,
-        "preEarningsChange": 3.46,
+        "referenceClose": 1201.0,
+        "preEarningsChange": 3.98,
         "preEarningsFromDate": "20260824"
       },
       {
         "code": "4666",
         "name": "パーク２４",
-        "time": "16:00\n（予定）",
+        "time": "16:00\n（実績）",
         "type": "3Q",
         "lastMentioned": "20260615",
         "mentionCount": 1,
         "lastMentionedPriceChange": 15.98,
         "lastMentionedPriceChangeType": "翌営業日",
-        "referenceClose": 2017.0,
-        "preEarningsChange": -0.35,
+        "referenceClose": 2007.0,
+        "preEarningsChange": -0.84,
         "preEarningsFromDate": "20260824"
       }
     ],
@@ -1923,6 +1923,16 @@
         "lastMentioned": "20260610",
         "mentionCount": 1,
         "lastMentionedPriceChange": 16.74,
+        "lastMentionedPriceChangeType": "翌営業日"
+      },
+      {
+        "code": "7983",
+        "name": "ミロク",
+        "time": "15:30\n（予定）",
+        "type": "3Q",
+        "lastMentioned": "20260825",
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 21.46,
         "lastMentionedPriceChangeType": "翌営業日"
       },
       {
