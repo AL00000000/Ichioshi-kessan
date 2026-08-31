@@ -749,8 +749,8 @@
         "lastMentionedPriceChange": -3.78,
         "lastMentionedPriceChangeType": "翌営業日",
         "referenceClose": 69410.0,
-        "preEarningsChange": 16.87,
-        "preEarningsFromDate": "20260828"
+        "preEarningsChange": -1.67,
+        "preEarningsFromDate": "20260716"
       }
     ],
     "20260724": [
@@ -764,8 +764,8 @@
         "lastMentionedPriceChange": 29.67,
         "lastMentionedPriceChangeType": "翌営業日",
         "referenceClose": 1031.0,
-        "preEarningsChange": 0.19,
-        "preEarningsFromDate": "20260716"
+        "preEarningsChange": 2.38,
+        "preEarningsFromDate": "20260831"
       },
       {
         "code": "6653",
@@ -777,8 +777,8 @@
         "lastMentionedPriceChange": -6.03,
         "lastMentionedPriceChangeType": "翌営業日",
         "referenceClose": 2218.0,
-        "preEarningsChange": -1.73,
-        "preEarningsFromDate": "20260716"
+        "preEarningsChange": -2.2,
+        "preEarningsFromDate": "20260831"
       },
       {
         "code": "7175",
@@ -787,11 +787,11 @@
         "type": "1Q",
         "lastMentioned": "20260417",
         "mentionCount": 2,
-        "lastMentionedPriceChange": 4.15,
+        "lastMentionedPriceChange": -1.15,
         "lastMentionedPriceChangeType": "翌営業日",
         "referenceClose": 1720.0,
-        "preEarningsChange": 12.79,
-        "preEarningsFromDate": "20260716"
+        "preEarningsChange": -13.04,
+        "preEarningsFromDate": "20260831"
       },
       {
         "code": "8060",
@@ -803,8 +803,8 @@
         "lastMentionedPriceChange": 3.94,
         "lastMentionedPriceChangeType": "翌営業日",
         "referenceClose": 3574.0,
-        "preEarningsChange": 1.65,
-        "preEarningsFromDate": "20260716"
+        "preEarningsChange": -3.95,
+        "preEarningsFromDate": "20260831"
       },
       {
         "code": "8707",
@@ -813,11 +813,11 @@
         "type": "1Q",
         "lastMentioned": "20260417",
         "mentionCount": 2,
-        "lastMentionedPriceChange": -2.23,
+        "lastMentionedPriceChange": -1.46,
         "lastMentionedPriceChangeType": "翌営業日",
         "referenceClose": 4275.0,
-        "preEarningsChange": -2.17,
-        "preEarningsFromDate": "20260716"
+        "preEarningsChange": -9.52,
+        "preEarningsFromDate": "20260831"
       }
     ],
     "20260727": [
@@ -1258,7 +1258,7 @@
         "type": "1Q",
         "lastMentioned": "20260304",
         "mentionCount": 1,
-        "lastMentionedPriceChange": 0.0,
+        "lastMentionedPriceChange": 7.71,
         "lastMentionedPriceChangeType": "翌営業日",
         "referenceClose": 972.0,
         "preEarningsChange": -3.57,
@@ -1578,7 +1578,10 @@
         "lastMentioned": "20260529",
         "mentionCount": 1,
         "lastMentionedPriceChange": 10.88,
-        "lastMentionedPriceChangeType": "翌営業日"
+        "lastMentionedPriceChangeType": "翌営業日",
+        "referenceClose": 3105.0,
+        "preEarningsChange": -3.27,
+        "preEarningsFromDate": "20260824"
       },
       {
         "code": "436A",
@@ -1588,7 +1591,10 @@
         "lastMentioned": "20260605",
         "mentionCount": 1,
         "lastMentionedPriceChange": -10.61,
-        "lastMentionedPriceChangeType": "翌営業日"
+        "lastMentionedPriceChangeType": "翌営業日",
+        "referenceClose": 1195.0,
+        "preEarningsChange": 3.46,
+        "preEarningsFromDate": "20260824"
       },
       {
         "code": "4666",
@@ -1598,7 +1604,10 @@
         "lastMentioned": "20260615",
         "mentionCount": 1,
         "lastMentionedPriceChange": 15.98,
-        "lastMentionedPriceChangeType": "翌営業日"
+        "lastMentionedPriceChangeType": "翌営業日",
+        "referenceClose": 2017.0,
+        "preEarningsChange": -0.35,
+        "preEarningsFromDate": "20260824"
       }
     ],
     "20260901": [
@@ -1621,7 +1630,7 @@
         "type": "本決算",
         "lastMentioned": "20260603",
         "mentionCount": 1,
-        "lastMentionedPriceChange": 2.6,
+        "lastMentionedPriceChange": -2.17,
         "lastMentionedPriceChangeType": "翌営業日"
       }
     ],
