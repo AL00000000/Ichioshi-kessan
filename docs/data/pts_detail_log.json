@@ -1060,21 +1060,27 @@
       "ptsOpen": 3255.0,
       "ptsOpenTime": "17:00　08/31",
       "ptsHighEarly": 3285.0,
-      "ptsHighEarlyTime": "17:03　08/31"
+      "ptsHighEarlyTime": "17:03　08/31",
+      "ptsHighFinal": 3285.0,
+      "ptsHighFinalTime": "17:03　08/31"
     },
     "436A": {
       "name": "サイバーソリューションズ",
       "ptsOpen": 1160.0,
       "ptsOpenTime": "17:03　08/31",
       "ptsHighEarly": 1160.0,
-      "ptsHighEarlyTime": "17:03　08/31"
+      "ptsHighEarlyTime": "17:03　08/31",
+      "ptsHighFinal": 1160.0,
+      "ptsHighFinalTime": "17:03　08/31"
     },
     "4666": {
       "name": "パーク２４",
       "ptsOpen": 2048.0,
       "ptsOpenTime": "17:00　08/31",
       "ptsHighEarly": 2060.0,
-      "ptsHighEarlyTime": "17:01　08/31"
+      "ptsHighEarlyTime": "17:01　08/31",
+      "ptsHighFinal": 2060.0,
+      "ptsHighFinalTime": "17:01　08/31"
     }
   }
 }
