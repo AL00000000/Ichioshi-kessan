@@ -1088,5 +1088,14 @@
       "nextDayHigh": 2063.0,
       "nextDayHighTime": "15:24"
     }
+  },
+  "20260901": {
+    "2593": {
+      "name": "伊藤園",
+      "ptsOpen": 3200.0,
+      "ptsOpenTime": "17:00　09/01",
+      "ptsHighEarly": 3230.0,
+      "ptsHighEarlyTime": "17:01　09/01"
+    }
   }
 }
