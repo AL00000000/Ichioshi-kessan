@@ -1102,5 +1102,14 @@
       "nextDayHighTime": "09:13",
       "nextDayClose": 3273.0
     }
+  },
+  "20260902": {
+    "8057": {
+      "name": "内田洋行",
+      "ptsOpen": 2219.0,
+      "ptsOpenTime": "17:02　09/02",
+      "ptsHighEarly": 2235.0,
+      "ptsHighEarlyTime": "17:05　09/02"
+    }
   }
 }
