@@ -1111,7 +1111,9 @@
       "ptsHighEarly": 2235.0,
       "ptsHighEarlyTime": "17:05　09/02",
       "ptsHighFinal": 2235.0,
-      "ptsHighFinalTime": "17:05　09/02"
+      "ptsHighFinalTime": "17:05　09/02",
+      "nextDayHigh": 2368.0,
+      "nextDayHighTime": "13:59"
     }
   }
 }
