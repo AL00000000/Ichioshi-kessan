@@ -1121,12 +1121,16 @@
     "1873": {
       "name": "日本ハウスホールディングス",
       "ptsHighFinal": 317.2,
-      "ptsHighFinalTime": "23:04　09/04"
+      "ptsHighFinalTime": "23:04　09/04",
+      "nextDayHigh": 320.0,
+      "nextDayHighTime": "09:00"
     },
     "9678": {
       "name": "カナモト",
       "ptsHighFinal": 5710.0,
-      "ptsHighFinalTime": "17:38　09/04"
+      "ptsHighFinalTime": "17:38　09/04",
+      "nextDayHigh": 5670.0,
+      "nextDayHighTime": "09:00"
     }
   }
 }
