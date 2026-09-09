@@ -1159,5 +1159,42 @@
       "nextDayHighTime": "09:04",
       "nextDayClose": 1751.0
     }
+  },
+  "20260909": {
+    "1433": {
+      "name": "ベステラ",
+      "ptsOpen": 1141.0,
+      "ptsOpenTime": "17:01　09/09",
+      "ptsHighEarly": 1159.0,
+      "ptsHighEarlyTime": "17:02　09/09"
+    },
+    "2751": {
+      "name": "テンポスホールディングス",
+      "ptsOpen": 3475.0,
+      "ptsOpenTime": "17:01　09/09",
+      "ptsHighEarly": 3475.0,
+      "ptsHighEarlyTime": "17:01　09/09"
+    },
+    "3180": {
+      "name": "ビューティガレージ",
+      "ptsOpen": 1640.0,
+      "ptsOpenTime": "17:03　09/09",
+      "ptsHighEarly": 1640.0,
+      "ptsHighEarlyTime": "17:03　09/09"
+    },
+    "6966": {
+      "name": "三井ハイテック",
+      "ptsOpen": 1025.0,
+      "ptsOpenTime": "17:00　09/09",
+      "ptsHighEarly": 1030.0,
+      "ptsHighEarlyTime": "17:00　09/09"
+    },
+    "7064": {
+      "name": "ハウテレビジョン",
+      "ptsOpen": 880.1,
+      "ptsOpenTime": "17:00　09/09",
+      "ptsHighEarly": 910.0,
+      "ptsHighEarlyTime": "17:04　09/09"
+    }
   }
 }
