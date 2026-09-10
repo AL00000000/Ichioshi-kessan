@@ -1168,7 +1168,10 @@
       "ptsHighEarly": 1159.0,
       "ptsHighEarlyTime": "17:02　09/09",
       "ptsHighFinal": 1177.0,
-      "ptsHighFinalTime": "17:48　09/09"
+      "ptsHighFinalTime": "17:48　09/09",
+      "nextDayHigh": 1246.0,
+      "nextDayHighTime": "09:10",
+      "nextDayClose": 1234.0
     },
     "2751": {
       "name": "テンポスホールディングス",
@@ -1177,7 +1180,10 @@
       "ptsHighEarly": 3475.0,
       "ptsHighEarlyTime": "17:01　09/09",
       "ptsHighFinal": 3618.0,
-      "ptsHighFinalTime": "22:04　09/09"
+      "ptsHighFinalTime": "22:04　09/09",
+      "nextDayHigh": 3685.0,
+      "nextDayHighTime": "09:00",
+      "nextDayClose": 3660.0
     },
     "3180": {
       "name": "ビューティガレージ",
@@ -1186,7 +1192,10 @@
       "ptsHighEarly": 1640.0,
       "ptsHighEarlyTime": "17:03　09/09",
       "ptsHighFinal": 1690.0,
-      "ptsHighFinalTime": "18:26　09/09"
+      "ptsHighFinalTime": "18:26　09/09",
+      "nextDayHigh": 1700.0,
+      "nextDayHighTime": "09:04",
+      "nextDayClose": 1600.0
     },
     "6966": {
       "name": "三井ハイテック",
@@ -1195,7 +1204,10 @@
       "ptsHighEarly": 1030.0,
       "ptsHighEarlyTime": "17:00　09/09",
       "ptsHighFinal": 1038.0,
-      "ptsHighFinalTime": "20:30　09/09"
+      "ptsHighFinalTime": "20:30　09/09",
+      "nextDayHigh": 1014.0,
+      "nextDayHighTime": "09:12",
+      "nextDayClose": 940.0
     },
     "7064": {
       "name": "ハウテレビジョン",
@@ -1204,7 +1216,10 @@
       "ptsHighEarly": 910.0,
       "ptsHighEarlyTime": "17:04　09/09",
       "ptsHighFinal": 915.0,
-      "ptsHighFinalTime": "17:04　09/09"
+      "ptsHighFinalTime": "17:04　09/09",
+      "nextDayHigh": 965.0,
+      "nextDayHighTime": "14:38",
+      "nextDayClose": 959.0
     }
   }
 }
