@@ -1221,5 +1221,53 @@
       "nextDayHighTime": "14:38",
       "nextDayClose": 959.0
     }
+  },
+  "20260910": {
+    "215A": {
+      "name": "タイミー",
+      "ptsHighFinal": 1460.0,
+      "ptsHighFinalTime": "20:46　09/10"
+    },
+    "2375": {
+      "name": "ギグワークス",
+      "ptsHighFinal": 218.0,
+      "ptsHighFinalTime": "18:22　09/10"
+    },
+    "2923": {
+      "name": "サトウ食品"
+    },
+    "2983": {
+      "name": "アールプランナー",
+      "ptsHighFinal": 1920.0,
+      "ptsHighFinalTime": "17:03　09/10"
+    },
+    "3248": {
+      "name": "アールエイジ"
+    },
+    "350A": {
+      "name": "デジタルグリッド",
+      "ptsHighFinal": 702.0,
+      "ptsHighFinalTime": "21:32　09/10"
+    },
+    "4014": {
+      "name": "カラダノート",
+      "ptsHighFinal": 580.0,
+      "ptsHighFinalTime": "17:00　09/10"
+    },
+    "4422": {
+      "name": "ＶＡＬＵＥＮＥＸ",
+      "ptsHighFinal": 539.9,
+      "ptsHighFinalTime": "17:01　09/10"
+    },
+    "5031": {
+      "name": "モイ",
+      "ptsHighFinal": 435.0,
+      "ptsHighFinalTime": "17:00　09/10"
+    },
+    "9692": {
+      "name": "シーイーシー",
+      "ptsHighFinal": 2230.0,
+      "ptsHighFinalTime": "19:55　09/10"
+    }
   }
 }
