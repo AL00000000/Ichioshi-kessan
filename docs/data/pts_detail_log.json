@@ -1226,48 +1226,78 @@
     "215A": {
       "name": "タイミー",
       "ptsHighFinal": 1460.0,
-      "ptsHighFinalTime": "20:46　09/10"
+      "ptsHighFinalTime": "20:46　09/10",
+      "nextDayHigh": 1355.0,
+      "nextDayHighTime": "09:21",
+      "nextDayClose": 1300.0
     },
     "2375": {
       "name": "ギグワークス",
       "ptsHighFinal": 218.0,
-      "ptsHighFinalTime": "18:22　09/10"
+      "ptsHighFinalTime": "18:22　09/10",
+      "nextDayHigh": 206.0,
+      "nextDayHighTime": "10:00",
+      "nextDayClose": 201.0
     },
     "2923": {
-      "name": "サトウ食品"
+      "name": "サトウ食品",
+      "nextDayHigh": 7670.0,
+      "nextDayHighTime": "09:00",
+      "nextDayClose": 7180.0
     },
     "2983": {
       "name": "アールプランナー",
       "ptsHighFinal": 1920.0,
-      "ptsHighFinalTime": "17:03　09/10"
+      "ptsHighFinalTime": "17:03　09/10",
+      "nextDayHigh": 1757.0,
+      "nextDayHighTime": "09:00",
+      "nextDayClose": 1667.0
     },
     "3248": {
-      "name": "アールエイジ"
+      "name": "アールエイジ",
+      "nextDayHigh": 892.0,
+      "nextDayHighTime": "09:00",
+      "nextDayClose": 884.0
     },
     "350A": {
       "name": "デジタルグリッド",
       "ptsHighFinal": 702.0,
-      "ptsHighFinalTime": "21:32　09/10"
+      "ptsHighFinalTime": "21:32　09/10",
+      "nextDayHigh": 719.0,
+      "nextDayHighTime": "15:02",
+      "nextDayClose": 711.0
     },
     "4014": {
       "name": "カラダノート",
       "ptsHighFinal": 580.0,
-      "ptsHighFinalTime": "17:00　09/10"
+      "ptsHighFinalTime": "17:00　09/10",
+      "nextDayHigh": 557.0,
+      "nextDayHighTime": "09:00",
+      "nextDayClose": 515.0
     },
     "4422": {
       "name": "ＶＡＬＵＥＮＥＸ",
       "ptsHighFinal": 539.9,
-      "ptsHighFinalTime": "17:01　09/10"
+      "ptsHighFinalTime": "17:01　09/10",
+      "nextDayHigh": 518.0,
+      "nextDayHighTime": "09:15",
+      "nextDayClose": 492.0
     },
     "5031": {
       "name": "モイ",
       "ptsHighFinal": 435.0,
-      "ptsHighFinalTime": "17:00　09/10"
+      "ptsHighFinalTime": "17:00　09/10",
+      "nextDayHigh": 435.0,
+      "nextDayHighTime": "15:30",
+      "nextDayClose": 435.0
     },
     "9692": {
       "name": "シーイーシー",
       "ptsHighFinal": 2230.0,
-      "ptsHighFinalTime": "19:55　09/10"
+      "ptsHighFinalTime": "19:55　09/10",
+      "nextDayHigh": 2151.0,
+      "nextDayHighTime": "09:06",
+      "nextDayClose": 2106.0
     }
   }
 }
