@@ -1302,7 +1302,9 @@
   },
   "20260911": {
     "3399": {
-      "name": "丸千代山岡家"
+      "name": "丸千代山岡家",
+      "ptsHighFinal": 3890.0,
+      "ptsHighFinalTime": "17:22　09/11"
     },
     "3524": {
       "name": "日東製網"
@@ -1312,42 +1314,60 @@
       "ptsOpen": 1180.0,
       "ptsOpenTime": "17:02　09/11",
       "ptsHighEarly": 1180.0,
-      "ptsHighEarlyTime": "17:02　09/11"
+      "ptsHighEarlyTime": "17:02　09/11",
+      "ptsHighFinal": 1180.0,
+      "ptsHighFinalTime": "17:02　09/11"
     },
     "4382": {
-      "name": "ＨＥＲＯＺ"
+      "name": "ＨＥＲＯＺ",
+      "ptsHighFinal": 790.0,
+      "ptsHighFinalTime": "17:32　09/11"
     },
     "446A": {
-      "name": "ノースサンド"
+      "name": "ノースサンド",
+      "ptsHighFinal": 2013.0,
+      "ptsHighFinalTime": "17:24　09/11"
     },
     "5218": {
-      "name": "オハラ"
+      "name": "オハラ",
+      "ptsHighFinal": 1630.0,
+      "ptsHighFinalTime": "21:56　09/11"
     },
     "5572": {
-      "name": "Ｒｉｄｇｅ－ｉ"
+      "name": "Ｒｉｄｇｅ－ｉ",
+      "ptsHighFinal": 3020.0,
+      "ptsHighFinalTime": "17:24　09/11"
     },
     "7131": {
       "name": "のむら産業",
       "ptsOpen": 4145.0,
       "ptsOpenTime": "17:02　09/11",
       "ptsHighEarly": 4145.0,
-      "ptsHighEarlyTime": "17:02　09/11"
+      "ptsHighEarlyTime": "17:02　09/11",
+      "ptsHighFinal": 4145.0,
+      "ptsHighFinalTime": "17:02　09/11"
     },
     "7878": {
       "name": "光・彩",
       "ptsOpen": 1500.0,
       "ptsOpenTime": "17:00　09/11",
       "ptsHighEarly": 1500.0,
-      "ptsHighEarlyTime": "17:00　09/11"
+      "ptsHighEarlyTime": "17:00　09/11",
+      "ptsHighFinal": 1500.0,
+      "ptsHighFinalTime": "17:00　09/11"
     },
     "7983": {
-      "name": "ミロク"
+      "name": "ミロク",
+      "ptsHighFinal": 1125.0,
+      "ptsHighFinalTime": "18:04　09/11"
     },
     "9236": {
       "name": "ジャパンＭ＆Ａソリューション"
     },
     "9262": {
-      "name": "シルバーライフ"
+      "name": "シルバーライフ",
+      "ptsHighFinal": 685.0,
+      "ptsHighFinalTime": "18:12　09/11"
     }
   }
 }
