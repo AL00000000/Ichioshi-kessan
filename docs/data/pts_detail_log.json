@@ -1393,5 +1393,72 @@
       "nextDayHigh": 692.0,
       "nextDayHighTime": "09:00"
     }
+  },
+  "20260914": {
+    "212A": {
+      "name": "フィットイージー",
+      "ptsOpen": 2799.0,
+      "ptsOpenTime": "17:00　09/14",
+      "ptsHighEarly": 2799.0,
+      "ptsHighEarlyTime": "17:00　09/14"
+    },
+    "3441": {
+      "name": "山王",
+      "ptsOpen": 2197.2,
+      "ptsOpenTime": "17:00　09/14",
+      "ptsHighEarly": 2197.2,
+      "ptsHighEarlyTime": "17:00　09/14"
+    },
+    "3657": {
+      "name": "ポールトゥウィンホールディングス",
+      "ptsOpen": 365.0,
+      "ptsOpenTime": "17:02　09/14",
+      "ptsHighEarly": 365.0,
+      "ptsHighEarlyTime": "17:02　09/14"
+    },
+    "4053": {
+      "name": "Ｓｕｎ　Ａｓｔｅｒｉｓｋ",
+      "ptsOpen": 480.1,
+      "ptsOpenTime": "17:03　09/14",
+      "ptsHighEarly": 480.1,
+      "ptsHighEarlyTime": "17:03　09/14"
+    },
+    "4431": {
+      "name": "スマレジ",
+      "ptsOpen": 3450.0,
+      "ptsOpenTime": "17:00　09/14",
+      "ptsHighEarly": 3450.0,
+      "ptsHighEarlyTime": "17:00　09/14"
+    },
+    "500A": {
+      "name": "ＴＯブックス",
+      "ptsOpen": 4000.0,
+      "ptsOpenTime": "17:03　09/14",
+      "ptsHighEarly": 4000.0,
+      "ptsHighEarlyTime": "17:03　09/14"
+    },
+    "5136": {
+      "name": "ｔｒｉｐｌａ",
+      "ptsOpen": 2400.0,
+      "ptsOpenTime": "17:00　09/14",
+      "ptsHighEarly": 2400.0,
+      "ptsHighEarlyTime": "17:00　09/14"
+    },
+    "6309": {
+      "name": "巴工業"
+    },
+    "6387": {
+      "name": "サムコ",
+      "ptsOpen": 7910.0,
+      "ptsOpenTime": "17:01　09/14",
+      "ptsHighEarly": 7910.0,
+      "ptsHighEarlyTime": "17:01　09/14"
+    },
+    "9279": {
+      "name": "ギフトホールディングス"
+    },
+    "9627": {
+      "name": "アインホールディングス"
+    }
   }
 }
