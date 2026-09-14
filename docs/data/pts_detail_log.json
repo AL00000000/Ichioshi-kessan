@@ -1304,10 +1304,14 @@
     "3399": {
       "name": "丸千代山岡家",
       "ptsHighFinal": 3890.0,
-      "ptsHighFinalTime": "17:22　09/11"
+      "ptsHighFinalTime": "17:22　09/11",
+      "nextDayHigh": 3915.0,
+      "nextDayHighTime": "09:05"
     },
     "3524": {
-      "name": "日東製網"
+      "name": "日東製網",
+      "nextDayHigh": 1489.0,
+      "nextDayHighTime": "09:00"
     },
     "4075": {
       "name": "ブレインズテクノロジー",
@@ -1316,27 +1320,37 @@
       "ptsHighEarly": 1180.0,
       "ptsHighEarlyTime": "17:02　09/11",
       "ptsHighFinal": 1180.0,
-      "ptsHighFinalTime": "17:02　09/11"
+      "ptsHighFinalTime": "17:02　09/11",
+      "nextDayHigh": 1164.0,
+      "nextDayHighTime": "15:15"
     },
     "4382": {
       "name": "ＨＥＲＯＺ",
       "ptsHighFinal": 790.0,
-      "ptsHighFinalTime": "17:32　09/11"
+      "ptsHighFinalTime": "17:32　09/11",
+      "nextDayHigh": 860.0,
+      "nextDayHighTime": "14:18"
     },
     "446A": {
       "name": "ノースサンド",
       "ptsHighFinal": 2013.0,
-      "ptsHighFinalTime": "17:24　09/11"
+      "ptsHighFinalTime": "17:24　09/11",
+      "nextDayHigh": 2043.0,
+      "nextDayHighTime": "12:35"
     },
     "5218": {
       "name": "オハラ",
       "ptsHighFinal": 1630.0,
-      "ptsHighFinalTime": "21:56　09/11"
+      "ptsHighFinalTime": "21:56　09/11",
+      "nextDayHigh": 1634.0,
+      "nextDayHighTime": "10:57"
     },
     "5572": {
       "name": "Ｒｉｄｇｅ－ｉ",
       "ptsHighFinal": 3020.0,
-      "ptsHighFinalTime": "17:24　09/11"
+      "ptsHighFinalTime": "17:24　09/11",
+      "nextDayHigh": 3100.0,
+      "nextDayHighTime": "09:51"
     },
     "7131": {
       "name": "のむら産業",
@@ -1345,7 +1359,9 @@
       "ptsHighEarly": 4145.0,
       "ptsHighEarlyTime": "17:02　09/11",
       "ptsHighFinal": 4145.0,
-      "ptsHighFinalTime": "17:02　09/11"
+      "ptsHighFinalTime": "17:02　09/11",
+      "nextDayHigh": 4140.0,
+      "nextDayHighTime": "09:12"
     },
     "7878": {
       "name": "光・彩",
@@ -1354,20 +1370,28 @@
       "ptsHighEarly": 1500.0,
       "ptsHighEarlyTime": "17:00　09/11",
       "ptsHighFinal": 1500.0,
-      "ptsHighFinalTime": "17:00　09/11"
+      "ptsHighFinalTime": "17:00　09/11",
+      "nextDayHigh": 1380.0,
+      "nextDayHighTime": "09:09"
     },
     "7983": {
       "name": "ミロク",
       "ptsHighFinal": 1125.0,
-      "ptsHighFinalTime": "18:04　09/11"
+      "ptsHighFinalTime": "18:04　09/11",
+      "nextDayHigh": 1223.0,
+      "nextDayHighTime": "09:14"
     },
     "9236": {
-      "name": "ジャパンＭ＆Ａソリューション"
+      "name": "ジャパンＭ＆Ａソリューション",
+      "nextDayHigh": 1387.0,
+      "nextDayHighTime": "10:22"
     },
     "9262": {
       "name": "シルバーライフ",
       "ptsHighFinal": 685.0,
-      "ptsHighFinalTime": "18:12　09/11"
+      "ptsHighFinalTime": "18:12　09/11",
+      "nextDayHigh": 692.0,
+      "nextDayHighTime": "09:00"
     }
   }
 }
