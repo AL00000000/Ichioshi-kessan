@@ -1402,7 +1402,9 @@
       "ptsHighEarly": 2799.0,
       "ptsHighEarlyTime": "17:00　09/14",
       "ptsHighFinal": 2799.0,
-      "ptsHighFinalTime": "17:00　09/14"
+      "ptsHighFinalTime": "17:00　09/14",
+      "nextDayHigh": 2780.0,
+      "nextDayHighTime": "09:00"
     },
     "3441": {
       "name": "山王",
@@ -1420,7 +1422,9 @@
       "ptsHighEarly": 365.0,
       "ptsHighEarlyTime": "17:02　09/14",
       "ptsHighFinal": 382.0,
-      "ptsHighFinalTime": "17:26　09/14"
+      "ptsHighFinalTime": "17:26　09/14",
+      "nextDayHigh": 384.0,
+      "nextDayHighTime": "15:20"
     },
     "4053": {
       "name": "Ｓｕｎ　Ａｓｔｅｒｉｓｋ",
@@ -1429,7 +1433,9 @@
       "ptsHighEarly": 480.1,
       "ptsHighEarlyTime": "17:03　09/14",
       "ptsHighFinal": 481.9,
-      "ptsHighFinalTime": "21:09　09/14"
+      "ptsHighFinalTime": "21:09　09/14",
+      "nextDayHigh": 499.0,
+      "nextDayHighTime": "09:12"
     },
     "4431": {
       "name": "スマレジ",
@@ -1438,7 +1444,9 @@
       "ptsHighEarly": 3450.0,
       "ptsHighEarlyTime": "17:00　09/14",
       "ptsHighFinal": 3460.0,
-      "ptsHighFinalTime": "17:06　09/14"
+      "ptsHighFinalTime": "17:06　09/14",
+      "nextDayHigh": 3805.0,
+      "nextDayHighTime": "09:15"
     },
     "500A": {
       "name": "ＴＯブックス",
@@ -1447,7 +1455,9 @@
       "ptsHighEarly": 4000.0,
       "ptsHighEarlyTime": "17:03　09/14",
       "ptsHighFinal": 4000.0,
-      "ptsHighFinalTime": "17:03　09/14"
+      "ptsHighFinalTime": "17:03　09/14",
+      "nextDayHigh": 3615.0,
+      "nextDayHighTime": "09:00"
     },
     "5136": {
       "name": "ｔｒｉｐｌａ",
@@ -1456,12 +1466,16 @@
       "ptsHighEarly": 2400.0,
       "ptsHighEarlyTime": "17:00　09/14",
       "ptsHighFinal": 2400.0,
-      "ptsHighFinalTime": "17:00　09/14"
+      "ptsHighFinalTime": "17:00　09/14",
+      "nextDayHigh": 2379.0,
+      "nextDayHighTime": "11:14"
     },
     "6309": {
       "name": "巴工業",
       "ptsHighFinal": 2014.8,
-      "ptsHighFinalTime": "21:36　09/14"
+      "ptsHighFinalTime": "21:36　09/14",
+      "nextDayHigh": 1996.0,
+      "nextDayHighTime": "09:12"
     },
     "6387": {
       "name": "サムコ",
@@ -1470,15 +1484,21 @@
       "ptsHighEarly": 7910.0,
       "ptsHighEarlyTime": "17:01　09/14",
       "ptsHighFinal": 7950.0,
-      "ptsHighFinalTime": "19:51　09/14"
+      "ptsHighFinalTime": "19:51　09/14",
+      "nextDayHigh": 7800.0,
+      "nextDayHighTime": "11:23"
     },
     "9279": {
       "name": "ギフトホールディングス",
       "ptsHighFinal": 2250.0,
-      "ptsHighFinalTime": "17:15　09/14"
+      "ptsHighFinalTime": "17:15　09/14",
+      "nextDayHigh": 2235.0,
+      "nextDayHighTime": "09:00"
     },
     "9627": {
-      "name": "アインホールディングス"
+      "name": "アインホールディングス",
+      "nextDayHigh": 5781.0,
+      "nextDayHighTime": "15:03"
     }
   }
 }
