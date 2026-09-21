@@ -1,8 +1,8 @@
 {
   "generatedFrom": {
-    "historyEntries": 118,
-    "watchlistCodes": 492,
-    "scheduleEntries": 527
+    "historyEntries": 132,
+    "watchlistCodes": 524,
+    "scheduleEntries": 631
   },
   "days": {
     "20260706": [
@@ -1614,7 +1614,7 @@
       {
         "code": "2593",
         "name": "伊藤園",
-        "time": "15:30\n（予定）",
+        "time": "15:30\n（実績）",
         "type": "1Q",
         "lastMentioned": "20260528",
         "mentionCount": 1,
@@ -1629,7 +1629,7 @@
       {
         "code": "8057",
         "name": "内田洋行",
-        "time": "15:30\n（予定）",
+        "time": "15:30\n（実績）",
         "type": "本決算",
         "lastMentioned": "20260603",
         "mentionCount": 1,
@@ -1644,7 +1644,7 @@
       {
         "code": "1873",
         "name": "日本ハウスホールディングス",
-        "time": "15:30\n（予定）",
+        "time": "15:30\n（実績）",
         "type": "1Q",
         "lastMentioned": "20260611",
         "mentionCount": 1,
@@ -1657,7 +1657,7 @@
       {
         "code": "9678",
         "name": "カナモト",
-        "time": "15:30\n（予定）",
+        "time": "15:30\n（実績）",
         "type": "3Q",
         "lastMentioned": "20260601",
         "mentionCount": 1,
@@ -1672,7 +1672,7 @@
       {
         "code": "3854",
         "name": "アイル",
-        "time": "15:40\n（予定）",
+        "time": "15:40\n（実績）",
         "type": "本決算",
         "lastMentioned": "20260306",
         "mentionCount": 1,
@@ -1687,7 +1687,7 @@
       {
         "code": "1436",
         "name": "グリーンエナジー＆カンパニー",
-        "time": "15:30\n（予定）",
+        "time": "15:30\n（実績）",
         "type": "1Q",
         "lastMentioned": "20260609",
         "mentionCount": 2,
@@ -1702,7 +1702,7 @@
       {
         "code": "1433",
         "name": "ベステラ",
-        "time": "15:30\n（予定）",
+        "time": "15:30\n（実績）",
         "type": "2Q",
         "lastMentioned": "20260609",
         "mentionCount": 1,
@@ -1715,7 +1715,7 @@
       {
         "code": "2751",
         "name": "テンポスホールディングス",
-        "time": "16:00\n（予定）",
+        "time": "16:00\n（実績）",
         "type": "1Q",
         "lastMentioned": "20260610",
         "mentionCount": 1,
@@ -1728,7 +1728,7 @@
       {
         "code": "3180",
         "name": "ビューティガレージ",
-        "time": "15:30\n（予定）",
+        "time": "15:30\n（実績）",
         "type": "1Q",
         "lastMentioned": "20260609",
         "mentionCount": 1,
@@ -1741,7 +1741,7 @@
       {
         "code": "6966",
         "name": "三井ハイテック",
-        "time": "15:30\n（予定）",
+        "time": "15:30\n（実績）",
         "type": "2Q",
         "lastMentioned": "20260612",
         "mentionCount": 1,
@@ -1754,7 +1754,7 @@
       {
         "code": "7064",
         "name": "ハウテレビジョン",
-        "time": "15:30\n（予定）",
+        "time": "15:30\n（実績）",
         "type": "2Q",
         "lastMentioned": "20260610",
         "mentionCount": 2,
@@ -1769,7 +1769,7 @@
       {
         "code": "215A",
         "name": "タイミー",
-        "time": "15:30\n（予定）",
+        "time": "15:30\n（実績）",
         "type": "1Q",
         "lastMentioned": "20260312",
         "mentionCount": 1,
@@ -1782,7 +1782,7 @@
       {
         "code": "2375",
         "name": "ギグワークス",
-        "time": "15:30\n（予定）",
+        "time": "15:30\n（実績）",
         "type": "3Q",
         "lastMentioned": "20260611",
         "mentionCount": 2,
@@ -1795,7 +1795,7 @@
       {
         "code": "2923",
         "name": "サトウ食品",
-        "time": "15:30\n（予定）",
+        "time": "15:30\n（実績）",
         "type": "1Q",
         "lastMentioned": "20260310",
         "mentionCount": 1,
@@ -1808,7 +1808,7 @@
       {
         "code": "2983",
         "name": "アールプランナー",
-        "time": "15:30\n（予定）",
+        "time": "15:30\n（実績）",
         "type": "2Q",
         "lastMentioned": "20260609",
         "mentionCount": 1,
@@ -1821,7 +1821,7 @@
       {
         "code": "3248",
         "name": "アールエイジ",
-        "time": "15:30\n（予定）",
+        "time": "15:30\n（実績）",
         "type": "3Q",
         "lastMentioned": "20260310",
         "mentionCount": 1,
@@ -1834,7 +1834,7 @@
       {
         "code": "350A",
         "name": "デジタルグリッド",
-        "time": "15:30\n（予定）",
+        "time": "15:30\n（実績）",
         "type": "本決算",
         "lastMentioned": "20260611",
         "mentionCount": 1,
@@ -1847,7 +1847,7 @@
       {
         "code": "4014",
         "name": "カラダノート",
-        "time": "15:45\n（予定）",
+        "time": "15:30\n（実績）",
         "type": "本決算",
         "lastMentioned": "20260610",
         "mentionCount": 1,
@@ -1860,7 +1860,7 @@
       {
         "code": "4422",
         "name": "ＶＡＬＵＥＮＥＸ",
-        "time": "15:30\n（予定）",
+        "time": "15:30\n（実績）",
         "type": "本決算",
         "lastMentioned": "20260611",
         "mentionCount": 2,
@@ -1873,7 +1873,7 @@
       {
         "code": "5031",
         "name": "モイ",
-        "time": "15:30\n（予定）",
+        "time": "15:30\n（実績）",
         "type": "2Q",
         "lastMentioned": "20260311",
         "mentionCount": 1,
@@ -1884,9 +1884,22 @@
         "preEarningsFromDate": "20260903"
       },
       {
+        "code": "7777",
+        "name": "スリー・ディー・マトリックス",
+        "time": "16:00\n（実績）",
+        "type": "1Q",
+        "lastMentioned": "20260519",
+        "mentionCount": 2,
+        "referenceClose": 342.0,
+        "lastMentionedPriceChange": -3.87,
+        "lastMentionedPriceChangeType": "翌営業日",
+        "preEarningsChange": -3.39,
+        "preEarningsFromDate": "20260903"
+      },
+      {
         "code": "9692",
         "name": "シーイーシー",
-        "time": "15:30\n（予定）",
+        "time": "15:30\n（実績）",
         "type": "2Q",
         "lastMentioned": "20260821",
         "mentionCount": 5,
@@ -1901,7 +1914,7 @@
       {
         "code": "3399",
         "name": "丸千代山岡家",
-        "time": "16:00\n（予定）",
+        "time": "16:00\n（実績）",
         "type": "2Q",
         "lastMentioned": "20260316",
         "mentionCount": 1,
@@ -1914,7 +1927,7 @@
       {
         "code": "3524",
         "name": "日東製網",
-        "time": "16:00\n（予定）",
+        "time": "16:00\n（実績）",
         "type": "1Q",
         "lastMentioned": "20260610",
         "mentionCount": 1,
@@ -1927,7 +1940,7 @@
       {
         "code": "4075",
         "name": "ブレインズテクノロジー",
-        "time": "15:30\n（予定）",
+        "time": "15:30\n（実績）",
         "type": "本決算",
         "lastMentioned": "20260316",
         "mentionCount": 1,
@@ -1940,7 +1953,7 @@
       {
         "code": "4382",
         "name": "ＨＥＲＯＺ",
-        "time": "15:30\n（予定）",
+        "time": "15:30\n（実績）",
         "type": "1Q",
         "lastMentioned": "20260608",
         "mentionCount": 1,
@@ -1953,7 +1966,7 @@
       {
         "code": "446A",
         "name": "ノースサンド",
-        "time": "未定",
+        "time": "15:30\n（実績）",
         "type": "2Q",
         "lastMentioned": "20260313",
         "mentionCount": 1,
@@ -1964,9 +1977,22 @@
         "preEarningsFromDate": "20260904"
       },
       {
+        "code": "5079",
+        "name": "ノバック",
+        "time": "16:00\n（実績）",
+        "type": "1Q",
+        "lastMentioned": "20260609",
+        "mentionCount": 1,
+        "referenceClose": 2618.0,
+        "lastMentionedPriceChange": 3.06,
+        "lastMentionedPriceChangeType": "翌営業日",
+        "preEarningsChange": 0.58,
+        "preEarningsFromDate": "20260904"
+      },
+      {
         "code": "5218",
         "name": "オハラ",
-        "time": "15:30\n（予定）",
+        "time": "15:30\n（実績）",
         "type": "3Q",
         "lastMentioned": "20260313",
         "mentionCount": 1,
@@ -1979,7 +2005,7 @@
       {
         "code": "5572",
         "name": "Ｒｉｄｇｅ－ｉ",
-        "time": "16:10\n（予定）",
+        "time": "16:00\n（実績）",
         "type": "本決算",
         "lastMentioned": "20260612",
         "mentionCount": 3,
@@ -1990,9 +2016,22 @@
         "preEarningsFromDate": "20260904"
       },
       {
+        "code": "6898",
+        "name": "トミタ電機",
+        "time": "16:00\n（実績）",
+        "type": "2Q",
+        "lastMentioned": "20260904",
+        "mentionCount": 1,
+        "referenceClose": 5610.0,
+        "lastMentionedPriceChange": 16.85,
+        "lastMentionedPriceChangeType": "翌営業日",
+        "preEarningsChange": 35.02,
+        "preEarningsFromDate": "20260904"
+      },
+      {
         "code": "7131",
         "name": "のむら産業",
-        "time": "15:30\n（予定）",
+        "time": "15:30\n（実績）",
         "type": "3Q",
         "lastMentioned": "20260611",
         "mentionCount": 1,
@@ -2003,9 +2042,22 @@
         "preEarningsFromDate": "20260904"
       },
       {
+        "code": "7850",
+        "name": "総合商研",
+        "time": "16:00\n（実績）",
+        "type": "本決算",
+        "lastMentioned": "20260904",
+        "mentionCount": 1,
+        "referenceClose": 801.0,
+        "lastMentionedPriceChange": 0.99,
+        "lastMentionedPriceChangeType": "翌営業日",
+        "preEarningsChange": -0.99,
+        "preEarningsFromDate": "20260904"
+      },
+      {
         "code": "7878",
         "name": "光・彩",
-        "time": "15:30\n（予定）",
+        "time": "15:30\n（実績）",
         "type": "2Q",
         "lastMentioned": "20260610",
         "mentionCount": 1,
@@ -2018,7 +2070,7 @@
       {
         "code": "7983",
         "name": "ミロク",
-        "time": "15:30\n（予定）",
+        "time": "15:30\n（実績）",
         "type": "3Q",
         "lastMentioned": "20260825",
         "mentionCount": 1,
@@ -2031,7 +2083,7 @@
       {
         "code": "9236",
         "name": "ジャパンＭ＆Ａソリューション",
-        "time": "15:30\n（予定）",
+        "time": "15:30\n（実績）",
         "type": "3Q",
         "lastMentioned": "20260611",
         "mentionCount": 1,
@@ -2044,7 +2096,7 @@
       {
         "code": "9262",
         "name": "シルバーライフ",
-        "time": "16:00\n（予定）",
+        "time": "16:00\n（実績）",
         "type": "本決算",
         "lastMentioned": "20260313",
         "mentionCount": 1,
@@ -2059,7 +2111,7 @@
       {
         "code": "212A",
         "name": "フィットイージー",
-        "time": "15:30\n（予定）",
+        "time": "16:00\n（実績）",
         "type": "3Q",
         "lastMentioned": "20260612",
         "mentionCount": 1,
@@ -2072,7 +2124,7 @@
       {
         "code": "3441",
         "name": "山王",
-        "time": "15:40\n（予定）",
+        "time": "16:00\n（実績）",
         "type": "本決算",
         "lastMentioned": "20260313",
         "mentionCount": 1,
@@ -2085,7 +2137,7 @@
       {
         "code": "3657",
         "name": "ポールトゥウィンホールディングス",
-        "time": "17:00\n（予定）",
+        "time": "16:00\n（実績）",
         "type": "2Q",
         "lastMentioned": "20260612",
         "mentionCount": 1,
@@ -2098,7 +2150,7 @@
       {
         "code": "4053",
         "name": "Ｓｕｎ　Ａｓｔｅｒｉｓｋ",
-        "time": "15:30\n（予定）",
+        "time": "15:30\n（実績）",
         "type": "2Q",
         "lastMentioned": "20260324",
         "mentionCount": 1,
@@ -2111,7 +2163,7 @@
       {
         "code": "4431",
         "name": "スマレジ",
-        "time": "16:00\n（予定）",
+        "time": "16:00\n（実績）",
         "type": "1Q",
         "lastMentioned": "20260612",
         "mentionCount": 1,
@@ -2124,7 +2176,7 @@
       {
         "code": "500A",
         "name": "ＴＯブックス",
-        "time": "未定",
+        "time": "16:00\n（実績）",
         "type": "1Q",
         "lastMentioned": "20260316",
         "mentionCount": 1,
@@ -2137,7 +2189,7 @@
       {
         "code": "5136",
         "name": "ｔｒｉｐｌａ",
-        "time": "15:30\n（予定）",
+        "time": "15:30\n（実績）",
         "type": "3Q",
         "lastMentioned": "20260615",
         "mentionCount": 2,
@@ -2150,7 +2202,7 @@
       {
         "code": "6309",
         "name": "巴工業",
-        "time": "16:00\n（予定）",
+        "time": "16:00\n（実績）",
         "type": "3Q",
         "lastMentioned": "20260605",
         "mentionCount": 1,
@@ -2163,7 +2215,7 @@
       {
         "code": "6387",
         "name": "サムコ",
-        "time": "15:30\n（予定）",
+        "time": "15:30\n（実績）",
         "type": "本決算",
         "lastMentioned": "20260612",
         "mentionCount": 1,
@@ -2174,9 +2226,22 @@
         "preEarningsFromDate": "20260907"
       },
       {
+        "code": "6838",
+        "name": "多摩川ホールディングス",
+        "time": "16:30\n（実績）",
+        "type": "3Q",
+        "lastMentioned": "20260615",
+        "mentionCount": 2,
+        "referenceClose": 1503.0,
+        "lastMentionedPriceChange": 21.28,
+        "lastMentionedPriceChangeType": "翌営業日",
+        "preEarningsChange": -3.9,
+        "preEarningsFromDate": "20260907"
+      },
+      {
         "code": "9279",
         "name": "ギフトホールディングス",
-        "time": "15:30\n（予定）",
+        "time": "15:30\n（実績）",
         "type": "3Q",
         "lastMentioned": "20260615",
         "mentionCount": 2,
@@ -2189,7 +2254,7 @@
       {
         "code": "9627",
         "name": "アインホールディングス",
-        "time": "15:30\n（予定）",
+        "time": "15:30\n（実績）",
         "type": "1Q",
         "lastMentioned": "20260601",
         "mentionCount": 1,
@@ -2198,6 +2263,1015 @@
         "referenceClose": 6021.0,
         "preEarningsChange": -0.07,
         "preEarningsFromDate": "20260907"
+      }
+    ],
+    "20260915": [
+      {
+        "code": "2678",
+        "name": "アスクル",
+        "time": "15:30\n（実績）",
+        "type": "1Q",
+        "lastMentioned": "20260703",
+        "mentionCount": 1,
+        "referenceClose": 1228.0,
+        "lastMentionedPriceChange": 4.57,
+        "lastMentionedPriceChangeType": "翌営業日",
+        "preEarningsChange": -4.66,
+        "preEarningsFromDate": "20260908"
+      }
+    ],
+    "20260928": [
+      {
+        "code": "7624",
+        "name": "ＮａＩＴＯ",
+        "time": "16:00\n（予定）",
+        "type": "2Q",
+        "lastMentioned": "20260626",
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 5.07,
+        "lastMentionedPriceChangeType": "翌営業日"
+      },
+      {
+        "code": "8227",
+        "name": "しまむら",
+        "time": "15:30\n（予定）",
+        "type": "2Q",
+        "lastMentioned": "20260629",
+        "mentionCount": 2,
+        "lastMentionedPriceChange": 0.81,
+        "lastMentionedPriceChangeType": "翌営業日"
+      }
+    ],
+    "20260929": [
+      {
+        "code": "3050",
+        "name": "ＤＣＭホールディングス",
+        "time": "15:30\n（予定）",
+        "type": "2Q",
+        "lastMentioned": "20260626",
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 4.44,
+        "lastMentionedPriceChangeType": "翌営業日"
+      },
+      {
+        "code": "3607",
+        "name": "クラウディアホールディングス",
+        "time": "15:30\n（予定）",
+        "type": "本決算",
+        "lastMentioned": "20260331",
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 4.66,
+        "lastMentionedPriceChangeType": "翌営業日"
+      },
+      {
+        "code": "7068",
+        "name": "フィードフォースグループ",
+        "time": "15:30\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260625",
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 1.87,
+        "lastMentionedPriceChangeType": "翌営業日"
+      },
+      {
+        "code": "9253",
+        "name": "スローガン",
+        "time": "15:30\n（予定）",
+        "type": "2Q",
+        "lastMentioned": "20260407",
+        "mentionCount": 1,
+        "lastMentionedPriceChange": -2.92,
+        "lastMentionedPriceChangeType": "翌営業日"
+      },
+      {
+        "code": "9976",
+        "name": "セキチュー",
+        "time": "16:00\n（予定）",
+        "type": "2Q",
+        "lastMentioned": "20260624",
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 0.0,
+        "lastMentionedPriceChangeType": "翌営業日"
+      }
+    ],
+    "20260930": [
+      {
+        "code": "192A",
+        "name": "インテグループ",
+        "time": "15:30\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260630",
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 11.6,
+        "lastMentionedPriceChangeType": "翌営業日"
+      },
+      {
+        "code": "2354",
+        "name": "ＹＥ　ＤＩＧＩＴＡＬ",
+        "time": "16:00\n（予定）",
+        "type": "2Q",
+        "lastMentioned": "20260331",
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 18.38,
+        "lastMentionedPriceChangeType": "翌営業日"
+      },
+      {
+        "code": "2685",
+        "name": "アンドエスティＨＤ",
+        "time": "15:30\n（予定）",
+        "type": "2Q",
+        "lastMentioned": "20260630",
+        "mentionCount": 1,
+        "lastMentionedPriceChange": -2.74,
+        "lastMentionedPriceChangeType": "翌営業日"
+      },
+      {
+        "code": "2975",
+        "name": "スター・マイカ・ホールディングス",
+        "time": "15:30\n（予定）",
+        "type": "3Q",
+        "lastMentioned": "20260331",
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 9.83,
+        "lastMentionedPriceChangeType": "翌営業日"
+      },
+      {
+        "code": "9651",
+        "name": "日本プロセス",
+        "time": "15:30\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260707",
+        "mentionCount": 2,
+        "lastMentionedPriceChange": 11.89,
+        "lastMentionedPriceChangeType": "翌営業日"
+      }
+    ],
+    "20261001": [
+      {
+        "code": "2493",
+        "name": "イーサポートリンク",
+        "time": "15:30\n（予定）",
+        "type": "3Q",
+        "lastMentioned": "20260702",
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 0.54,
+        "lastMentionedPriceChangeType": "翌営業日"
+      },
+      {
+        "code": "3549",
+        "name": "クスリのアオキホールディングス",
+        "time": "15:30\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260702",
+        "mentionCount": 2,
+        "lastMentionedPriceChange": 1.3,
+        "lastMentionedPriceChangeType": "翌営業日"
+      },
+      {
+        "code": "7545",
+        "name": "西松屋チェーン",
+        "time": "15:30\n（予定）",
+        "type": "2Q",
+        "lastMentioned": "20260402",
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 1.14,
+        "lastMentionedPriceChangeType": "翌営業日"
+      }
+    ],
+    "20261002": [
+      {
+        "code": "3321",
+        "name": "ミタチ産業",
+        "time": "15:30\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260916",
+        "mentionCount": 2,
+        "lastMentionedPriceChange": 7.48,
+        "lastMentionedPriceChangeType": "翌営業日"
+      },
+      {
+        "code": "4394",
+        "name": "エクスモーション",
+        "time": "15:30\n（予定）",
+        "type": "3Q",
+        "lastMentioned": "20260703",
+        "mentionCount": 2,
+        "lastMentionedPriceChange": 17.78,
+        "lastMentionedPriceChangeType": "翌営業日"
+      },
+      {
+        "code": "6279",
+        "name": "瑞光",
+        "time": "16:00\n（予定）",
+        "type": "2Q",
+        "lastMentioned": "20260403",
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 2.83,
+        "lastMentionedPriceChangeType": "翌営業日"
+      },
+      {
+        "code": "8931",
+        "name": "和田興産",
+        "time": "15:30\n（予定）",
+        "type": "2Q",
+        "lastMentioned": "20260918",
+        "mentionCount": 1
+      }
+    ],
+    "20261005": [
+      {
+        "code": "3186",
+        "name": "ネクステージ",
+        "time": "15:30\n（予定）",
+        "type": "3Q",
+        "lastMentioned": "20260706",
+        "mentionCount": 2,
+        "lastMentionedPriceChange": -7.87,
+        "lastMentionedPriceChangeType": "翌営業日"
+      },
+      {
+        "code": "3377",
+        "name": "バイク王＆カンパニー",
+        "time": "15:30\n（予定）",
+        "type": "3Q",
+        "lastMentioned": "20260629",
+        "mentionCount": 1,
+        "lastMentionedPriceChange": -0.52,
+        "lastMentionedPriceChangeType": "翌営業日"
+      },
+      {
+        "code": "3498",
+        "name": "霞ヶ関キャピタル",
+        "time": "15:30\n（予定）",
+        "type": "本決算",
+        "lastMentioned": "20260917",
+        "mentionCount": 2,
+        "lastMentionedPriceChange": 3.06,
+        "lastMentionedPriceChangeType": "翌営業日"
+      },
+      {
+        "code": "3612",
+        "name": "ワールド",
+        "time": "15:30\n（予定）",
+        "type": "2Q",
+        "lastMentioned": "20260403",
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 0.19,
+        "lastMentionedPriceChangeType": "翌営業日"
+      }
+    ],
+    "20261006": [
+      {
+        "code": "2726",
+        "name": "パルグループホールディングス",
+        "time": "15:30\n（予定）",
+        "type": "2Q",
+        "lastMentioned": "20260407",
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 7.12,
+        "lastMentionedPriceChangeType": "翌営業日"
+      },
+      {
+        "code": "2734",
+        "name": "サーラコーポレーション",
+        "time": "15:00\n（予定）",
+        "type": "3Q",
+        "lastMentioned": "20260707",
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 0.45,
+        "lastMentionedPriceChangeType": "同日"
+      },
+      {
+        "code": "5243",
+        "name": "ｎｏｔｅ",
+        "time": "15:30\n（予定）",
+        "type": "3Q",
+        "lastMentioned": "20260707",
+        "mentionCount": 2,
+        "lastMentionedPriceChange": 3.15,
+        "lastMentionedPriceChangeType": "翌営業日"
+      },
+      {
+        "code": "6469",
+        "name": "放電精密加工研究所",
+        "time": "16:00\n（予定）",
+        "type": "2Q",
+        "lastMentioned": "20260707",
+        "mentionCount": 2,
+        "lastMentionedPriceChange": 18.28,
+        "lastMentionedPriceChangeType": "翌営業日"
+      }
+    ],
+    "20261007": [
+      {
+        "code": "2670",
+        "name": "エービーシー・マート",
+        "time": "15:30\n（予定）",
+        "type": "2Q",
+        "lastMentioned": "20260408",
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 7.66,
+        "lastMentionedPriceChangeType": "翌営業日"
+      },
+      {
+        "code": "3391",
+        "name": "ツルハホールディングス",
+        "time": "15:30\n（予定）",
+        "type": "2Q",
+        "lastMentioned": "20260708",
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 2.88,
+        "lastMentionedPriceChangeType": "翌営業日"
+      },
+      {
+        "code": "6093",
+        "name": "ミトラグループ",
+        "time": "15:30\n（予定）",
+        "type": "2Q",
+        "lastMentioned": "20260706",
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 1.83,
+        "lastMentionedPriceChangeType": "翌営業日"
+      }
+    ],
+    "20261008": [
+      {
+        "code": "2341",
+        "name": "アルバイトタイムス",
+        "time": "15:30\n（予定）",
+        "type": "2Q",
+        "lastMentioned": "20260409",
+        "mentionCount": 2,
+        "lastMentionedPriceChange": -3.64,
+        "lastMentionedPriceChangeType": "翌営業日"
+      },
+      {
+        "code": "2809",
+        "name": "キユーピー",
+        "time": "15:30\n（予定）",
+        "type": "3Q",
+        "lastMentioned": "20260409",
+        "mentionCount": 1,
+        "lastMentionedPriceChange": -4.81,
+        "lastMentionedPriceChangeType": "翌営業日"
+      },
+      {
+        "code": "3382",
+        "name": "セブン＆アイ・ホールディングス",
+        "time": "15:30\n（予定）",
+        "type": "2Q",
+        "lastMentioned": "20260709",
+        "mentionCount": 1,
+        "lastMentionedPriceChange": -0.37,
+        "lastMentionedPriceChangeType": "翌営業日"
+      },
+      {
+        "code": "3490",
+        "name": "アズ企画設計",
+        "time": "15:30\n（予定）",
+        "type": "2Q",
+        "lastMentioned": "20260708",
+        "mentionCount": 1,
+        "lastMentionedPriceChange": -1.75,
+        "lastMentionedPriceChangeType": "翌営業日"
+      },
+      {
+        "code": "4763",
+        "name": "クリーク・アンド・リバー社",
+        "time": "15:30\n（予定）",
+        "type": "2Q",
+        "lastMentioned": "20260709",
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 8.55,
+        "lastMentionedPriceChangeType": "翌営業日"
+      },
+      {
+        "code": "4825",
+        "name": "ウェザーニューズ",
+        "time": "15:30\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260518",
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 5.69,
+        "lastMentionedPriceChangeType": "翌営業日"
+      },
+      {
+        "code": "6323",
+        "name": "ローツェ",
+        "time": "15:30\n（予定）",
+        "type": "2Q",
+        "lastMentioned": "20260709",
+        "mentionCount": 2,
+        "lastMentionedPriceChange": 1.5,
+        "lastMentionedPriceChangeType": "翌営業日"
+      },
+      {
+        "code": "7487",
+        "name": "小津産業",
+        "time": "15:30\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260630",
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 1.02,
+        "lastMentionedPriceChangeType": "翌営業日"
+      },
+      {
+        "code": "7513",
+        "name": "コジマ",
+        "time": "15:30\n（予定）",
+        "type": "本決算",
+        "lastMentioned": "20260713",
+        "mentionCount": 2,
+        "lastMentionedPriceChange": 2.74,
+        "lastMentionedPriceChangeType": "翌営業日"
+      },
+      {
+        "code": "7649",
+        "name": "スギホールディングス",
+        "time": "15:30\n（予定）",
+        "type": "2Q",
+        "lastMentioned": "20260409",
+        "mentionCount": 1,
+        "lastMentionedPriceChange": -1.78,
+        "lastMentionedPriceChangeType": "翌営業日"
+      },
+      {
+        "code": "9720",
+        "name": "ホテル、ニューグランド",
+        "time": "15:30\n（予定）",
+        "type": "3Q",
+        "lastMentioned": "20260708",
+        "mentionCount": 1
+      },
+      {
+        "code": "9861",
+        "name": "吉野家ホールディングス",
+        "time": "16:00\n（予定）",
+        "type": "2Q",
+        "lastMentioned": "20260708",
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 0.96,
+        "lastMentionedPriceChangeType": "翌営業日"
+      },
+      {
+        "code": "9983",
+        "name": "ファーストリテイリング",
+        "time": "15:31\n（予定）",
+        "type": "本決算",
+        "lastMentioned": "20260709",
+        "mentionCount": 2,
+        "lastMentionedPriceChange": -3.59,
+        "lastMentionedPriceChangeType": "翌営業日"
+      }
+    ],
+    "20261009": [
+      {
+        "code": "2999",
+        "name": "ホームポジション",
+        "time": "15:30\n（予定）",
+        "type": "本決算",
+        "lastMentioned": "20260710",
+        "mentionCount": 2,
+        "lastMentionedPriceChange": 6.05,
+        "lastMentionedPriceChangeType": "翌営業日"
+      },
+      {
+        "code": "3063",
+        "name": "ジェイグループホールディングス",
+        "time": "16:30\n（予定）",
+        "type": "2Q",
+        "lastMentioned": "20260528",
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 18.32,
+        "lastMentionedPriceChangeType": "翌営業日"
+      },
+      {
+        "code": "3454",
+        "name": "ファーストブラザーズ",
+        "time": "17:00\n（予定）",
+        "type": "3Q",
+        "lastMentioned": "20260710",
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 1.13,
+        "lastMentionedPriceChangeType": "翌営業日"
+      },
+      {
+        "code": "3627",
+        "name": "テクミラホールディングス",
+        "time": "15:30\n（予定）",
+        "type": "2Q",
+        "lastMentioned": "20260410",
+        "mentionCount": 2,
+        "lastMentionedPriceChange": -3.07,
+        "lastMentionedPriceChangeType": "翌営業日"
+      },
+      {
+        "code": "3996",
+        "name": "サインポスト",
+        "time": "15:30\n（予定）",
+        "type": "2Q",
+        "lastMentioned": "20260710",
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 4.21,
+        "lastMentionedPriceChangeType": "翌営業日"
+      },
+      {
+        "code": "4187",
+        "name": "大阪有機化学工業",
+        "time": "15:30\n（予定）",
+        "type": "3Q",
+        "lastMentioned": "20260702",
+        "mentionCount": 1,
+        "lastMentionedPriceChange": -0.17,
+        "lastMentionedPriceChangeType": "翌営業日"
+      },
+      {
+        "code": "4443",
+        "name": "Ｓａｎｓａｎ",
+        "time": "15:30\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260519",
+        "mentionCount": 1,
+        "lastMentionedPriceChange": -1.07,
+        "lastMentionedPriceChangeType": "翌営業日"
+      },
+      {
+        "code": "463A",
+        "name": "インテリックスホールディングス",
+        "time": "未定",
+        "type": "1Q",
+        "lastMentioned": "20260428",
+        "mentionCount": 1,
+        "lastMentionedPriceChange": -0.19,
+        "lastMentionedPriceChangeType": "翌営業日"
+      },
+      {
+        "code": "4760",
+        "name": "アルファ",
+        "time": "15:30\n（予定）",
+        "type": "本決算",
+        "lastMentioned": "20260406",
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 2.39,
+        "lastMentionedPriceChangeType": "翌営業日"
+      },
+      {
+        "code": "6136",
+        "name": "オーエスジー",
+        "time": "15:30\n（予定）",
+        "type": "3Q",
+        "lastMentioned": "20260710",
+        "mentionCount": 2,
+        "lastMentionedPriceChange": 7.44,
+        "lastMentionedPriceChangeType": "翌営業日"
+      },
+      {
+        "code": "6264",
+        "name": "マルマエ",
+        "time": "15:30\n（予定）",
+        "type": "本決算",
+        "lastMentioned": "20260611",
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 20.89,
+        "lastMentionedPriceChangeType": "翌営業日"
+      },
+      {
+        "code": "6506",
+        "name": "安川電機",
+        "time": "16:00\n（予定）",
+        "type": "2Q",
+        "lastMentioned": "20260410",
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 7.05,
+        "lastMentionedPriceChangeType": "翌営業日"
+      },
+      {
+        "code": "6668",
+        "name": "アドテック　プラズマ　テクノロジー",
+        "time": "15:30\n（予定）",
+        "type": "本決算",
+        "lastMentioned": "20260710",
+        "mentionCount": 1,
+        "lastMentionedPriceChange": -4.95,
+        "lastMentionedPriceChangeType": "翌営業日"
+      },
+      {
+        "code": "6814",
+        "name": "古野電気",
+        "time": "15:30\n（予定）",
+        "type": "2Q",
+        "lastMentioned": "20260710",
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 15.65,
+        "lastMentionedPriceChangeType": "翌営業日"
+      },
+      {
+        "code": "7673",
+        "name": "ダイコー通産",
+        "time": "15:30\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260518",
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 7.11,
+        "lastMentionedPriceChangeType": "翌営業日"
+      },
+      {
+        "code": "9270",
+        "name": "バリュエンスホールディングス",
+        "time": "16:00\n（予定）",
+        "type": "本決算",
+        "lastMentioned": "20260710",
+        "mentionCount": 2,
+        "lastMentionedPriceChange": 1.13,
+        "lastMentionedPriceChangeType": "翌営業日"
+      },
+      {
+        "code": "9972",
+        "name": "アルテック",
+        "time": "16:30\n（予定）",
+        "type": "3Q",
+        "lastMentioned": "20260706",
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 5.84,
+        "lastMentionedPriceChangeType": "翌営業日"
+      }
+    ],
+    "20261013": [
+      {
+        "code": "2653",
+        "name": "イオン九州",
+        "time": "15:30\n（予定）",
+        "type": "2Q",
+        "lastMentioned": "20260324",
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 1.53,
+        "lastMentionedPriceChangeType": "翌営業日"
+      },
+      {
+        "code": "4343",
+        "name": "イオンファンタジー",
+        "time": "15:30\n（予定）",
+        "type": "2Q",
+        "lastMentioned": "20260406",
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 2.63,
+        "lastMentionedPriceChangeType": "翌営業日"
+      },
+      {
+        "code": "7085",
+        "name": "カーブスホールディングス",
+        "time": "18:45\n（予定）",
+        "type": "本決算",
+        "lastMentioned": "20260413",
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 15.07,
+        "lastMentionedPriceChangeType": "翌営業日"
+      },
+      {
+        "code": "7219",
+        "name": "エッチ・ケー・エス",
+        "time": "15:30\n（予定）",
+        "type": "本決算",
+        "lastMentioned": "20260710",
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 6.7,
+        "lastMentionedPriceChangeType": "翌営業日"
+      },
+      {
+        "code": "7725",
+        "name": "インターアクション",
+        "time": "16:00\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260713",
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 1.8,
+        "lastMentionedPriceChangeType": "翌営業日"
+      },
+      {
+        "code": "7811",
+        "name": "中本パックス",
+        "time": "15:00\n（予定）",
+        "type": "2Q",
+        "lastMentioned": "20260914",
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 0.41,
+        "lastMentionedPriceChangeType": "同日"
+      },
+      {
+        "code": "9278",
+        "name": "ブックオフグループホールディングス",
+        "time": "15:30\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260713",
+        "mentionCount": 2,
+        "lastMentionedPriceChange": 5.65,
+        "lastMentionedPriceChangeType": "翌営業日"
+      }
+    ],
+    "20261014": [
+      {
+        "code": "135A",
+        "name": "ＶＲＡＩＮ　Ｓｏｌｕｔｉｏｎ",
+        "time": "16:00\n（予定）",
+        "type": "2Q",
+        "lastMentioned": "20260414",
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 17.23,
+        "lastMentionedPriceChangeType": "翌営業日"
+      },
+      {
+        "code": "1434",
+        "name": "ＪＥＳＣＯホールディングス",
+        "time": "15:30\n（予定）",
+        "type": "本決算",
+        "lastMentioned": "20260413",
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 21.33,
+        "lastMentionedPriceChangeType": "翌営業日"
+      },
+      {
+        "code": "3075",
+        "name": "銚子丸",
+        "time": "15:30\n（予定）",
+        "type": "2Q",
+        "lastMentioned": "20260917",
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 4.16,
+        "lastMentionedPriceChangeType": "翌営業日"
+      },
+      {
+        "code": "3093",
+        "name": "トレジャー・ファクトリー",
+        "time": "15:30\n（予定）",
+        "type": "2Q",
+        "lastMentioned": "20260709",
+        "mentionCount": 1,
+        "lastMentionedPriceChange": -2.31,
+        "lastMentionedPriceChangeType": "翌営業日"
+      },
+      {
+        "code": "3168",
+        "name": "ＭＥＲＦ",
+        "time": "15:30\n（予定）",
+        "type": "本決算",
+        "lastMentioned": "20260817",
+        "mentionCount": 2,
+        "lastMentionedPriceChange": -3.5,
+        "lastMentionedPriceChangeType": "翌営業日"
+      },
+      {
+        "code": "3560",
+        "name": "ほぼ日",
+        "time": "15:30\n（予定）",
+        "type": "本決算",
+        "lastMentioned": "20260917",
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 15.04,
+        "lastMentionedPriceChangeType": "翌営業日"
+      },
+      {
+        "code": "3608",
+        "name": "ＴＳＩホールディングス",
+        "time": "15:30\n（予定）",
+        "type": "2Q",
+        "lastMentioned": "20260410",
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 20.78,
+        "lastMentionedPriceChangeType": "翌営業日"
+      },
+      {
+        "code": "365A",
+        "name": "伊澤タオル",
+        "time": "15:30\n（予定）",
+        "type": "2Q",
+        "lastMentioned": "20260319",
+        "mentionCount": 1,
+        "lastMentionedPriceChange": -1.37,
+        "lastMentionedPriceChangeType": "翌営業日"
+      },
+      {
+        "code": "4577",
+        "name": "ダイト",
+        "time": "16:30\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260410",
+        "mentionCount": 1,
+        "lastMentionedPriceChange": -1.36,
+        "lastMentionedPriceChangeType": "翌営業日"
+      },
+      {
+        "code": "464A",
+        "name": "ＱＰＳホールディングス",
+        "time": "未定",
+        "type": "1Q",
+        "lastMentioned": "20260701",
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 3.93,
+        "lastMentionedPriceChangeType": "翌営業日"
+      },
+      {
+        "code": "505A",
+        "name": "ギークリー",
+        "time": "未定",
+        "type": "1Q",
+        "lastMentioned": "20260413",
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 3.49,
+        "lastMentionedPriceChangeType": "翌営業日"
+      },
+      {
+        "code": "5246",
+        "name": "ＥＬＥＭＥＮＴＳ",
+        "time": "16:00\n（予定）",
+        "type": "3Q",
+        "lastMentioned": "20260413",
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 15.82,
+        "lastMentionedPriceChangeType": "翌営業日"
+      },
+      {
+        "code": "5578",
+        "name": "ＡＲアドバンストテクノロジ",
+        "time": "16:00\n（予定）",
+        "type": "本決算",
+        "lastMentioned": "20260413",
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 17.38,
+        "lastMentionedPriceChangeType": "翌営業日"
+      },
+      {
+        "code": "5885",
+        "name": "ジーデップ・アドバンス",
+        "time": "15:30\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260615",
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 9.41,
+        "lastMentionedPriceChangeType": "翌営業日"
+      },
+      {
+        "code": "5967",
+        "name": "ＴＯＮＥ",
+        "time": "15:30\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260630",
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 19.23,
+        "lastMentionedPriceChangeType": "翌営業日"
+      },
+      {
+        "code": "6505",
+        "name": "東洋電機製造",
+        "time": "15:30\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260413",
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 15.09,
+        "lastMentionedPriceChangeType": "翌営業日"
+      },
+      {
+        "code": "6552",
+        "name": "ＧａｍｅＷｉｔｈ",
+        "time": "15:30\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260408",
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 27.03,
+        "lastMentionedPriceChangeType": "翌営業日"
+      },
+      {
+        "code": "7453",
+        "name": "良品計画",
+        "time": "15:30\n（予定）",
+        "type": "本決算",
+        "lastMentioned": "20260710",
+        "mentionCount": 2,
+        "lastMentionedPriceChange": 16.84,
+        "lastMentionedPriceChangeType": "翌営業日"
+      }
+    ],
+    "20261015": [
+      {
+        "code": "244A",
+        "name": "グロースエクスパートナーズ",
+        "time": "16:00\n（予定）",
+        "type": "本決算",
+        "lastMentioned": "20260915",
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 2.74,
+        "lastMentionedPriceChangeType": "翌営業日"
+      },
+      {
+        "code": "3021",
+        "name": "パシフィックネット",
+        "time": "15:30\n（予定）",
+        "type": "1Q",
+        "lastMentioned": "20260414",
+        "mentionCount": 1,
+        "lastMentionedPriceChange": -15.99,
+        "lastMentionedPriceChangeType": "翌営業日"
+      },
+      {
+        "code": "325A",
+        "name": "ＴＥＮＴＩＡＬ",
+        "time": "15:30\n（予定）",
+        "type": "本決算",
+        "lastMentioned": "20260414",
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 10.65,
+        "lastMentionedPriceChangeType": "翌営業日"
+      },
+      {
+        "code": "3915",
+        "name": "テラスカイ",
+        "time": "15:30\n（予定）",
+        "type": "2Q",
+        "lastMentioned": "20260414",
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 4.76,
+        "lastMentionedPriceChangeType": "翌営業日"
+      },
+      {
+        "code": "4434",
+        "name": "サーバーワークス",
+        "time": "15:30\n（予定）",
+        "type": "2Q",
+        "lastMentioned": "20260414",
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 5.78,
+        "lastMentionedPriceChangeType": "翌営業日"
+      },
+      {
+        "code": "6182",
+        "name": "メタリアル",
+        "time": "15:30\n（予定）",
+        "type": "2Q",
+        "lastMentioned": "20260407",
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 5.86,
+        "lastMentionedPriceChangeType": "翌営業日"
+      },
+      {
+        "code": "6532",
+        "name": "ベイカレント",
+        "time": "15:30\n（予定）",
+        "type": "2Q",
+        "lastMentioned": "20260414",
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 14.32,
+        "lastMentionedPriceChangeType": "翌営業日"
+      },
+      {
+        "code": "6543",
+        "name": "日宣",
+        "time": "15:30\n（予定）",
+        "type": "2Q",
+        "lastMentioned": "20260820",
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 6.8,
+        "lastMentionedPriceChangeType": "翌営業日"
+      },
+      {
+        "code": "7730",
+        "name": "マニー",
+        "time": "15:30\n（予定）",
+        "type": "本決算",
+        "lastMentioned": "20260414",
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 10.05,
+        "lastMentionedPriceChangeType": "翌営業日"
+      },
+      {
+        "code": "7818",
+        "name": "トランザクション",
+        "time": "15:30\n（予定）",
+        "type": "本決算",
+        "lastMentioned": "20260407",
+        "mentionCount": 1,
+        "lastMentionedPriceChange": -4.13,
+        "lastMentionedPriceChangeType": "翌営業日"
+      },
+      {
+        "code": "8233",
+        "name": "高島屋",
+        "time": "15:00\n（予定）",
+        "type": "2Q",
+        "lastMentioned": "20260630",
+        "mentionCount": 1,
+        "lastMentionedPriceChange": -0.83,
+        "lastMentionedPriceChangeType": "同日"
+      }
+    ],
+    "20261023": [
+      {
+        "code": "7915",
+        "name": "ＮＩＳＳＨＡ",
+        "time": "15:30\n（予定）",
+        "type": "2Q",
+        "lastMentioned": "20260512",
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 12.81,
+        "lastMentionedPriceChangeType": "翌営業日"
       }
     ]
   }
