@@ -1137,7 +1137,7 @@
         "type": "1Q",
         "lastMentioned": "20260514",
         "mentionCount": 1,
-        "lastMentionedPriceChange": 2.91,
+        "lastMentionedPriceChange": 11.0,
         "lastMentionedPriceChangeType": "翌営業日",
         "referenceClose": 7445.0,
         "preEarningsChange": -1.33,
@@ -1371,8 +1371,8 @@
         "lastMentionedPriceChange": -3.57,
         "lastMentionedPriceChangeType": "同日",
         "referenceClose": 2675.0,
-        "preEarningsChange": -5.38,
-        "preEarningsFromDate": "20260804"
+        "preEarningsChange": -4.43,
+        "preEarningsFromDate": "20260803"
       },
       {
         "code": "5139",
@@ -1384,8 +1384,8 @@
         "lastMentionedPriceChange": -2.77,
         "lastMentionedPriceChangeType": "同日",
         "referenceClose": 947.0,
-        "preEarningsChange": 1.18,
-        "preEarningsFromDate": "20260804"
+        "preEarningsChange": 2.71,
+        "preEarningsFromDate": "20260803"
       },
       {
         "code": "546A",
@@ -1397,8 +1397,8 @@
         "lastMentionedPriceChange": 1.94,
         "lastMentionedPriceChangeType": "同日",
         "referenceClose": 2603.0,
-        "preEarningsChange": 4.96,
-        "preEarningsFromDate": "20260804"
+        "preEarningsChange": 8.87,
+        "preEarningsFromDate": "20260803"
       },
       {
         "code": "8051",
@@ -1410,8 +1410,8 @@
         "lastMentionedPriceChange": -2.81,
         "lastMentionedPriceChangeType": "同日",
         "referenceClose": 1900.0,
-        "preEarningsChange": 5.79,
-        "preEarningsFromDate": "20260804"
+        "preEarningsChange": 6.32,
+        "preEarningsFromDate": "20260803"
       },
       {
         "code": "8999",
@@ -1423,8 +1423,8 @@
         "lastMentionedPriceChange": 0.0,
         "lastMentionedPriceChangeType": "同日",
         "referenceClose": 552.0,
-        "preEarningsChange": 3.37,
-        "preEarningsFromDate": "20260804"
+        "preEarningsChange": 2.79,
+        "preEarningsFromDate": "20260803"
       }
     ],
     "20260812": [
@@ -1535,8 +1535,8 @@
         "lastMentionedPriceChange": 19.27,
         "lastMentionedPriceChangeType": "翌営業日",
         "referenceClose": 3935.0,
-        "preEarningsChange": 22.59,
-        "preEarningsFromDate": "20260810"
+        "preEarningsChange": 22.78,
+        "preEarningsFromDate": "20260925"
       }
     ],
     "20260827": [
@@ -2288,7 +2288,7 @@
         "type": "2Q",
         "lastMentioned": "20260626",
         "mentionCount": 1,
-        "lastMentionedPriceChange": 5.07,
+        "lastMentionedPriceChange": 0.59,
         "lastMentionedPriceChangeType": "翌営業日"
       },
       {
@@ -2310,7 +2310,7 @@
         "type": "2Q",
         "lastMentioned": "20260626",
         "mentionCount": 1,
-        "lastMentionedPriceChange": 4.44,
+        "lastMentionedPriceChange": 0.94,
         "lastMentionedPriceChangeType": "翌営業日"
       },
       {
@@ -2330,7 +2330,7 @@
         "type": "1Q",
         "lastMentioned": "20260625",
         "mentionCount": 1,
-        "lastMentionedPriceChange": -1.46,
+        "lastMentionedPriceChange": 1.87,
         "lastMentionedPriceChangeType": "翌営業日"
       },
       {
