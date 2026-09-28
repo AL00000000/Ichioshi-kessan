@@ -1516,14 +1516,18 @@
       "ptsOpen": 215.0,
       "ptsOpenTime": "17:00　09/28",
       "ptsHighEarly": 219.7,
-      "ptsHighEarlyTime": "17:00　09/28"
+      "ptsHighEarlyTime": "17:00　09/28",
+      "ptsHighFinal": 219.7,
+      "ptsHighFinalTime": "17:00　09/28"
     },
     "8227": {
       "name": "しまむら",
       "ptsOpen": 3156.0,
       "ptsOpenTime": "17:00　09/28",
       "ptsHighEarly": 3156.0,
-      "ptsHighEarlyTime": "17:00　09/28"
+      "ptsHighEarlyTime": "17:00　09/28",
+      "ptsHighFinal": 3194.0,
+      "ptsHighFinalTime": "23:04　09/28"
     }
   }
 }
