@@ -1530,5 +1530,27 @@
       "ptsHighFinalTime": "23:04　09/28"
     }
   },
-  "20261003": {}
+  "20261003": {},
+  "20261002": {
+    "3321": {
+      "name": "ミタチ産業",
+      "ptsHighFinal": 1850.0,
+      "ptsHighFinalTime": "23:20　10/02"
+    },
+    "4394": {
+      "name": "エクスモーション",
+      "ptsHighFinal": 770.0,
+      "ptsHighFinalTime": "17:00　10/02"
+    },
+    "6279": {
+      "name": "瑞光",
+      "ptsHighFinal": 915.0,
+      "ptsHighFinalTime": "17:13　10/02"
+    },
+    "8931": {
+      "name": "和田興産",
+      "ptsHighFinal": 1267.0,
+      "ptsHighFinalTime": "20:23　10/02"
+    }
+  }
 }
