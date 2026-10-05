@@ -1535,22 +1535,34 @@
     "3321": {
       "name": "ミタチ産業",
       "ptsHighFinal": 1850.0,
-      "ptsHighFinalTime": "23:20　10/02"
+      "ptsHighFinalTime": "23:20　10/02",
+      "nextDayHigh": 1853.0,
+      "nextDayHighTime": "09:00",
+      "nextDayClose": 1791.0
     },
     "4394": {
       "name": "エクスモーション",
       "ptsHighFinal": 770.0,
-      "ptsHighFinalTime": "17:00　10/02"
+      "ptsHighFinalTime": "17:00　10/02",
+      "nextDayHigh": 756.0,
+      "nextDayHighTime": "09:50",
+      "nextDayClose": 728.0
     },
     "6279": {
       "name": "瑞光",
       "ptsHighFinal": 915.0,
-      "ptsHighFinalTime": "17:13　10/02"
+      "ptsHighFinalTime": "17:13　10/02",
+      "nextDayHigh": 930.0,
+      "nextDayHighTime": "09:03",
+      "nextDayClose": 913.0
     },
     "8931": {
       "name": "和田興産",
       "ptsHighFinal": 1267.0,
-      "ptsHighFinalTime": "20:23　10/02"
+      "ptsHighFinalTime": "20:23　10/02",
+      "nextDayHigh": 1294.0,
+      "nextDayHighTime": "15:30",
+      "nextDayClose": 1294.0
     }
   },
   "20261005": {
