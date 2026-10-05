@@ -1552,5 +1552,35 @@
       "ptsHighFinal": 1267.0,
       "ptsHighFinalTime": "20:23　10/02"
     }
+  },
+  "20261005": {
+    "3186": {
+      "name": "ネクステージ",
+      "ptsOpen": 2779.0,
+      "ptsOpenTime": "17:00　10/05",
+      "ptsHighEarly": 2783.0,
+      "ptsHighEarlyTime": "17:01　10/05"
+    },
+    "3377": {
+      "name": "バイク王＆カンパニー",
+      "ptsOpen": 416.9,
+      "ptsOpenTime": "17:00　10/05",
+      "ptsHighEarly": 422.0,
+      "ptsHighEarlyTime": "17:00　10/05"
+    },
+    "3498": {
+      "name": "霞ヶ関キャピタル",
+      "ptsOpen": 7660.0,
+      "ptsOpenTime": "17:01　10/05",
+      "ptsHighEarly": 7666.0,
+      "ptsHighEarlyTime": "18:46　10/05"
+    },
+    "3612": {
+      "name": "ワールド",
+      "ptsOpen": 1465.1,
+      "ptsOpenTime": "17:05　10/05",
+      "ptsHighEarly": 1510.0,
+      "ptsHighEarlyTime": "22:58　10/05"
+    }
   }
 }
