@@ -1573,7 +1573,10 @@
       "ptsHighEarly": 2783.0,
       "ptsHighEarlyTime": "17:01　10/05",
       "ptsHighFinal": 2783.0,
-      "ptsHighFinalTime": "17:01　10/05"
+      "ptsHighFinalTime": "17:01　10/05",
+      "nextDayHigh": 2740.0,
+      "nextDayHighTime": "14:34",
+      "nextDayClose": 2699.0
     },
     "3377": {
       "name": "バイク王＆カンパニー",
@@ -1582,7 +1585,10 @@
       "ptsHighEarly": 422.0,
       "ptsHighEarlyTime": "17:00　10/05",
       "ptsHighFinal": 422.0,
-      "ptsHighFinalTime": "17:00　10/05"
+      "ptsHighFinalTime": "17:00　10/05",
+      "nextDayHigh": 425.0,
+      "nextDayHighTime": "09:21",
+      "nextDayClose": 422.0
     },
     "3498": {
       "name": "霞ヶ関キャピタル",
@@ -1591,7 +1597,10 @@
       "ptsHighEarly": 7666.0,
       "ptsHighEarlyTime": "18:46　10/05",
       "ptsHighFinal": 7666.0,
-      "ptsHighFinalTime": "18:46　10/05"
+      "ptsHighFinalTime": "18:46　10/05",
+      "nextDayHigh": 7590.0,
+      "nextDayHighTime": "09:00",
+      "nextDayClose": 7080.0
     },
     "3612": {
       "name": "ワールド",
@@ -1600,7 +1609,10 @@
       "ptsHighEarly": 1510.0,
       "ptsHighEarlyTime": "22:58　10/05",
       "ptsHighFinal": 1510.0,
-      "ptsHighFinalTime": "22:58　10/05"
+      "ptsHighFinalTime": "22:58　10/05",
+      "nextDayHigh": 1557.0,
+      "nextDayHighTime": "09:54",
+      "nextDayClose": 1541.0
     }
   }
 }
