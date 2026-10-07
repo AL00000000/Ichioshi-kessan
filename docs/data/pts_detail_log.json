@@ -1623,7 +1623,10 @@
       "ptsHighEarly": 1388.0,
       "ptsHighEarlyTime": "19:53　10/06",
       "ptsHighFinal": 1430.0,
-      "ptsHighFinalTime": "22:21　10/06"
+      "ptsHighFinalTime": "22:21　10/06",
+      "nextDayHigh": 1481.0,
+      "nextDayHighTime": "09:07",
+      "nextDayClose": 1446.0
     },
     "2734": {
       "name": "サーラコーポレーション",
@@ -1632,7 +1635,10 @@
       "ptsHighEarly": 1175.0,
       "ptsHighEarlyTime": "20:19　10/06",
       "ptsHighFinal": 1199.9,
-      "ptsHighFinalTime": "22:32　10/06"
+      "ptsHighFinalTime": "22:32　10/06",
+      "nextDayHigh": 1178.0,
+      "nextDayHighTime": "09:00",
+      "nextDayClose": 1123.0
     },
     "5243": {
       "name": "ｎｏｔｅ",
@@ -1641,7 +1647,10 @@
       "ptsHighEarly": 3950.0,
       "ptsHighEarlyTime": "17:00　10/06",
       "ptsHighFinal": 3950.0,
-      "ptsHighFinalTime": "17:00　10/06"
+      "ptsHighFinalTime": "17:00　10/06",
+      "nextDayHigh": 3505.0,
+      "nextDayHighTime": "09:12",
+      "nextDayClose": 3150.0
     },
     "6469": {
       "name": "放電精密加工研究所",
@@ -1650,7 +1659,10 @@
       "ptsHighEarly": 3260.0,
       "ptsHighEarlyTime": "17:00　10/06",
       "ptsHighFinal": 3270.0,
-      "ptsHighFinalTime": "23:29　10/06"
+      "ptsHighFinalTime": "23:29　10/06",
+      "nextDayHigh": 3155.0,
+      "nextDayHighTime": "09:00",
+      "nextDayClose": 2973.0
     }
   }
 }
