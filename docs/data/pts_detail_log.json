@@ -1667,21 +1667,27 @@
   },
   "20261007": {
     "2670": {
-      "name": "エービーシー・マート"
+      "name": "エービーシー・マート",
+      "ptsHighFinal": 2835.0,
+      "ptsHighFinalTime": "17:25　10/07"
     },
     "3391": {
       "name": "ツルハホールディングス",
       "ptsOpen": 2170.0,
       "ptsOpenTime": "17:00　10/07",
       "ptsHighEarly": 2170.0,
-      "ptsHighEarlyTime": "17:00　10/07"
+      "ptsHighEarlyTime": "17:00　10/07",
+      "ptsHighFinal": 2275.0,
+      "ptsHighFinalTime": "22:39　10/07"
     },
     "6093": {
       "name": "ミトラグループ",
       "ptsOpen": 155.0,
       "ptsOpenTime": "17:03　10/07",
       "ptsHighEarly": 155.0,
-      "ptsHighEarlyTime": "17:03　10/07"
+      "ptsHighEarlyTime": "17:03　10/07",
+      "ptsHighFinal": 157.9,
+      "ptsHighFinalTime": "17:07　10/07"
     }
   }
 }
