@@ -1701,59 +1701,83 @@
   },
   "20261008": {
     "2341": {
-      "name": "アルバイトタイムス"
+      "name": "アルバイトタイムス",
+      "ptsHighFinal": 170.0,
+      "ptsHighFinalTime": "23:42　10/08"
     },
     "2809": {
-      "name": "キユーピー"
+      "name": "キユーピー",
+      "ptsHighFinal": 4280.0,
+      "ptsHighFinalTime": "23:53　10/08"
     },
     "3382": {
-      "name": "セブン＆アイ・ホールディングス"
+      "name": "セブン＆アイ・ホールディングス",
+      "ptsHighFinal": 1988.0,
+      "ptsHighFinalTime": "19:31　10/08"
     },
     "3490": {
-      "name": "アズ企画設計"
+      "name": "アズ企画設計",
+      "ptsHighFinal": 3150.0,
+      "ptsHighFinalTime": "17:50　10/08"
     },
     "4763": {
-      "name": "クリーク・アンド・リバー社"
+      "name": "クリーク・アンド・リバー社",
+      "ptsHighFinal": 1470.0,
+      "ptsHighFinalTime": "22:24　10/08"
     },
     "4825": {
-      "name": "ウェザーニューズ"
+      "name": "ウェザーニューズ",
+      "ptsHighFinal": 1899.0,
+      "ptsHighFinalTime": "22:57　10/08"
     },
     "6323": {
       "name": "ローツェ",
       "ptsOpen": 5000.0,
       "ptsOpenTime": "17:00　10/08",
       "ptsHighEarly": 5000.0,
-      "ptsHighEarlyTime": "17:00　10/08"
+      "ptsHighEarlyTime": "17:00　10/08",
+      "ptsHighFinal": 5000.0,
+      "ptsHighFinalTime": "17:00　10/08"
     },
     "7487": {
-      "name": "小津産業"
+      "name": "小津産業",
+      "ptsHighFinal": 2000.0,
+      "ptsHighFinalTime": "17:13　10/08"
     },
     "7513": {
       "name": "コジマ",
       "ptsOpen": 1390.0,
       "ptsOpenTime": "17:04　10/08",
       "ptsHighEarly": 1390.0,
-      "ptsHighEarlyTime": "17:04　10/08"
+      "ptsHighEarlyTime": "17:04　10/08",
+      "ptsHighFinal": 1390.0,
+      "ptsHighFinalTime": "17:04　10/08"
     },
     "7649": {
       "name": "スギホールディングス",
       "ptsOpen": 1205.0,
       "ptsOpenTime": "17:01　10/08",
       "ptsHighEarly": 1209.0,
-      "ptsHighEarlyTime": "17:04　10/08"
+      "ptsHighEarlyTime": "17:04　10/08",
+      "ptsHighFinal": 1218.0,
+      "ptsHighFinalTime": "23:58　10/08"
     },
     "9720": {
       "name": "ホテル、ニューグランド"
     },
     "9861": {
-      "name": "吉野家ホールディングス"
+      "name": "吉野家ホールディングス",
+      "ptsHighFinal": 3769.0,
+      "ptsHighFinalTime": "20:58　10/08"
     },
     "9983": {
       "name": "ファーストリテイリング",
       "ptsOpen": 73600.0,
       "ptsOpenTime": "17:00　10/08",
       "ptsHighEarly": 73600.0,
-      "ptsHighEarlyTime": "17:00　10/08"
+      "ptsHighEarlyTime": "17:00　10/08",
+      "ptsHighFinal": 75000.0,
+      "ptsHighFinalTime": "21:30　10/08"
     }
   }
 }
