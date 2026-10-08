@@ -1669,7 +1669,10 @@
     "2670": {
       "name": "エービーシー・マート",
       "ptsHighFinal": 2835.0,
-      "ptsHighFinalTime": "17:25　10/07"
+      "ptsHighFinalTime": "17:25　10/07",
+      "nextDayHigh": 2948.0,
+      "nextDayHighTime": "09:06",
+      "nextDayClose": 2868.5
     },
     "3391": {
       "name": "ツルハホールディングス",
@@ -1678,7 +1681,10 @@
       "ptsHighEarly": 2170.0,
       "ptsHighEarlyTime": "17:00　10/07",
       "ptsHighFinal": 2275.0,
-      "ptsHighFinalTime": "22:39　10/07"
+      "ptsHighFinalTime": "22:39　10/07",
+      "nextDayHigh": 2201.0,
+      "nextDayHighTime": "09:03",
+      "nextDayClose": 2132.0
     },
     "6093": {
       "name": "ミトラグループ",
@@ -1687,7 +1693,10 @@
       "ptsHighEarly": 155.0,
       "ptsHighEarlyTime": "17:03　10/07",
       "ptsHighFinal": 157.9,
-      "ptsHighFinalTime": "17:07　10/07"
+      "ptsHighFinalTime": "17:07　10/07",
+      "nextDayHigh": 155.0,
+      "nextDayHighTime": "09:10",
+      "nextDayClose": 154.0
     }
   }
 }
