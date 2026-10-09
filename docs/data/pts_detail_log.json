@@ -1825,49 +1825,63 @@
       "ptsOpen": 1100.0,
       "ptsOpenTime": "18:47　10/09",
       "ptsHighEarly": 1100.0,
-      "ptsHighEarlyTime": "18:47　10/09"
+      "ptsHighEarlyTime": "18:47　10/09",
+      "ptsHighFinal": 1100.0,
+      "ptsHighFinalTime": "18:47　10/09"
     },
     "3454": {
       "name": "ファーストブラザーズ",
       "ptsOpen": 1290.0,
       "ptsOpenTime": "20:16　10/09",
       "ptsHighEarly": 1290.0,
-      "ptsHighEarlyTime": "20:16　10/09"
+      "ptsHighEarlyTime": "20:16　10/09",
+      "ptsHighFinal": 1290.0,
+      "ptsHighFinalTime": "20:16　10/09"
     },
     "3627": {
       "name": "テクミラホールディングス",
       "ptsOpen": 267.0,
       "ptsOpenTime": "22:22　10/09",
       "ptsHighEarly": 268.0,
-      "ptsHighEarlyTime": "22:57　10/09"
+      "ptsHighEarlyTime": "22:57　10/09",
+      "ptsHighFinal": 268.0,
+      "ptsHighFinalTime": "22:57　10/09"
     },
     "3996": {
       "name": "サインポスト",
       "ptsOpen": 244.1,
       "ptsOpenTime": "17:05　10/09",
       "ptsHighEarly": 245.0,
-      "ptsHighEarlyTime": "22:48　10/09"
+      "ptsHighEarlyTime": "22:48　10/09",
+      "ptsHighFinal": 254.0,
+      "ptsHighFinalTime": "23:49　10/09"
     },
     "4187": {
       "name": "大阪有機化学工業",
       "ptsOpen": 4910.0,
       "ptsOpenTime": "17:00　10/09",
       "ptsHighEarly": 4940.0,
-      "ptsHighEarlyTime": "18:12　10/09"
+      "ptsHighEarlyTime": "18:12　10/09",
+      "ptsHighFinal": 4955.0,
+      "ptsHighFinalTime": "23:58　10/09"
     },
     "4443": {
       "name": "Ｓａｎｓａｎ",
       "ptsOpen": 2195.0,
       "ptsOpenTime": "17:01　10/09",
       "ptsHighEarly": 2195.0,
-      "ptsHighEarlyTime": "17:01　10/09"
+      "ptsHighEarlyTime": "17:01　10/09",
+      "ptsHighFinal": 2195.0,
+      "ptsHighFinalTime": "17:01　10/09"
     },
     "463A": {
       "name": "インテリックスホールディングス",
       "ptsOpen": 906.0,
       "ptsOpenTime": "17:06　10/09",
       "ptsHighEarly": 918.0,
-      "ptsHighEarlyTime": "19:44　10/09"
+      "ptsHighEarlyTime": "19:44　10/09",
+      "ptsHighFinal": 918.0,
+      "ptsHighFinalTime": "19:44　10/09"
     },
     "4760": {
       "name": "アルファ"
@@ -1877,56 +1891,72 @@
       "ptsOpen": 3760.0,
       "ptsOpenTime": "17:01　10/09",
       "ptsHighEarly": 3930.0,
-      "ptsHighEarlyTime": "17:39　10/09"
+      "ptsHighEarlyTime": "17:39　10/09",
+      "ptsHighFinal": 3930.0,
+      "ptsHighFinalTime": "17:39　10/09"
     },
     "6264": {
       "name": "マルマエ",
       "ptsOpen": 2383.0,
       "ptsOpenTime": "17:00　10/09",
       "ptsHighEarly": 2415.0,
-      "ptsHighEarlyTime": "17:02　10/09"
+      "ptsHighEarlyTime": "17:02　10/09",
+      "ptsHighFinal": 2415.0,
+      "ptsHighFinalTime": "17:02　10/09"
     },
     "6506": {
       "name": "安川電機",
       "ptsOpen": 4790.0,
       "ptsOpenTime": "17:00　10/09",
       "ptsHighEarly": 5050.0,
-      "ptsHighEarlyTime": "20:31　10/09"
+      "ptsHighEarlyTime": "20:31　10/09",
+      "ptsHighFinal": 5050.0,
+      "ptsHighFinalTime": "20:31　10/09"
     },
     "6668": {
       "name": "アドテック　プラズマ　テクノロジー",
       "ptsOpen": 5625.0,
       "ptsOpenTime": "17:02　10/09",
       "ptsHighEarly": 5625.0,
-      "ptsHighEarlyTime": "17:02　10/09"
+      "ptsHighEarlyTime": "17:02　10/09",
+      "ptsHighFinal": 5625.0,
+      "ptsHighFinalTime": "17:02　10/09"
     },
     "6814": {
       "name": "古野電気",
       "ptsOpen": 8055.0,
       "ptsOpenTime": "17:00　10/09",
       "ptsHighEarly": 8110.0,
-      "ptsHighEarlyTime": "17:35　10/09"
+      "ptsHighEarlyTime": "17:35　10/09",
+      "ptsHighFinal": 8110.0,
+      "ptsHighFinalTime": "17:35　10/09"
     },
     "7673": {
       "name": "ダイコー通産",
       "ptsOpen": 1700.0,
       "ptsOpenTime": "17:31　10/09",
       "ptsHighEarly": 1700.0,
-      "ptsHighEarlyTime": "17:31　10/09"
+      "ptsHighEarlyTime": "17:31　10/09",
+      "ptsHighFinal": 1700.0,
+      "ptsHighFinalTime": "17:31　10/09"
     },
     "9270": {
       "name": "バリュエンスホールディングス",
       "ptsOpen": 1920.0,
       "ptsOpenTime": "17:01　10/09",
       "ptsHighEarly": 1939.9,
-      "ptsHighEarlyTime": "17:02　10/09"
+      "ptsHighEarlyTime": "17:02　10/09",
+      "ptsHighFinal": 1939.9,
+      "ptsHighFinalTime": "17:02　10/09"
     },
     "9972": {
       "name": "アルテック",
       "ptsOpen": 280.0,
       "ptsOpenTime": "17:06　10/09",
       "ptsHighEarly": 280.0,
-      "ptsHighEarlyTime": "17:06　10/09"
+      "ptsHighEarlyTime": "17:06　10/09",
+      "ptsHighFinal": 280.0,
+      "ptsHighFinalTime": "17:06　10/09"
     }
   }
 }
