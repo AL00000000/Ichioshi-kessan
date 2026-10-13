@@ -2013,17 +2013,23 @@
   "20261012": {},
   "20261013": {
     "2653": {
-      "name": "イオン九州"
+      "name": "イオン九州",
+      "ptsHighFinal": 2715.0,
+      "ptsHighFinalTime": "20:54　10/13"
     },
     "4343": {
-      "name": "イオンファンタジー"
+      "name": "イオンファンタジー",
+      "ptsHighFinal": 2753.0,
+      "ptsHighFinalTime": "17:14　10/13"
     },
     "7085": {
       "name": "カーブスホールディングス",
       "ptsOpen": 944.0,
       "ptsOpenTime": "17:00　10/13",
       "ptsHighEarly": 944.0,
-      "ptsHighEarlyTime": "17:00　10/13"
+      "ptsHighEarlyTime": "17:00　10/13",
+      "ptsHighFinal": 959.5,
+      "ptsHighFinalTime": "17:28　10/13"
     },
     "7219": {
       "name": "エッチ・ケー・エス"
@@ -2033,13 +2039,19 @@
       "ptsOpen": 1645.0,
       "ptsOpenTime": "17:00　10/13",
       "ptsHighEarly": 1660.0,
-      "ptsHighEarlyTime": "17:02　10/13"
+      "ptsHighEarlyTime": "17:02　10/13",
+      "ptsHighFinal": 1682.0,
+      "ptsHighFinalTime": "18:26　10/13"
     },
     "7811": {
-      "name": "中本パックス"
+      "name": "中本パックス",
+      "ptsHighFinal": 2365.0,
+      "ptsHighFinalTime": "22:41　10/13"
     },
     "9278": {
-      "name": "ブックオフグループホールディングス"
+      "name": "ブックオフグループホールディングス",
+      "ptsHighFinal": 2788.0,
+      "ptsHighFinalTime": "17:10　10/13"
     }
   }
 }
