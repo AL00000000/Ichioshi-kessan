@@ -2077,21 +2077,27 @@
       "ptsOpen": 3000.0,
       "ptsOpenTime": "17:00　10/22",
       "ptsHighEarly": 3000.0,
-      "ptsHighEarlyTime": "17:00　10/22"
+      "ptsHighEarlyTime": "17:00　10/22",
+      "ptsHighFinal": 3030.0,
+      "ptsHighFinalTime": "17:16　10/22"
     },
     "6146": {
       "name": "ディスコ",
       "ptsOpen": 51000.0,
       "ptsOpenTime": "17:01　10/22",
       "ptsHighEarly": 51000.0,
-      "ptsHighEarlyTime": "17:01　10/22"
+      "ptsHighEarlyTime": "17:01　10/22",
+      "ptsHighFinal": 53320.0,
+      "ptsHighFinalTime": "21:24　10/22"
     },
     "9478": {
       "name": "ＳＥホールディングス・アンド・インキュベーションズ",
       "ptsOpen": 525.0,
       "ptsOpenTime": "17:00　10/22",
       "ptsHighEarly": 525.0,
-      "ptsHighEarlyTime": "17:00　10/22"
+      "ptsHighEarlyTime": "17:00　10/22",
+      "ptsHighFinal": 540.0,
+      "ptsHighFinalTime": "23:13　10/22"
     }
   }
 }
