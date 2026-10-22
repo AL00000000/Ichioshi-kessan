@@ -2070,5 +2070,28 @@
       "nextDayHighTime": "09:10",
       "nextDayClose": 3210.0
     }
+  },
+  "20261022": {
+    "3091": {
+      "name": "ブロンコビリー",
+      "ptsOpen": 3000.0,
+      "ptsOpenTime": "17:00　10/22",
+      "ptsHighEarly": 3000.0,
+      "ptsHighEarlyTime": "17:00　10/22"
+    },
+    "6146": {
+      "name": "ディスコ",
+      "ptsOpen": 51000.0,
+      "ptsOpenTime": "17:01　10/22",
+      "ptsHighEarly": 51000.0,
+      "ptsHighEarlyTime": "17:01　10/22"
+    },
+    "9478": {
+      "name": "ＳＥホールディングス・アンド・インキュベーションズ",
+      "ptsOpen": 525.0,
+      "ptsOpenTime": "17:00　10/22",
+      "ptsHighEarly": 525.0,
+      "ptsHighEarlyTime": "17:00　10/22"
+    }
   }
 }
