@@ -2111,24 +2111,32 @@
   },
   "20261023": {
     "2804": {
-      "name": "ブルドックソース"
+      "name": "ブルドックソース",
+      "ptsHighFinal": 1788.0,
+      "ptsHighFinalTime": "18:46　10/23"
     },
     "6954": {
       "name": "ファナック",
       "ptsOpen": 5940.0,
       "ptsOpenTime": "17:00　10/23",
       "ptsHighEarly": 5996.9,
-      "ptsHighEarlyTime": "17:01　10/23"
+      "ptsHighEarlyTime": "17:01　10/23",
+      "ptsHighFinal": 5996.9,
+      "ptsHighFinalTime": "17:01　10/23"
     },
     "6999": {
       "name": "ＫＯＡ",
       "ptsOpen": 2120.0,
       "ptsOpenTime": "17:00　10/23",
       "ptsHighEarly": 2130.0,
-      "ptsHighEarlyTime": "17:02　10/23"
+      "ptsHighEarlyTime": "17:02　10/23",
+      "ptsHighFinal": 2130.0,
+      "ptsHighFinalTime": "17:02　10/23"
     },
     "8707": {
-      "name": "岩井コスモホールディングス"
+      "name": "岩井コスモホールディングス",
+      "ptsHighFinal": 4000.0,
+      "ptsHighFinalTime": "21:22　10/23"
     }
   }
 }
