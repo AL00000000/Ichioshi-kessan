@@ -2099,5 +2099,27 @@
       "ptsHighFinal": 540.0,
       "ptsHighFinalTime": "23:13　10/22"
     }
+  },
+  "20261023": {
+    "2804": {
+      "name": "ブルドックソース"
+    },
+    "6954": {
+      "name": "ファナック",
+      "ptsOpen": 5940.0,
+      "ptsOpenTime": "17:00　10/23",
+      "ptsHighEarly": 5996.9,
+      "ptsHighEarlyTime": "17:01　10/23"
+    },
+    "6999": {
+      "name": "ＫＯＡ",
+      "ptsOpen": 2120.0,
+      "ptsOpenTime": "17:00　10/23",
+      "ptsHighEarly": 2130.0,
+      "ptsHighEarlyTime": "17:02　10/23"
+    },
+    "8707": {
+      "name": "岩井コスモホールディングス"
+    }
   }
 }
