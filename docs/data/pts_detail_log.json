@@ -2164,5 +2164,58 @@
       "nextDayHighTime": "09:04",
       "nextDayClose": 4026.0
     }
+  },
+  "20261027": {
+    "2212": {
+      "name": "山崎製パン"
+    },
+    "4063": {
+      "name": "信越化学工業",
+      "ptsOpen": 5889.9,
+      "ptsOpenTime": "17:00　10/27",
+      "ptsHighEarly": 5889.9,
+      "ptsHighEarlyTime": "17:00　10/27"
+    },
+    "4479": {
+      "name": "マクアケ",
+      "ptsOpen": 930.0,
+      "ptsOpenTime": "17:00　10/27",
+      "ptsHighEarly": 930.0,
+      "ptsHighEarlyTime": "17:00　10/27"
+    },
+    "4684": {
+      "name": "オービック"
+    },
+    "5279": {
+      "name": "日本興業",
+      "ptsOpen": 1180.0,
+      "ptsOpenTime": "17:01　10/27",
+      "ptsHighEarly": 1190.0,
+      "ptsHighEarlyTime": "17:02　10/27"
+    },
+    "6337": {
+      "name": "テセック",
+      "ptsOpen": 3130.0,
+      "ptsOpenTime": "17:03　10/27",
+      "ptsHighEarly": 3130.0,
+      "ptsHighEarlyTime": "17:03　10/27"
+    },
+    "7175": {
+      "name": "今村証券"
+    },
+    "7299": {
+      "name": "フジオーゼックス",
+      "ptsOpen": 1870.0,
+      "ptsOpenTime": "17:00　10/27",
+      "ptsHighEarly": 1870.0,
+      "ptsHighEarlyTime": "17:00　10/27"
+    },
+    "9697": {
+      "name": "カプコン",
+      "ptsOpen": 4165.0,
+      "ptsOpenTime": "17:00　10/27",
+      "ptsHighEarly": 4165.0,
+      "ptsHighEarlyTime": "17:00　10/27"
+    }
   }
 }
