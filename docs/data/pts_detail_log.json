@@ -2147,7 +2147,10 @@
       "ptsHighEarly": 1689.0,
       "ptsHighEarlyTime": "17:01　10/26",
       "ptsHighFinal": 1690.0,
-      "ptsHighFinalTime": "22:24　10/26"
+      "ptsHighFinalTime": "22:24　10/26",
+      "nextDayHigh": 1747.5,
+      "nextDayHighTime": "10:01",
+      "nextDayClose": 1724.5
     },
     "8060": {
       "name": "キヤノンマーケティングジャパン",
@@ -2156,7 +2159,10 @@
       "ptsHighEarly": 4092.8,
       "ptsHighEarlyTime": "18:26　10/26",
       "ptsHighFinal": 4100.0,
-      "ptsHighFinalTime": "20:53　10/26"
+      "ptsHighFinalTime": "20:53　10/26",
+      "nextDayHigh": 4135.0,
+      "nextDayHighTime": "09:04",
+      "nextDayClose": 4026.0
     }
   }
 }
