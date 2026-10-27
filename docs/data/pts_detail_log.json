@@ -2167,55 +2167,73 @@
   },
   "20261027": {
     "2212": {
-      "name": "山崎製パン"
+      "name": "山崎製パン",
+      "ptsHighFinal": 3893.0,
+      "ptsHighFinalTime": "17:52　10/27"
     },
     "4063": {
       "name": "信越化学工業",
       "ptsOpen": 5889.9,
       "ptsOpenTime": "17:00　10/27",
       "ptsHighEarly": 5889.9,
-      "ptsHighEarlyTime": "17:00　10/27"
+      "ptsHighEarlyTime": "17:00　10/27",
+      "ptsHighFinal": 6180.0,
+      "ptsHighFinalTime": "22:41　10/27"
     },
     "4479": {
       "name": "マクアケ",
       "ptsOpen": 930.0,
       "ptsOpenTime": "17:00　10/27",
       "ptsHighEarly": 930.0,
-      "ptsHighEarlyTime": "17:00　10/27"
+      "ptsHighEarlyTime": "17:00　10/27",
+      "ptsHighFinal": 930.0,
+      "ptsHighFinalTime": "17:00　10/27"
     },
     "4684": {
-      "name": "オービック"
+      "name": "オービック",
+      "ptsHighFinal": 6130.0,
+      "ptsHighFinalTime": "23:52　10/27"
     },
     "5279": {
       "name": "日本興業",
       "ptsOpen": 1180.0,
       "ptsOpenTime": "17:01　10/27",
       "ptsHighEarly": 1190.0,
-      "ptsHighEarlyTime": "17:02　10/27"
+      "ptsHighEarlyTime": "17:02　10/27",
+      "ptsHighFinal": 1390.0,
+      "ptsHighFinalTime": "17:20　10/27"
     },
     "6337": {
       "name": "テセック",
       "ptsOpen": 3130.0,
       "ptsOpenTime": "17:03　10/27",
       "ptsHighEarly": 3130.0,
-      "ptsHighEarlyTime": "17:03　10/27"
+      "ptsHighEarlyTime": "17:03　10/27",
+      "ptsHighFinal": 3210.0,
+      "ptsHighFinalTime": "20:06　10/27"
     },
     "7175": {
-      "name": "今村証券"
+      "name": "今村証券",
+      "ptsHighFinal": 1690.0,
+      "ptsHighFinalTime": "18:17　10/27"
     },
     "7299": {
       "name": "フジオーゼックス",
       "ptsOpen": 1870.0,
       "ptsOpenTime": "17:00　10/27",
       "ptsHighEarly": 1870.0,
-      "ptsHighEarlyTime": "17:00　10/27"
+      "ptsHighEarlyTime": "17:00　10/27",
+      "ptsHighFinal": 1870.0,
+      "ptsHighFinalTime": "17:00　10/27"
     },
     "9697": {
       "name": "カプコン",
       "ptsOpen": 4165.0,
       "ptsOpenTime": "17:00　10/27",
       "ptsHighEarly": 4165.0,
-      "ptsHighEarlyTime": "17:00　10/27"
+      "ptsHighEarlyTime": "17:00　10/27",
+      "ptsHighFinal": 4170.0,
+      "ptsHighFinalTime": "17:10　10/27"
     }
   }
 }
