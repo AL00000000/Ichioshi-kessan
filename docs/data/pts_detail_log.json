@@ -2265,31 +2265,41 @@
   },
   "20261028": {
     "1930": {
-      "name": "北陸電気工事"
+      "name": "北陸電気工事",
+      "ptsHighFinal": 1502.0,
+      "ptsHighFinalTime": "22:08　10/28"
     },
     "2760": {
       "name": "東京エレクトロン　デバイス",
       "ptsOpen": 4820.0,
       "ptsOpenTime": "17:02　10/28",
       "ptsHighEarly": 4835.0,
-      "ptsHighEarlyTime": "17:02　10/28"
+      "ptsHighEarlyTime": "17:02　10/28",
+      "ptsHighFinal": 4844.0,
+      "ptsHighFinalTime": "23:29　10/28"
     },
     "6023": {
-      "name": "ダイハツインフィニアース"
+      "name": "ダイハツインフィニアース",
+      "ptsHighFinal": 2749.0,
+      "ptsHighFinalTime": "23:48　10/28"
     },
     "6701": {
       "name": "日本電気",
       "ptsOpen": 5000.0,
       "ptsOpenTime": "17:00　10/28",
       "ptsHighEarly": 5018.0,
-      "ptsHighEarlyTime": "17:03　10/28"
+      "ptsHighEarlyTime": "17:03　10/28",
+      "ptsHighFinal": 5135.0,
+      "ptsHighFinalTime": "20:51　10/28"
     },
     "6857": {
       "name": "アドバンテスト",
       "ptsOpen": 37000.0,
       "ptsOpenTime": "17:00　10/28",
       "ptsHighEarly": 37000.0,
-      "ptsHighEarlyTime": "17:00　10/28"
+      "ptsHighEarlyTime": "17:00　10/28",
+      "ptsHighFinal": 37033.0,
+      "ptsHighFinalTime": "23:06　10/28"
     }
   }
 }
