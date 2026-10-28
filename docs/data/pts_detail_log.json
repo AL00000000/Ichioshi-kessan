@@ -2169,7 +2169,10 @@
     "2212": {
       "name": "山崎製パン",
       "ptsHighFinal": 3893.0,
-      "ptsHighFinalTime": "17:52　10/27"
+      "ptsHighFinalTime": "17:52　10/27",
+      "nextDayHigh": 3746.0,
+      "nextDayHighTime": "09:07",
+      "nextDayClose": 3625.0
     },
     "4063": {
       "name": "信越化学工業",
@@ -2178,7 +2181,10 @@
       "ptsHighEarly": 5889.9,
       "ptsHighEarlyTime": "17:00　10/27",
       "ptsHighFinal": 6180.0,
-      "ptsHighFinalTime": "22:41　10/27"
+      "ptsHighFinalTime": "22:41　10/27",
+      "nextDayHigh": 6115.0,
+      "nextDayHighTime": "09:22",
+      "nextDayClose": 6004.0
     },
     "4479": {
       "name": "マクアケ",
@@ -2187,12 +2193,18 @@
       "ptsHighEarly": 930.0,
       "ptsHighEarlyTime": "17:00　10/27",
       "ptsHighFinal": 930.0,
-      "ptsHighFinalTime": "17:00　10/27"
+      "ptsHighFinalTime": "17:00　10/27",
+      "nextDayHigh": 1010.0,
+      "nextDayHighTime": "09:14",
+      "nextDayClose": 932.0
     },
     "4684": {
       "name": "オービック",
       "ptsHighFinal": 6130.0,
-      "ptsHighFinalTime": "23:52　10/27"
+      "ptsHighFinalTime": "23:52　10/27",
+      "nextDayHigh": 6095.0,
+      "nextDayHighTime": "09:33",
+      "nextDayClose": 6042.0
     },
     "5279": {
       "name": "日本興業",
@@ -2201,7 +2213,10 @@
       "ptsHighEarly": 1190.0,
       "ptsHighEarlyTime": "17:02　10/27",
       "ptsHighFinal": 1390.0,
-      "ptsHighFinalTime": "17:20　10/27"
+      "ptsHighFinalTime": "17:20　10/27",
+      "nextDayHigh": 1248.0,
+      "nextDayHighTime": "14:07",
+      "nextDayClose": 1243.0
     },
     "6337": {
       "name": "テセック",
@@ -2210,12 +2225,18 @@
       "ptsHighEarly": 3130.0,
       "ptsHighEarlyTime": "17:03　10/27",
       "ptsHighFinal": 3210.0,
-      "ptsHighFinalTime": "20:06　10/27"
+      "ptsHighFinalTime": "20:06　10/27",
+      "nextDayHigh": 3050.0,
+      "nextDayHighTime": "09:15",
+      "nextDayClose": 2787.0
     },
     "7175": {
       "name": "今村証券",
       "ptsHighFinal": 1690.0,
-      "ptsHighFinalTime": "18:17　10/27"
+      "ptsHighFinalTime": "18:17　10/27",
+      "nextDayHigh": 1701.0,
+      "nextDayHighTime": "15:04",
+      "nextDayClose": 1701.0
     },
     "7299": {
       "name": "フジオーゼックス",
@@ -2224,7 +2245,10 @@
       "ptsHighEarly": 1870.0,
       "ptsHighEarlyTime": "17:00　10/27",
       "ptsHighFinal": 1870.0,
-      "ptsHighFinalTime": "17:00　10/27"
+      "ptsHighFinalTime": "17:00　10/27",
+      "nextDayHigh": 1818.0,
+      "nextDayHighTime": "14:18",
+      "nextDayClose": 1813.0
     },
     "9697": {
       "name": "カプコン",
@@ -2233,7 +2257,10 @@
       "ptsHighEarly": 4165.0,
       "ptsHighEarlyTime": "17:00　10/27",
       "ptsHighFinal": 4170.0,
-      "ptsHighFinalTime": "17:10　10/27"
+      "ptsHighFinalTime": "17:10　10/27",
+      "nextDayHigh": 4029.0,
+      "nextDayHighTime": "09:23",
+      "nextDayClose": 3835.0
     }
   }
 }
