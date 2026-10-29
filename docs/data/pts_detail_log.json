@@ -2267,7 +2267,10 @@
     "1930": {
       "name": "北陸電気工事",
       "ptsHighFinal": 1502.0,
-      "ptsHighFinalTime": "22:08　10/28"
+      "ptsHighFinalTime": "22:08　10/28",
+      "nextDayHigh": 1520.0,
+      "nextDayHighTime": "09:00",
+      "nextDayClose": 1482.0
     },
     "2760": {
       "name": "東京エレクトロン　デバイス",
@@ -2276,12 +2279,18 @@
       "ptsHighEarly": 4835.0,
       "ptsHighEarlyTime": "17:02　10/28",
       "ptsHighFinal": 4844.0,
-      "ptsHighFinalTime": "23:29　10/28"
+      "ptsHighFinalTime": "23:29　10/28",
+      "nextDayHigh": 4845.0,
+      "nextDayHighTime": "09:00",
+      "nextDayClose": 4360.0
     },
     "6023": {
       "name": "ダイハツインフィニアース",
       "ptsHighFinal": 2749.0,
-      "ptsHighFinalTime": "23:48　10/28"
+      "ptsHighFinalTime": "23:48　10/28",
+      "nextDayHigh": 2807.0,
+      "nextDayHighTime": "09:03",
+      "nextDayClose": 2646.0
     },
     "6701": {
       "name": "日本電気",
@@ -2290,7 +2299,10 @@
       "ptsHighEarly": 5018.0,
       "ptsHighEarlyTime": "17:03　10/28",
       "ptsHighFinal": 5135.0,
-      "ptsHighFinalTime": "20:51　10/28"
+      "ptsHighFinalTime": "20:51　10/28",
+      "nextDayHigh": 4992.0,
+      "nextDayHighTime": "09:09",
+      "nextDayClose": 4954.0
     },
     "6857": {
       "name": "アドバンテスト",
@@ -2299,7 +2311,10 @@
       "ptsHighEarly": 37000.0,
       "ptsHighEarlyTime": "17:00　10/28",
       "ptsHighFinal": 37033.0,
-      "ptsHighFinalTime": "23:06　10/28"
+      "ptsHighFinalTime": "23:06　10/28",
+      "nextDayHigh": 38120.0,
+      "nextDayHighTime": "09:31",
+      "nextDayClose": 37030.0
     }
   }
 }
