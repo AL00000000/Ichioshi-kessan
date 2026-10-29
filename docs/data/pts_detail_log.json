@@ -2316,5 +2316,78 @@
       "nextDayHighTime": "09:31",
       "nextDayClose": 37030.0
     }
+  },
+  "20261029": {
+    "1946": {
+      "name": "トーエネック"
+    },
+    "2914": {
+      "name": "日本たばこ産業"
+    },
+    "3793": {
+      "name": "ドリコム",
+      "ptsOpen": 489.9,
+      "ptsOpenTime": "17:02　10/29",
+      "ptsHighEarly": 489.9,
+      "ptsHighEarlyTime": "17:02　10/29"
+    },
+    "4062": {
+      "name": "イビデン",
+      "ptsOpen": 9690.0,
+      "ptsOpenTime": "17:00　10/29",
+      "ptsHighEarly": 9690.0,
+      "ptsHighEarlyTime": "17:00　10/29"
+    },
+    "4307": {
+      "name": "野村総合研究所"
+    },
+    "4461": {
+      "name": "第一工業製薬",
+      "ptsOpen": 10800.0,
+      "ptsOpenTime": "17:00　10/29",
+      "ptsHighEarly": 10910.0,
+      "ptsHighEarlyTime": "17:04　10/29"
+    },
+    "4507": {
+      "name": "塩野義製薬"
+    },
+    "4552": {
+      "name": "ＪＣＲファーマ"
+    },
+    "5471": {
+      "name": "大同特殊鋼"
+    },
+    "6349": {
+      "name": "小森コーポレーション"
+    },
+    "6454": {
+      "name": "マックス"
+    },
+    "6471": {
+      "name": "日本精工",
+      "ptsOpen": 1050.0,
+      "ptsOpenTime": "17:00　10/29",
+      "ptsHighEarly": 1055.0,
+      "ptsHighEarlyTime": "17:01　10/29"
+    },
+    "6754": {
+      "name": "アンリツ",
+      "ptsOpen": 2856.0,
+      "ptsOpenTime": "17:03　10/29",
+      "ptsHighEarly": 2856.0,
+      "ptsHighEarlyTime": "17:03　10/29"
+    },
+    "8609": {
+      "name": "岡三証券グループ"
+    },
+    "8613": {
+      "name": "丸三証券"
+    },
+    "8708": {
+      "name": "アイザワ証券グループ"
+    },
+    "9759": {
+      "name": "ＮＳＤ"
+    }
   }
 }
