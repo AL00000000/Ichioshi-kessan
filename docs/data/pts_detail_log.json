@@ -2319,69 +2319,97 @@
   },
   "20261029": {
     "1946": {
-      "name": "トーエネック"
+      "name": "トーエネック",
+      "ptsHighFinal": 2020.0,
+      "ptsHighFinalTime": "18:47　10/29"
     },
     "2914": {
-      "name": "日本たばこ産業"
+      "name": "日本たばこ産業",
+      "ptsHighFinal": 7340.0,
+      "ptsHighFinalTime": "18:14　10/29"
     },
     "3793": {
       "name": "ドリコム",
       "ptsOpen": 489.9,
       "ptsOpenTime": "17:02　10/29",
       "ptsHighEarly": 489.9,
-      "ptsHighEarlyTime": "17:02　10/29"
+      "ptsHighEarlyTime": "17:02　10/29",
+      "ptsHighFinal": 489.9,
+      "ptsHighFinalTime": "17:02　10/29"
     },
     "4062": {
       "name": "イビデン",
       "ptsOpen": 9690.0,
       "ptsOpenTime": "17:00　10/29",
       "ptsHighEarly": 9690.0,
-      "ptsHighEarlyTime": "17:00　10/29"
+      "ptsHighEarlyTime": "17:00　10/29",
+      "ptsHighFinal": 9690.0,
+      "ptsHighFinalTime": "17:00　10/29"
     },
     "4307": {
-      "name": "野村総合研究所"
+      "name": "野村総合研究所",
+      "ptsHighFinal": 6060.0,
+      "ptsHighFinalTime": "23:37　10/29"
     },
     "4461": {
       "name": "第一工業製薬",
       "ptsOpen": 10800.0,
       "ptsOpenTime": "17:00　10/29",
       "ptsHighEarly": 10910.0,
-      "ptsHighEarlyTime": "17:04　10/29"
+      "ptsHighEarlyTime": "17:04　10/29",
+      "ptsHighFinal": 11200.0,
+      "ptsHighFinalTime": "19:46　10/29"
     },
     "4507": {
-      "name": "塩野義製薬"
+      "name": "塩野義製薬",
+      "ptsHighFinal": 3001.0,
+      "ptsHighFinalTime": "22:39　10/29"
     },
     "4552": {
-      "name": "ＪＣＲファーマ"
+      "name": "ＪＣＲファーマ",
+      "ptsHighFinal": 509.0,
+      "ptsHighFinalTime": "18:22　10/29"
     },
     "5471": {
-      "name": "大同特殊鋼"
+      "name": "大同特殊鋼",
+      "ptsHighFinal": 2195.0,
+      "ptsHighFinalTime": "19:43　10/29"
     },
     "6349": {
-      "name": "小森コーポレーション"
+      "name": "小森コーポレーション",
+      "ptsHighFinal": 1820.0,
+      "ptsHighFinalTime": "22:02　10/29"
     },
     "6454": {
-      "name": "マックス"
+      "name": "マックス",
+      "ptsHighFinal": 1950.0,
+      "ptsHighFinalTime": "17:16　10/29"
     },
     "6471": {
       "name": "日本精工",
       "ptsOpen": 1050.0,
       "ptsOpenTime": "17:00　10/29",
       "ptsHighEarly": 1055.0,
-      "ptsHighEarlyTime": "17:01　10/29"
+      "ptsHighEarlyTime": "17:01　10/29",
+      "ptsHighFinal": 1055.0,
+      "ptsHighFinalTime": "17:01　10/29"
     },
     "6754": {
       "name": "アンリツ",
       "ptsOpen": 2856.0,
       "ptsOpenTime": "17:03　10/29",
       "ptsHighEarly": 2856.0,
-      "ptsHighEarlyTime": "17:03　10/29"
+      "ptsHighEarlyTime": "17:03　10/29",
+      "ptsHighFinal": 3021.0,
+      "ptsHighFinalTime": "23:55　10/29"
     },
     "8609": {
       "name": "岡三証券グループ"
     },
     "8613": {
-      "name": "丸三証券"
+      "name": "丸三証券",
+      "ptsHighFinal": 1151.0,
+      "ptsHighFinalTime": "20:56　10/29"
     },
     "8708": {
       "name": "アイザワ証券グループ"
