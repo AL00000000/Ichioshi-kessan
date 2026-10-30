@@ -2321,12 +2321,18 @@
     "1946": {
       "name": "トーエネック",
       "ptsHighFinal": 2020.0,
-      "ptsHighFinalTime": "18:47　10/29"
+      "ptsHighFinalTime": "18:47　10/29",
+      "nextDayHigh": 1919.0,
+      "nextDayHighTime": "09:15",
+      "nextDayClose": 1795.0
     },
     "2914": {
       "name": "日本たばこ産業",
       "ptsHighFinal": 7340.0,
-      "ptsHighFinalTime": "18:14　10/29"
+      "ptsHighFinalTime": "18:14　10/29",
+      "nextDayHigh": 7320.0,
+      "nextDayHighTime": "09:20",
+      "nextDayClose": 7247.0
     },
     "3793": {
       "name": "ドリコム",
@@ -2335,7 +2341,10 @@
       "ptsHighEarly": 489.9,
       "ptsHighEarlyTime": "17:02　10/29",
       "ptsHighFinal": 489.9,
-      "ptsHighFinalTime": "17:02　10/29"
+      "ptsHighFinalTime": "17:02　10/29",
+      "nextDayHigh": 478.0,
+      "nextDayHighTime": "09:10",
+      "nextDayClose": 453.0
     },
     "4062": {
       "name": "イビデン",
@@ -2344,12 +2353,18 @@
       "ptsHighEarly": 9690.0,
       "ptsHighEarlyTime": "17:00　10/29",
       "ptsHighFinal": 9690.0,
-      "ptsHighFinalTime": "17:00　10/29"
+      "ptsHighFinalTime": "17:00　10/29",
+      "nextDayHigh": 8622.0,
+      "nextDayHighTime": "09:24",
+      "nextDayClose": 8359.0
     },
     "4307": {
       "name": "野村総合研究所",
       "ptsHighFinal": 6060.0,
-      "ptsHighFinalTime": "23:37　10/29"
+      "ptsHighFinalTime": "23:37　10/29",
+      "nextDayHigh": 6344.0,
+      "nextDayHighTime": "09:38",
+      "nextDayClose": 6232.0
     },
     "4461": {
       "name": "第一工業製薬",
@@ -2358,32 +2373,50 @@
       "ptsHighEarly": 10910.0,
       "ptsHighEarlyTime": "17:04　10/29",
       "ptsHighFinal": 11200.0,
-      "ptsHighFinalTime": "19:46　10/29"
+      "ptsHighFinalTime": "19:46　10/29",
+      "nextDayHigh": 10510.0,
+      "nextDayHighTime": "09:12",
+      "nextDayClose": 10180.0
     },
     "4507": {
       "name": "塩野義製薬",
       "ptsHighFinal": 3001.0,
-      "ptsHighFinalTime": "22:39　10/29"
+      "ptsHighFinalTime": "22:39　10/29",
+      "nextDayHigh": 3042.0,
+      "nextDayHighTime": "12:34",
+      "nextDayClose": 3012.0
     },
     "4552": {
       "name": "ＪＣＲファーマ",
       "ptsHighFinal": 509.0,
-      "ptsHighFinalTime": "18:22　10/29"
+      "ptsHighFinalTime": "18:22　10/29",
+      "nextDayHigh": 550.0,
+      "nextDayHighTime": "09:56",
+      "nextDayClose": 544.0
     },
     "5471": {
       "name": "大同特殊鋼",
       "ptsHighFinal": 2195.0,
-      "ptsHighFinalTime": "19:43　10/29"
+      "ptsHighFinalTime": "19:43　10/29",
+      "nextDayHigh": 2213.0,
+      "nextDayHighTime": "09:09",
+      "nextDayClose": 2128.0
     },
     "6349": {
       "name": "小森コーポレーション",
       "ptsHighFinal": 1820.0,
-      "ptsHighFinalTime": "22:02　10/29"
+      "ptsHighFinalTime": "22:02　10/29",
+      "nextDayHigh": 1790.0,
+      "nextDayHighTime": "09:16",
+      "nextDayClose": 1738.0
     },
     "6454": {
       "name": "マックス",
       "ptsHighFinal": 1950.0,
-      "ptsHighFinalTime": "17:16　10/29"
+      "ptsHighFinalTime": "17:16　10/29",
+      "nextDayHigh": 1822.0,
+      "nextDayHighTime": "09:06",
+      "nextDayClose": 1716.0
     },
     "6471": {
       "name": "日本精工",
@@ -2392,7 +2425,10 @@
       "ptsHighEarly": 1055.0,
       "ptsHighEarlyTime": "17:01　10/29",
       "ptsHighFinal": 1055.0,
-      "ptsHighFinalTime": "17:01　10/29"
+      "ptsHighFinalTime": "17:01　10/29",
+      "nextDayHigh": 1055.5,
+      "nextDayHighTime": "09:04",
+      "nextDayClose": 1002.5
     },
     "6754": {
       "name": "アンリツ",
@@ -2401,21 +2437,36 @@
       "ptsHighEarly": 2856.0,
       "ptsHighEarlyTime": "17:03　10/29",
       "ptsHighFinal": 3021.0,
-      "ptsHighFinalTime": "23:55　10/29"
+      "ptsHighFinalTime": "23:55　10/29",
+      "nextDayHigh": 2899.5,
+      "nextDayHighTime": "09:14",
+      "nextDayClose": 2754.5
     },
     "8609": {
-      "name": "岡三証券グループ"
+      "name": "岡三証券グループ",
+      "nextDayHigh": 1063.0,
+      "nextDayHighTime": "09:01",
+      "nextDayClose": 1011.0
     },
     "8613": {
       "name": "丸三証券",
       "ptsHighFinal": 1151.0,
-      "ptsHighFinalTime": "20:56　10/29"
+      "ptsHighFinalTime": "20:56　10/29",
+      "nextDayHigh": 1175.0,
+      "nextDayHighTime": "09:22",
+      "nextDayClose": 1162.0
     },
     "8708": {
-      "name": "アイザワ証券グループ"
+      "name": "アイザワ証券グループ",
+      "nextDayHigh": 1535.0,
+      "nextDayHighTime": "09:10",
+      "nextDayClose": 1499.0
     },
     "9759": {
-      "name": "ＮＳＤ"
+      "name": "ＮＳＤ",
+      "nextDayHigh": 3125.0,
+      "nextDayHighTime": "09:01",
+      "nextDayClose": 3111.0
     }
   }
 }
