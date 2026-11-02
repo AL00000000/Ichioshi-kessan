@@ -2473,18 +2473,30 @@
     "1944": {
       "name": "きんでん",
       "ptsHighFinal": 5955.0,
-      "ptsHighFinalTime": "19:39　10/30"
+      "ptsHighFinalTime": "19:39　10/30",
+      "nextDayHigh": 6112.0,
+      "nextDayHighTime": "09:30",
+      "nextDayClose": 5992.0
     },
     "2053": {
-      "name": "中部飼料"
+      "name": "中部飼料",
+      "nextDayHigh": 2163.0,
+      "nextDayHighTime": "09:09",
+      "nextDayClose": 2065.0
     },
     "2121": {
-      "name": "ＭＩＸＩ"
+      "name": "ＭＩＸＩ",
+      "nextDayHigh": 4025.0,
+      "nextDayHighTime": "15:10",
+      "nextDayClose": 4000.0
     },
     "8616": {
       "name": "東海東京フィナンシャル・ホールディングス",
       "ptsHighFinal": 785.0,
-      "ptsHighFinalTime": "18:07　10/30"
+      "ptsHighFinalTime": "18:07　10/30",
+      "nextDayHigh": 781.0,
+      "nextDayHighTime": "09:01",
+      "nextDayClose": 762.0
     }
   }
 }
