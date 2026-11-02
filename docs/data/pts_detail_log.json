@@ -2498,5 +2498,44 @@
       "nextDayHighTime": "09:01",
       "nextDayClose": 762.0
     }
+  },
+  "20261102": {
+    "4746": {
+      "name": "東計電算",
+      "ptsOpen": 1750.0,
+      "ptsOpenTime": "17:00　11/02",
+      "ptsHighEarly": 1750.0,
+      "ptsHighEarlyTime": "17:00　11/02"
+    },
+    "5367": {
+      "name": "ニッカトー"
+    },
+    "6200": {
+      "name": "インソース"
+    },
+    "7162": {
+      "name": "アストマックス"
+    },
+    "7236": {
+      "name": "ティラド",
+      "ptsOpen": 1230.0,
+      "ptsOpenTime": "17:00　11/02",
+      "ptsHighEarly": 1240.0,
+      "ptsHighEarlyTime": "17:01　11/02"
+    },
+    "7480": {
+      "name": "スズデン",
+      "ptsOpen": 3607.0,
+      "ptsOpenTime": "17:00　11/02",
+      "ptsHighEarly": 3608.0,
+      "ptsHighEarlyTime": "17:02　11/02"
+    },
+    "8473": {
+      "name": "ＳＢＩホールディングス",
+      "ptsOpen": 2845.0,
+      "ptsOpenTime": "17:00　11/02",
+      "ptsHighEarly": 2845.0,
+      "ptsHighEarlyTime": "17:00　11/02"
+    }
   }
 }
