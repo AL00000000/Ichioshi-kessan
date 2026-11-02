@@ -7982,125 +7982,158 @@
     ],
     "20261102": [
       {
+        "code": "2003",
+        "name": "日東富士製粉",
+        "time": "13:00\n（実績）",
+        "type": "2Q",
+        "isWatchlist": false
+      },
+      {
         "code": "2220",
         "name": "亀田製菓",
-        "time": "13:30\n（予定）",
+        "time": "14:00\n（実績）",
         "type": "2Q",
         "isWatchlist": false
       },
       {
         "code": "2489",
         "name": "アドウェイズ",
-        "time": "14:30\n（予定）",
+        "time": "14:30\n（実績）",
         "type": "3Q",
         "isWatchlist": false
       },
       {
         "code": "2816",
         "name": "ダイショー",
-        "time": "15:00\n（予定）",
+        "time": "15:00\n（実績）",
         "type": "2Q",
         "isWatchlist": false
       },
       {
         "code": "3132",
         "name": "マクニカホールディングス",
-        "time": "15:00\n（予定）",
+        "time": "15:00\n（実績）",
         "type": "2Q",
         "isWatchlist": false
       },
       {
         "code": "3191",
         "name": "ジョイフル本田",
-        "time": "15:00\n（予定）",
+        "time": "15:00\n（実績）",
         "type": "1Q",
         "isWatchlist": false
       },
       {
         "code": "3580",
         "name": "小松マテーレ",
-        "time": "15:00\n（予定）",
+        "time": "15:00\n（実績）",
         "type": "2Q",
         "isWatchlist": false
       },
       {
         "code": "4005",
         "name": "住友化学",
-        "time": "13:30\n（予定）",
+        "time": "13:30\n（実績）",
         "type": "2Q",
         "isWatchlist": false
       },
       {
         "code": "5444",
         "name": "大和工業",
-        "time": "13:00\n（予定）",
+        "time": "13:00\n（実績）",
         "type": "2Q",
         "isWatchlist": false
       },
       {
         "code": "5703",
         "name": "日本軽金属ホールディングス",
-        "time": "14:00\n（予定）",
+        "time": "14:00\n（実績）",
         "type": "2Q",
         "isWatchlist": false
       },
       {
         "code": "5979",
         "name": "カネソウ",
-        "time": "14:40\n（予定）",
+        "time": "14:40\n（実績）",
         "type": "2Q",
         "isWatchlist": false
       },
       {
         "code": "6467",
         "name": "ニチダイ",
-        "time": "15:00\n（予定）",
+        "time": "15:00\n（実績）",
+        "type": "2Q",
+        "isWatchlist": false
+      },
+      {
+        "code": "6592",
+        "name": "マブチモーター",
+        "time": "12:30\n（実績）",
+        "type": "3Q",
+        "isWatchlist": false
+      },
+      {
+        "code": "6971",
+        "name": "京セラ",
+        "time": "15:00\n（実績）",
+        "type": "2Q",
+        "isWatchlist": true,
+        "lastMentioned": "20260730",
+        "mentionCount": 2
+      },
+      {
+        "code": "7723",
+        "name": "愛知時計電機",
+        "time": "14:20\n（実績）",
         "type": "2Q",
         "isWatchlist": false
       },
       {
         "code": "7971",
         "name": "東リ",
-        "time": "14:00\n（予定）",
+        "time": "14:00\n（実績）",
         "type": "2Q",
         "isWatchlist": false
       },
       {
         "code": "8053",
         "name": "住友商事",
-        "time": "13:00\n（予定）",
+        "time": "13:00\n（実績）",
         "type": "2Q",
         "isWatchlist": false
       },
       {
         "code": "8303",
         "name": "ＳＢＩ新生銀行",
-        "time": "11:30\n（予定）",
+        "time": "10:00\n（実績）",
         "type": "2Q",
         "isWatchlist": false
       },
       {
         "code": "8473",
         "name": "ＳＢＩホールディングス",
-        "time": "10:30\n（予定）",
+        "time": "10:10\n（実績）",
         "type": "2Q",
         "isWatchlist": true,
         "lastMentioned": "20260625",
         "mentionCount": 1,
         "lastMentionedPriceChange": 2.15,
-        "lastMentionedPriceChangeType": "同日"
+        "lastMentionedPriceChangeType": "同日",
+        "referenceClose": 2817.0,
+        "preEarningsChange": -1.16,
+        "preEarningsFromDate": "20261026"
       },
       {
         "code": "9044",
         "name": "ＮＡＮＫＡＩ",
-        "time": "14:00\n（予定）",
+        "time": "14:00\n（実績）",
         "type": "2Q",
         "isWatchlist": false
       },
       {
         "code": "9201",
         "name": "日本航空",
-        "time": "12:00\n（予定）",
+        "time": "12:00\n（実績）",
         "type": "2Q",
         "isWatchlist": false
       }
@@ -8325,7 +8358,9 @@
         "type": "2Q",
         "isWatchlist": true,
         "lastMentioned": "20261015",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": -1.61,
+        "lastMentionedPriceChangeType": "同日"
       },
       {
         "code": "1897",
@@ -8567,6 +8602,13 @@
         "isWatchlist": false
       },
       {
+        "code": "6758",
+        "name": "ソニーグループ",
+        "time": "12:00\n（予定）",
+        "type": "2Q",
+        "isWatchlist": false
+      },
+      {
         "code": "6994",
         "name": "指月電機製作所",
         "time": "13:00\n（予定）",
@@ -8710,6 +8752,13 @@
         "code": "9324",
         "name": "安田倉庫",
         "time": "15:00\n（予定）",
+        "type": "2Q",
+        "isWatchlist": false
+      },
+      {
+        "code": "9347",
+        "name": "日本管財ホールディングス",
+        "time": "14:00\n（予定）",
         "type": "2Q",
         "isWatchlist": false
       },
@@ -9049,6 +9098,13 @@
         "isWatchlist": false
       },
       {
+        "code": "5867",
+        "name": "エスネットワークス",
+        "time": "14:00\n（予定）",
+        "type": "3Q",
+        "isWatchlist": false
+      },
+      {
         "code": "5958",
         "name": "三洋工業",
         "time": "11:00\n（予定）",
@@ -9140,7 +9196,9 @@
         "type": "2Q",
         "isWatchlist": true,
         "lastMentioned": "20261019",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": -1.12,
+        "lastMentionedPriceChangeType": "同日"
       },
       {
         "code": "6674",
@@ -9706,6 +9764,13 @@
         "isWatchlist": false
       },
       {
+        "code": "5192",
+        "name": "三ツ星ベルト",
+        "time": "14:00\n（予定）",
+        "type": "2Q",
+        "isWatchlist": false
+      },
+      {
         "code": "5801",
         "name": "古河電気工業",
         "time": "14:00\n（予定）",
@@ -9790,6 +9855,13 @@
         "code": "7040",
         "name": "サン・ライフホールディング",
         "time": "15:00\n（予定）",
+        "type": "2Q",
+        "isWatchlist": false
+      },
+      {
+        "code": "7261",
+        "name": "マツダ",
+        "time": "13:30\n（予定）",
         "type": "2Q",
         "isWatchlist": false
       },
@@ -9918,8 +9990,8 @@
         "time": "12:00\n（予定）",
         "type": "2Q",
         "isWatchlist": true,
-        "lastMentioned": "20260803",
-        "mentionCount": 1,
+        "lastMentioned": "20261102",
+        "mentionCount": 2,
         "lastMentionedPriceChange": -1.58,
         "lastMentionedPriceChangeType": "同日"
       },
@@ -9934,6 +10006,13 @@
         "code": "9471",
         "name": "文溪堂",
         "time": "14:00\n（予定）",
+        "type": "2Q",
+        "isWatchlist": false
+      },
+      {
+        "code": "9685",
+        "name": "ＫＹＣＯＭホールディングス",
+        "time": "15:00\n（予定）",
         "type": "2Q",
         "isWatchlist": false
       },
@@ -10200,6 +10279,13 @@
         "isWatchlist": false
       },
       {
+        "code": "4997",
+        "name": "日本農薬",
+        "time": "14:00\n（予定）",
+        "type": "2Q",
+        "isWatchlist": false
+      },
+      {
         "code": "4998",
         "name": "フマキラー",
         "time": "13:00\n（予定）",
@@ -10239,6 +10325,13 @@
         "name": "大平洋金属",
         "time": "15:00\n（予定）",
         "type": "2Q",
+        "isWatchlist": false
+      },
+      {
+        "code": "5542",
+        "name": "新報国マテリアル",
+        "time": "13:30\n（予定）",
+        "type": "3Q",
         "isWatchlist": false
       },
       {
@@ -11081,7 +11174,9 @@
         "name": "千葉興業銀行",
         "time": "13:30\n（予定）",
         "type": "2Q",
-        "isWatchlist": false
+        "isWatchlist": true,
+        "lastMentioned": "20261027",
+        "mentionCount": 1
       },
       {
         "code": "8387",
@@ -11268,6 +11363,13 @@
         "isWatchlist": false
       },
       {
+        "code": "2894",
+        "name": "石井食品",
+        "time": "13:00\n（予定）",
+        "type": "2Q",
+        "isWatchlist": false
+      },
+      {
         "code": "2982",
         "name": "ＡＤワークスグループ",
         "time": "15:00\n（予定）",
@@ -11338,6 +11440,13 @@
         "isWatchlist": false
       },
       {
+        "code": "3529",
+        "name": "アツギ",
+        "time": "14:30\n（予定）",
+        "type": "2Q",
+        "isWatchlist": false
+      },
+      {
         "code": "3551",
         "name": "ダイニック",
         "time": "11:00\n（予定）",
@@ -11350,6 +11459,15 @@
         "time": "11:30\n（予定）",
         "type": "2Q",
         "isWatchlist": false
+      },
+      {
+        "code": "3696",
+        "name": "セレス",
+        "time": "12:00\n（予定）",
+        "type": "3Q",
+        "isWatchlist": true,
+        "lastMentioned": "20260625",
+        "mentionCount": 1
       },
       {
         "code": "3708",
@@ -11492,6 +11610,13 @@
         "code": "5273",
         "name": "三谷セキサン",
         "time": "15:00\n（予定）",
+        "type": "2Q",
+        "isWatchlist": false
+      },
+      {
+        "code": "5285",
+        "name": "ヤマックス",
+        "time": "14:00\n（予定）",
         "type": "2Q",
         "isWatchlist": false
       },
@@ -11812,13 +11937,6 @@
         "isWatchlist": false
       },
       {
-        "code": "8562",
-        "name": "福島銀行",
-        "time": "15:00\n（予定）",
-        "type": "2Q",
-        "isWatchlist": false
-      },
-      {
         "code": "8705",
         "name": "日産証券グループ",
         "time": "12:30\n（予定）",
@@ -11868,13 +11986,6 @@
         "isWatchlist": false
       },
       {
-        "code": "9365",
-        "name": "トレーディア",
-        "time": "15:00\n（予定）",
-        "type": "2Q",
-        "isWatchlist": false
-      },
-      {
         "code": "9402",
         "name": "中部日本放送",
         "time": "13:40\n（予定）",
@@ -11889,28 +12000,21 @@
         "isWatchlist": false
       },
       {
-        "code": "9900",
-        "name": "サガミホールディングス",
-        "time": "15:00\n（予定）",
-        "type": "2Q",
-        "isWatchlist": false
-      },
-      {
         "code": "9904",
         "name": "ベリテ",
         "time": "13:00\n（予定）",
         "type": "2Q",
         "isWatchlist": false
-      },
-      {
-        "code": "9906",
-        "name": "藤井産業ホールディングス",
-        "time": "15:00\n（予定）",
-        "type": "2Q",
-        "isWatchlist": false
       }
     ],
     "20261113": [
+      {
+        "code": "143A",
+        "name": "イシン",
+        "time": "13:30\n（予定）",
+        "type": "2Q",
+        "isWatchlist": false
+      },
       {
         "code": "173A",
         "name": "ハンモック",
@@ -12316,17 +12420,6 @@
         "isWatchlist": false
       },
       {
-        "code": "5269",
-        "name": "日本コンクリート工業",
-        "time": "14:00\n（予定）",
-        "type": "2Q",
-        "isWatchlist": true,
-        "lastMentioned": "20260731",
-        "mentionCount": 1,
-        "lastMentionedPriceChange": -0.58,
-        "lastMentionedPriceChangeType": "同日"
-      },
-      {
         "code": "5588",
         "name": "ファーストアカウンティング",
         "time": "12:00\n（予定）",
@@ -12360,17 +12453,6 @@
         "time": "13:00\n（予定）",
         "type": "2Q",
         "isWatchlist": false
-      },
-      {
-        "code": "5965",
-        "name": "フジマック",
-        "time": "14:00\n（予定）",
-        "type": "3Q",
-        "isWatchlist": true,
-        "lastMentioned": "20260313",
-        "mentionCount": 1,
-        "lastMentionedPriceChange": -0.09,
-        "lastMentionedPriceChangeType": "同日"
       },
       {
         "code": "6033",
@@ -12610,6 +12692,13 @@
       {
         "code": "9423",
         "name": "フォーバル・リアルストレート",
+        "time": "11:30\n（予定）",
+        "type": "2Q",
+        "isWatchlist": false
+      },
+      {
+        "code": "9767",
+        "name": "日建工学",
         "time": "11:30\n（予定）",
         "type": "2Q",
         "isWatchlist": false
