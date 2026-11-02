@@ -2505,37 +2505,66 @@
       "ptsOpen": 1750.0,
       "ptsOpenTime": "17:00　11/02",
       "ptsHighEarly": 1750.0,
-      "ptsHighEarlyTime": "17:00　11/02"
+      "ptsHighEarlyTime": "17:00　11/02",
+      "ptsHighFinal": 1777.0,
+      "ptsHighFinalTime": "22:54　11/02"
     },
     "5367": {
-      "name": "ニッカトー"
+      "name": "ニッカトー",
+      "ptsHighFinal": 1200.0,
+      "ptsHighFinalTime": "17:23　11/02"
     },
     "6200": {
-      "name": "インソース"
+      "name": "インソース",
+      "ptsHighFinal": 740.0,
+      "ptsHighFinalTime": "18:18　11/02"
     },
     "7162": {
-      "name": "アストマックス"
+      "name": "アストマックス",
+      "ptsHighFinal": 292.0,
+      "ptsHighFinalTime": "23:03　11/02"
     },
     "7236": {
       "name": "ティラド",
       "ptsOpen": 1230.0,
       "ptsOpenTime": "17:00　11/02",
       "ptsHighEarly": 1240.0,
-      "ptsHighEarlyTime": "17:01　11/02"
+      "ptsHighEarlyTime": "17:01　11/02",
+      "ptsHighFinal": 1250.0,
+      "ptsHighFinalTime": "22:13　11/02"
     },
     "7480": {
       "name": "スズデン",
       "ptsOpen": 3607.0,
       "ptsOpenTime": "17:00　11/02",
       "ptsHighEarly": 3608.0,
-      "ptsHighEarlyTime": "17:02　11/02"
+      "ptsHighEarlyTime": "17:02　11/02",
+      "ptsHighFinal": 3608.0,
+      "ptsHighFinalTime": "17:02　11/02"
     },
     "8473": {
       "name": "ＳＢＩホールディングス",
       "ptsOpen": 2845.0,
       "ptsOpenTime": "17:00　11/02",
       "ptsHighEarly": 2845.0,
-      "ptsHighEarlyTime": "17:00　11/02"
+      "ptsHighEarlyTime": "17:00　11/02",
+      "ptsHighFinal": 2845.0,
+      "ptsHighFinalTime": "17:00　11/02"
+    },
+    "3914": {
+      "name": "ＪＩＧ－ＳＡＷ",
+      "ptsHighFinal": 2344.0,
+      "ptsHighFinalTime": "22:28　11/02"
+    },
+    "4718": {
+      "name": "早稲田アカデミー",
+      "ptsHighFinal": 2755.0,
+      "ptsHighFinalTime": "17:42　11/02"
+    },
+    "6971": {
+      "name": "京セラ",
+      "ptsHighFinal": 3290.0,
+      "ptsHighFinalTime": "19:59　11/02"
     }
   }
 }
