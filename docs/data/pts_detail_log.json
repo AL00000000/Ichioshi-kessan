@@ -2507,22 +2507,34 @@
       "ptsHighEarly": 1750.0,
       "ptsHighEarlyTime": "17:00　11/02",
       "ptsHighFinal": 1777.0,
-      "ptsHighFinalTime": "22:54　11/02"
+      "ptsHighFinalTime": "22:54　11/02",
+      "nextDayHigh": 1934.0,
+      "nextDayHighTime": "09:00",
+      "nextDayClose": 1879.0
     },
     "5367": {
       "name": "ニッカトー",
       "ptsHighFinal": 1200.0,
-      "ptsHighFinalTime": "17:23　11/02"
+      "ptsHighFinalTime": "17:23　11/02",
+      "nextDayHigh": 1239.0,
+      "nextDayHighTime": "15:23",
+      "nextDayClose": 1201.0
     },
     "6200": {
       "name": "インソース",
       "ptsHighFinal": 740.0,
-      "ptsHighFinalTime": "18:18　11/02"
+      "ptsHighFinalTime": "18:18　11/02",
+      "nextDayHigh": 685.0,
+      "nextDayHighTime": "13:07",
+      "nextDayClose": 679.0
     },
     "7162": {
       "name": "アストマックス",
       "ptsHighFinal": 292.0,
-      "ptsHighFinalTime": "23:03　11/02"
+      "ptsHighFinalTime": "23:03　11/02",
+      "nextDayHigh": 292.0,
+      "nextDayHighTime": "13:05",
+      "nextDayClose": 292.0
     },
     "7236": {
       "name": "ティラド",
@@ -2531,7 +2543,10 @@
       "ptsHighEarly": 1240.0,
       "ptsHighEarlyTime": "17:01　11/02",
       "ptsHighFinal": 1250.0,
-      "ptsHighFinalTime": "22:13　11/02"
+      "ptsHighFinalTime": "22:13　11/02",
+      "nextDayHigh": 1283.0,
+      "nextDayHighTime": "12:59",
+      "nextDayClose": 1267.0
     },
     "7480": {
       "name": "スズデン",
@@ -2540,7 +2555,10 @@
       "ptsHighEarly": 3608.0,
       "ptsHighEarlyTime": "17:02　11/02",
       "ptsHighFinal": 3608.0,
-      "ptsHighFinalTime": "17:02　11/02"
+      "ptsHighFinalTime": "17:02　11/02",
+      "nextDayHigh": 3420.0,
+      "nextDayHighTime": "13:22",
+      "nextDayClose": 3360.0
     },
     "8473": {
       "name": "ＳＢＩホールディングス",
@@ -2549,22 +2567,34 @@
       "ptsHighEarly": 2845.0,
       "ptsHighEarlyTime": "17:00　11/02",
       "ptsHighFinal": 2845.0,
-      "ptsHighFinalTime": "17:00　11/02"
+      "ptsHighFinalTime": "17:00　11/02",
+      "nextDayHigh": 2886.0,
+      "nextDayHighTime": "10:10",
+      "nextDayClose": 2818.5
     },
     "3914": {
       "name": "ＪＩＧ－ＳＡＷ",
       "ptsHighFinal": 2344.0,
-      "ptsHighFinalTime": "22:28　11/02"
+      "ptsHighFinalTime": "22:28　11/02",
+      "nextDayHigh": 2280.0,
+      "nextDayHighTime": "09:00",
+      "nextDayClose": 2260.0
     },
     "4718": {
       "name": "早稲田アカデミー",
       "ptsHighFinal": 2755.0,
-      "ptsHighFinalTime": "17:42　11/02"
+      "ptsHighFinalTime": "17:42　11/02",
+      "nextDayHigh": 2773.0,
+      "nextDayHighTime": "09:02",
+      "nextDayClose": 2715.0
     },
     "6971": {
       "name": "京セラ",
       "ptsHighFinal": 3290.0,
-      "ptsHighFinalTime": "19:59　11/02"
+      "ptsHighFinalTime": "19:59　11/02",
+      "nextDayHigh": 3448.0,
+      "nextDayHighTime": "15:00",
+      "nextDayClose": 3269.0
     }
   }
 }
