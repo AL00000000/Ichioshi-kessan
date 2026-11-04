@@ -2604,47 +2604,65 @@
       "ptsOpen": 3000.0,
       "ptsOpenTime": "17:04　11/04",
       "ptsHighEarly": 3000.0,
-      "ptsHighEarlyTime": "17:04　11/04"
+      "ptsHighEarlyTime": "17:04　11/04",
+      "ptsHighFinal": 3050.0,
+      "ptsHighFinalTime": "19:11　11/04"
     },
     "5857": {
       "name": "ＡＲＥホールディングス",
       "ptsOpen": 3375.0,
       "ptsOpenTime": "17:00　11/04",
       "ptsHighEarly": 3443.0,
-      "ptsHighEarlyTime": "17:01　11/04"
+      "ptsHighEarlyTime": "17:01　11/04",
+      "ptsHighFinal": 3449.0,
+      "ptsHighFinalTime": "21:08　11/04"
     },
     "5951": {
-      "name": "ダイニチ工業"
+      "name": "ダイニチ工業",
+      "ptsHighFinal": 1127.0,
+      "ptsHighFinalTime": "17:24　11/04"
     },
     "6103": {
       "name": "オークマ",
       "ptsOpen": 4480.0,
       "ptsOpenTime": "17:02　11/04",
       "ptsHighEarly": 4480.0,
-      "ptsHighEarlyTime": "17:02　11/04"
+      "ptsHighEarlyTime": "17:02　11/04",
+      "ptsHighFinal": 4550.0,
+      "ptsHighFinalTime": "17:51　11/04"
     },
     "6809": {
-      "name": "ＴＯＡ"
+      "name": "ＴＯＡ",
+      "ptsHighFinal": 1738.0,
+      "ptsHighFinalTime": "20:37　11/04"
     },
     "7609": {
-      "name": "ダイトロン"
+      "name": "ダイトロン",
+      "ptsHighFinal": 3799.5,
+      "ptsHighFinalTime": "21:00　11/04"
     },
     "7729": {
       "name": "東京精密",
       "ptsOpen": 14940.0,
       "ptsOpenTime": "17:02　11/04",
       "ptsHighEarly": 14940.0,
-      "ptsHighEarlyTime": "17:02　11/04"
+      "ptsHighEarlyTime": "17:02　11/04",
+      "ptsHighFinal": 15300.0,
+      "ptsHighFinalTime": "20:11　11/04"
     },
     "8081": {
-      "name": "カナデン"
+      "name": "カナデン",
+      "ptsHighFinal": 2565.0,
+      "ptsHighFinalTime": "20:31　11/04"
     },
     "9107": {
       "name": "川崎汽船",
       "ptsOpen": 3450.0,
       "ptsOpenTime": "17:00　11/04",
       "ptsHighEarly": 3450.0,
-      "ptsHighEarlyTime": "17:00　11/04"
+      "ptsHighEarlyTime": "17:00　11/04",
+      "ptsHighFinal": 3450.0,
+      "ptsHighFinalTime": "17:00　11/04"
     },
     "9127": {
       "name": "玉井商船"
