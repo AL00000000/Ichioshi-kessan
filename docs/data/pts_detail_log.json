@@ -2606,7 +2606,10 @@
       "ptsHighEarly": 3000.0,
       "ptsHighEarlyTime": "17:04　11/04",
       "ptsHighFinal": 3050.0,
-      "ptsHighFinalTime": "19:11　11/04"
+      "ptsHighFinalTime": "19:11　11/04",
+      "nextDayHigh": 3215.0,
+      "nextDayHighTime": "09:29",
+      "nextDayClose": 3090.0
     },
     "5857": {
       "name": "ＡＲＥホールディングス",
@@ -2615,12 +2618,18 @@
       "ptsHighEarly": 3443.0,
       "ptsHighEarlyTime": "17:01　11/04",
       "ptsHighFinal": 3449.0,
-      "ptsHighFinalTime": "21:08　11/04"
+      "ptsHighFinalTime": "21:08　11/04",
+      "nextDayHigh": 3770.0,
+      "nextDayHighTime": "09:36",
+      "nextDayClose": 3770.0
     },
     "5951": {
       "name": "ダイニチ工業",
       "ptsHighFinal": 1127.0,
-      "ptsHighFinalTime": "17:24　11/04"
+      "ptsHighFinalTime": "17:24　11/04",
+      "nextDayHigh": 1248.0,
+      "nextDayHighTime": "13:52",
+      "nextDayClose": 1230.0
     },
     "6103": {
       "name": "オークマ",
@@ -2629,17 +2638,26 @@
       "ptsHighEarly": 4480.0,
       "ptsHighEarlyTime": "17:02　11/04",
       "ptsHighFinal": 4550.0,
-      "ptsHighFinalTime": "17:51　11/04"
+      "ptsHighFinalTime": "17:51　11/04",
+      "nextDayHigh": 4105.0,
+      "nextDayHighTime": "09:17",
+      "nextDayClose": 3950.0
     },
     "6809": {
       "name": "ＴＯＡ",
       "ptsHighFinal": 1738.0,
-      "ptsHighFinalTime": "20:37　11/04"
+      "ptsHighFinalTime": "20:37　11/04",
+      "nextDayHigh": 1815.0,
+      "nextDayHighTime": "10:38",
+      "nextDayClose": 1734.0
     },
     "7609": {
       "name": "ダイトロン",
       "ptsHighFinal": 3799.5,
-      "ptsHighFinalTime": "21:00　11/04"
+      "ptsHighFinalTime": "21:00　11/04",
+      "nextDayHigh": 3705.0,
+      "nextDayHighTime": "09:00",
+      "nextDayClose": 3510.0
     },
     "7729": {
       "name": "東京精密",
@@ -2648,12 +2666,18 @@
       "ptsHighEarly": 14940.0,
       "ptsHighEarlyTime": "17:02　11/04",
       "ptsHighFinal": 15300.0,
-      "ptsHighFinalTime": "20:11　11/04"
+      "ptsHighFinalTime": "20:11　11/04",
+      "nextDayHigh": 13620.0,
+      "nextDayHighTime": "09:12",
+      "nextDayClose": 12635.0
     },
     "8081": {
       "name": "カナデン",
       "ptsHighFinal": 2565.0,
-      "ptsHighFinalTime": "20:31　11/04"
+      "ptsHighFinalTime": "20:31　11/04",
+      "nextDayHigh": 2615.0,
+      "nextDayHighTime": "09:00",
+      "nextDayClose": 2495.0
     },
     "9107": {
       "name": "川崎汽船",
@@ -2662,10 +2686,16 @@
       "ptsHighEarly": 3450.0,
       "ptsHighEarlyTime": "17:00　11/04",
       "ptsHighFinal": 3450.0,
-      "ptsHighFinalTime": "17:00　11/04"
+      "ptsHighFinalTime": "17:00　11/04",
+      "nextDayHigh": 3320.0,
+      "nextDayHighTime": "09:03",
+      "nextDayClose": 3185.0
     },
     "9127": {
-      "name": "玉井商船"
+      "name": "玉井商船",
+      "nextDayHigh": 3305.0,
+      "nextDayHighTime": "09:00",
+      "nextDayClose": 3190.0
     }
   }
 }
