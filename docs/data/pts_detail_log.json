@@ -2697,5 +2697,49 @@
       "nextDayHighTime": "09:00",
       "nextDayClose": 3190.0
     }
+  },
+  "20261105": {
+    "1814": {
+      "name": "大末建設"
+    },
+    "2307": {
+      "name": "クロスキャット"
+    },
+    "3110": {
+      "name": "日東紡績"
+    },
+    "5301": {
+      "name": "東海カーボン"
+    },
+    "5331": {
+      "name": "ノリタケ"
+    },
+    "5401": {
+      "name": "日本製鉄",
+      "ptsOpen": 698.8,
+      "ptsOpenTime": "17:00　11/05",
+      "ptsHighEarly": 703.0,
+      "ptsHighEarlyTime": "17:00　11/05"
+    },
+    "6134": {
+      "name": "ＦＵＪＩ",
+      "ptsOpen": 5194.0,
+      "ptsOpenTime": "17:01　11/05",
+      "ptsHighEarly": 5194.0,
+      "ptsHighEarlyTime": "17:01　11/05"
+    },
+    "6724": {
+      "name": "セイコーエプソン"
+    },
+    "6745": {
+      "name": "ホーチキ"
+    },
+    "6941": {
+      "name": "山一電機",
+      "ptsOpen": 6035.0,
+      "ptsOpenTime": "17:00　11/05",
+      "ptsHighEarly": 6050.0,
+      "ptsHighEarlyTime": "17:02　11/05"
+    }
   }
 }
