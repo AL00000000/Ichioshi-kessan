@@ -2702,27 +2702,42 @@
     "1814": {
       "name": "大末建設",
       "ptsHighFinal": 3910.0,
-      "ptsHighFinalTime": "23:28　11/05"
+      "ptsHighFinalTime": "23:28　11/05",
+      "nextDayHigh": 3685.0,
+      "nextDayHighTime": "11:24",
+      "nextDayClose": 3610.0
     },
     "2307": {
       "name": "クロスキャット",
       "ptsHighFinal": 1075.0,
-      "ptsHighFinalTime": "19:16　11/05"
+      "ptsHighFinalTime": "19:16　11/05",
+      "nextDayHigh": 1047.0,
+      "nextDayHighTime": "11:30",
+      "nextDayClose": 1028.0
     },
     "3110": {
       "name": "日東紡績",
       "ptsHighFinal": 2438.0,
-      "ptsHighFinalTime": "17:23　11/05"
+      "ptsHighFinalTime": "17:23　11/05",
+      "nextDayHigh": 2415.0,
+      "nextDayHighTime": "13:50",
+      "nextDayClose": 2399.5
     },
     "5301": {
       "name": "東海カーボン",
       "ptsHighFinal": 1699.1,
-      "ptsHighFinalTime": "23:27　11/05"
+      "ptsHighFinalTime": "23:27　11/05",
+      "nextDayHigh": 1586.0,
+      "nextDayHighTime": "15:24",
+      "nextDayClose": 1561.0
     },
     "5331": {
       "name": "ノリタケ",
       "ptsHighFinal": 2924.0,
-      "ptsHighFinalTime": "23:07　11/05"
+      "ptsHighFinalTime": "23:07　11/05",
+      "nextDayHigh": 2806.0,
+      "nextDayHighTime": "12:59",
+      "nextDayClose": 2801.0
     },
     "5401": {
       "name": "日本製鉄",
@@ -2731,7 +2746,10 @@
       "ptsHighEarly": 703.0,
       "ptsHighEarlyTime": "17:00　11/05",
       "ptsHighFinal": 703.0,
-      "ptsHighFinalTime": "17:00　11/05"
+      "ptsHighFinalTime": "17:00　11/05",
+      "nextDayHigh": 675.2,
+      "nextDayHighTime": "09:00",
+      "nextDayClose": 656.5
     },
     "6134": {
       "name": "ＦＵＪＩ",
@@ -2740,17 +2758,26 @@
       "ptsHighEarly": 5194.0,
       "ptsHighEarlyTime": "17:01　11/05",
       "ptsHighFinal": 5250.0,
-      "ptsHighFinalTime": "17:12　11/05"
+      "ptsHighFinalTime": "17:12　11/05",
+      "nextDayHigh": 4905.0,
+      "nextDayHighTime": "09:06",
+      "nextDayClose": 4665.0
     },
     "6724": {
       "name": "セイコーエプソン",
       "ptsHighFinal": 3000.0,
-      "ptsHighFinalTime": "17:10　11/05"
+      "ptsHighFinalTime": "17:10　11/05",
+      "nextDayHigh": 2780.5,
+      "nextDayHighTime": "09:19",
+      "nextDayClose": 2657.0
     },
     "6745": {
       "name": "ホーチキ",
       "ptsHighFinal": 2020.0,
-      "ptsHighFinalTime": "18:30　11/05"
+      "ptsHighFinalTime": "18:30　11/05",
+      "nextDayHigh": 1968.0,
+      "nextDayHighTime": "09:17",
+      "nextDayClose": 1932.0
     },
     "6941": {
       "name": "山一電機",
@@ -2759,7 +2786,10 @@
       "ptsHighEarly": 6050.0,
       "ptsHighEarlyTime": "17:02　11/05",
       "ptsHighFinal": 6170.0,
-      "ptsHighFinalTime": "19:03　11/05"
+      "ptsHighFinalTime": "19:03　11/05",
+      "nextDayHigh": 5760.0,
+      "nextDayHighTime": "15:24",
+      "nextDayClose": 5760.0
     }
   }
 }
