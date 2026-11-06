@@ -2794,16 +2794,22 @@
   },
   "20261106": {
     "3634": {
-      "name": "ソケッツ"
+      "name": "ソケッツ",
+      "ptsHighFinal": 659.0,
+      "ptsHighFinalTime": "21:47　11/06"
     },
     "6138": {
       "name": "ダイジェット工業"
     },
     "6332": {
-      "name": "月島ホールディングス"
+      "name": "月島ホールディングス",
+      "ptsHighFinal": 2180.0,
+      "ptsHighFinalTime": "22:32　11/06"
     },
     "6658": {
-      "name": "シライ電子工業"
+      "name": "シライ電子工業",
+      "ptsHighFinal": 493.0,
+      "ptsHighFinalTime": "17:45　11/06"
     },
     "7955": {
       "name": "クリナップ"
