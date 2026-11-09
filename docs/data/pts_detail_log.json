@@ -2829,5 +2829,23 @@
       "nextDayHighTime": "10:38",
       "nextDayClose": 842.0
     }
+  },
+  "20261109": {
+    "1867": {
+      "name": "植木組"
+    },
+    "5801": {
+      "name": "古河電気工業",
+      "ptsOpen": 1985.0,
+      "ptsOpenTime": "17:00　11/09",
+      "ptsHighEarly": 1985.0,
+      "ptsHighEarlyTime": "17:00　11/09"
+    },
+    "6018": {
+      "name": "阪神内燃機工業"
+    },
+    "9104": {
+      "name": "商船三井"
+    }
   }
 }
