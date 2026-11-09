@@ -2796,23 +2796,38 @@
     "3634": {
       "name": "ソケッツ",
       "ptsHighFinal": 659.0,
-      "ptsHighFinalTime": "21:47　11/06"
+      "ptsHighFinalTime": "21:47　11/06",
+      "nextDayHigh": 595.0,
+      "nextDayHighTime": "09:27",
+      "nextDayClose": 591.0
     },
     "6138": {
-      "name": "ダイジェット工業"
+      "name": "ダイジェット工業",
+      "nextDayHigh": 1750.0,
+      "nextDayHighTime": "09:04",
+      "nextDayClose": 1650.0
     },
     "6332": {
       "name": "月島ホールディングス",
       "ptsHighFinal": 2180.0,
-      "ptsHighFinalTime": "22:32　11/06"
+      "ptsHighFinalTime": "22:32　11/06",
+      "nextDayHigh": 2270.0,
+      "nextDayHighTime": "11:28",
+      "nextDayClose": 2229.0
     },
     "6658": {
       "name": "シライ電子工業",
       "ptsHighFinal": 493.0,
-      "ptsHighFinalTime": "17:45　11/06"
+      "ptsHighFinalTime": "17:45　11/06",
+      "nextDayHigh": 515.0,
+      "nextDayHighTime": "10:07",
+      "nextDayClose": 501.0
     },
     "7955": {
-      "name": "クリナップ"
+      "name": "クリナップ",
+      "nextDayHigh": 867.0,
+      "nextDayHighTime": "10:38",
+      "nextDayClose": 842.0
     }
   }
 }
