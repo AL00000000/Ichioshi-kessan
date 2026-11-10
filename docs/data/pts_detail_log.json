@@ -2863,5 +2863,34 @@
       "nextDayHighTime": "09:06",
       "nextDayClose": 6485.0
     }
+  },
+  "20261110": {
+    "166A": {
+      "name": "タスキホールディングス",
+      "ptsOpen": 1100.0,
+      "ptsOpenTime": "17:01　11/10",
+      "ptsHighEarly": 1100.0,
+      "ptsHighEarlyTime": "17:01　11/10"
+    },
+    "3105": {
+      "name": "日清紡ホールディングス"
+    },
+    "4471": {
+      "name": "三洋化成工業",
+      "ptsOpen": 1475.0,
+      "ptsOpenTime": "17:02　11/10",
+      "ptsHighEarly": 1475.0,
+      "ptsHighEarlyTime": "17:02　11/10"
+    },
+    "5803": {
+      "name": "フジクラ",
+      "ptsOpen": 3068.0,
+      "ptsOpenTime": "17:00　11/10",
+      "ptsHighEarly": 3089.0,
+      "ptsHighEarlyTime": "17:01　11/10"
+    },
+    "8368": {
+      "name": "百五銀行"
+    }
   }
 }
