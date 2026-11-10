@@ -2832,7 +2832,10 @@
   },
   "20261109": {
     "1867": {
-      "name": "植木組"
+      "name": "植木組",
+      "nextDayHigh": 2754.0,
+      "nextDayHighTime": "10:13",
+      "nextDayClose": 2752.0
     },
     "5801": {
       "name": "古河電気工業",
@@ -2841,15 +2844,24 @@
       "ptsHighEarly": 1985.0,
       "ptsHighEarlyTime": "17:00　11/09",
       "ptsHighFinal": 2139.0,
-      "ptsHighFinalTime": "23:58　11/09"
+      "ptsHighFinalTime": "23:58　11/09",
+      "nextDayHigh": 2230.5,
+      "nextDayHighTime": "09:10",
+      "nextDayClose": 2197.0
     },
     "6018": {
-      "name": "阪神内燃機工業"
+      "name": "阪神内燃機工業",
+      "nextDayHigh": 5320.0,
+      "nextDayHighTime": "10:22",
+      "nextDayClose": 5160.0
     },
     "9104": {
       "name": "商船三井",
       "ptsHighFinal": 6468.0,
-      "ptsHighFinalTime": "23:46　11/09"
+      "ptsHighFinalTime": "23:46　11/09",
+      "nextDayHigh": 6582.0,
+      "nextDayHighTime": "09:06",
+      "nextDayClose": 6485.0
     }
   }
 }
