@@ -2870,27 +2870,37 @@
       "ptsOpen": 1100.0,
       "ptsOpenTime": "17:01　11/10",
       "ptsHighEarly": 1100.0,
-      "ptsHighEarlyTime": "17:01　11/10"
+      "ptsHighEarlyTime": "17:01　11/10",
+      "ptsHighFinal": 1116.0,
+      "ptsHighFinalTime": "17:11　11/10"
     },
     "3105": {
-      "name": "日清紡ホールディングス"
+      "name": "日清紡ホールディングス",
+      "ptsHighFinal": 1922.0,
+      "ptsHighFinalTime": "17:47　11/10"
     },
     "4471": {
       "name": "三洋化成工業",
       "ptsOpen": 1475.0,
       "ptsOpenTime": "17:02　11/10",
       "ptsHighEarly": 1475.0,
-      "ptsHighEarlyTime": "17:02　11/10"
+      "ptsHighEarlyTime": "17:02　11/10",
+      "ptsHighFinal": 1476.0,
+      "ptsHighFinalTime": "18:32　11/10"
     },
     "5803": {
       "name": "フジクラ",
       "ptsOpen": 3068.0,
       "ptsOpenTime": "17:00　11/10",
       "ptsHighEarly": 3089.0,
-      "ptsHighEarlyTime": "17:01　11/10"
+      "ptsHighEarlyTime": "17:01　11/10",
+      "ptsHighFinal": 3092.8,
+      "ptsHighFinalTime": "17:06　11/10"
     },
     "8368": {
-      "name": "百五銀行"
+      "name": "百五銀行",
+      "ptsHighFinal": 2069.0,
+      "ptsHighFinalTime": "18:24　11/10"
     }
   }
 }
