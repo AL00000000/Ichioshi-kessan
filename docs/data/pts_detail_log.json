@@ -2923,21 +2923,27 @@
       "name": "中村屋"
     },
     "3392": {
-      "name": "デリカフーズホールディングス"
+      "name": "デリカフーズホールディングス",
+      "ptsHighFinal": 715.0,
+      "ptsHighFinalTime": "17:59　11/11"
     },
     "4667": {
       "name": "アイサンテクノロジー",
       "ptsOpen": 770.0,
       "ptsOpenTime": "17:01　11/11",
       "ptsHighEarly": 770.0,
-      "ptsHighEarlyTime": "17:01　11/11"
+      "ptsHighEarlyTime": "17:01　11/11",
+      "ptsHighFinal": 777.0,
+      "ptsHighFinalTime": "17:34　11/11"
     },
     "5714": {
       "name": "ＤＯＷＡホールディングス",
       "ptsOpen": 8550.0,
       "ptsOpenTime": "17:00　11/11",
       "ptsHighEarly": 8550.0,
-      "ptsHighEarlyTime": "17:00　11/11"
+      "ptsHighEarlyTime": "17:00　11/11",
+      "ptsHighFinal": 9265.0,
+      "ptsHighFinalTime": "17:16　11/11"
     },
     "7075": {
       "name": "ＱＬＳホールディングス"
