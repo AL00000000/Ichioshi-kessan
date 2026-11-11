@@ -2872,12 +2872,18 @@
       "ptsHighEarly": 1100.0,
       "ptsHighEarlyTime": "17:01　11/10",
       "ptsHighFinal": 1116.0,
-      "ptsHighFinalTime": "17:11　11/10"
+      "ptsHighFinalTime": "17:11　11/10",
+      "nextDayHigh": 1154.0,
+      "nextDayHighTime": "14:25",
+      "nextDayClose": 1138.0
     },
     "3105": {
       "name": "日清紡ホールディングス",
       "ptsHighFinal": 1922.0,
-      "ptsHighFinalTime": "17:47　11/10"
+      "ptsHighFinalTime": "17:47　11/10",
+      "nextDayHigh": 1995.5,
+      "nextDayHighTime": "14:47",
+      "nextDayClose": 1991.0
     },
     "4471": {
       "name": "三洋化成工業",
@@ -2886,7 +2892,10 @@
       "ptsHighEarly": 1475.0,
       "ptsHighEarlyTime": "17:02　11/10",
       "ptsHighFinal": 1476.0,
-      "ptsHighFinalTime": "18:32　11/10"
+      "ptsHighFinalTime": "18:32　11/10",
+      "nextDayHigh": 1516.0,
+      "nextDayHighTime": "12:38",
+      "nextDayClose": 1510.0
     },
     "5803": {
       "name": "フジクラ",
@@ -2895,12 +2904,18 @@
       "ptsHighEarly": 3089.0,
       "ptsHighEarlyTime": "17:01　11/10",
       "ptsHighFinal": 3092.8,
-      "ptsHighFinalTime": "17:06　11/10"
+      "ptsHighFinalTime": "17:06　11/10",
+      "nextDayHigh": 3164.0,
+      "nextDayHighTime": "14:31",
+      "nextDayClose": 3121.0
     },
     "8368": {
       "name": "百五銀行",
       "ptsHighFinal": 2069.0,
-      "ptsHighFinalTime": "18:24　11/10"
+      "ptsHighFinalTime": "18:24　11/10",
+      "nextDayHigh": 2168.0,
+      "nextDayHighTime": "12:33",
+      "nextDayClose": 2136.0
     }
   }
 }
