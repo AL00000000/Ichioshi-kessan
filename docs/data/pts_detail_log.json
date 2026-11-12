@@ -2957,16 +2957,22 @@
   },
   "20261112": {
     "3696": {
-      "name": "セレス"
+      "name": "セレス",
+      "ptsHighFinal": 2147.0,
+      "ptsHighFinalTime": "18:15　11/12"
     },
     "5139": {
       "name": "オープンワーク"
     },
     "5986": {
-      "name": "モリテック　スチール"
+      "name": "モリテック　スチール",
+      "ptsHighFinal": 274.0,
+      "ptsHighFinalTime": "23:48　11/12"
     },
     "7059": {
-      "name": "コプロ・ホールディングス"
+      "name": "コプロ・ホールディングス",
+      "ptsHighFinal": 918.0,
+      "ptsHighFinalTime": "18:19　11/12"
     }
   }
 }
