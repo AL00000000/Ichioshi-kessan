@@ -2977,20 +2977,28 @@
   },
   "20261113": {
     "2435": {
-      "name": "シダー"
+      "name": "シダー",
+      "ptsHighFinal": 196.0,
+      "ptsHighFinalTime": "19:47　11/13"
     },
     "4011": {
       "name": "ヘッドウォータース",
       "ptsOpen": 1888.0,
       "ptsOpenTime": "17:04　11/13",
       "ptsHighEarly": 1888.0,
-      "ptsHighEarlyTime": "17:04　11/13"
+      "ptsHighEarlyTime": "17:04　11/13",
+      "ptsHighFinal": 1900.0,
+      "ptsHighFinalTime": "18:44　11/13"
     },
     "4099": {
-      "name": "四国化成ホールディングス"
+      "name": "四国化成ホールディングス",
+      "ptsHighFinal": 2200.0,
+      "ptsHighFinalTime": "21:42　11/13"
     },
     "7875": {
-      "name": "竹田ｉＰホールディングス"
+      "name": "竹田ｉＰホールディングス",
+      "ptsHighFinal": 775.0,
+      "ptsHighFinalTime": "20:45　11/13"
     }
   }
 }
