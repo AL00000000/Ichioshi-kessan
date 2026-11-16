@@ -3019,35 +3019,45 @@
       "ptsOpen": 1191.0,
       "ptsOpenTime": "17:00　11/16",
       "ptsHighEarly": 1220.0,
-      "ptsHighEarlyTime": "17:03　11/16"
+      "ptsHighEarlyTime": "17:03　11/16",
+      "ptsHighFinal": 1256.0,
+      "ptsHighFinalTime": "17:07　11/16"
     },
     "5010": {
       "name": "日本精蝋",
       "ptsOpen": 300.0,
       "ptsOpenTime": "17:00　11/16",
       "ptsHighEarly": 303.9,
-      "ptsHighEarlyTime": "17:03　11/16"
+      "ptsHighEarlyTime": "17:03　11/16",
+      "ptsHighFinal": 309.0,
+      "ptsHighFinalTime": "17:11　11/16"
     },
     "6276": {
       "name": "シリウスビジョン",
       "ptsOpen": 315.0,
       "ptsOpenTime": "17:02　11/16",
       "ptsHighEarly": 335.0,
-      "ptsHighEarlyTime": "17:04　11/16"
+      "ptsHighEarlyTime": "17:04　11/16",
+      "ptsHighFinal": 335.0,
+      "ptsHighFinalTime": "17:04　11/16"
     },
     "6890": {
       "name": "フェローテック",
       "ptsOpen": 7149.0,
       "ptsOpenTime": "17:00　11/16",
       "ptsHighEarly": 7149.0,
-      "ptsHighEarlyTime": "17:00　11/16"
+      "ptsHighEarlyTime": "17:00　11/16",
+      "ptsHighFinal": 7149.0,
+      "ptsHighFinalTime": "17:00　11/16"
     },
     "7781": {
       "name": "平山ホールディングス",
       "ptsOpen": 850.0,
       "ptsOpenTime": "17:00　11/16",
       "ptsHighEarly": 850.0,
-      "ptsHighEarlyTime": "17:00　11/16"
+      "ptsHighEarlyTime": "17:00　11/16",
+      "ptsHighFinal": 850.0,
+      "ptsHighFinalTime": "17:00　11/16"
     }
   }
 }
