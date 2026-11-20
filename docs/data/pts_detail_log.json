@@ -3085,7 +3085,10 @@
       "ptsHighEarly": 5121.1,
       "ptsHighEarlyTime": "17:02　11/19",
       "ptsHighFinal": 5161.0,
-      "ptsHighFinalTime": "17:06　11/19"
+      "ptsHighFinalTime": "17:06　11/19",
+      "nextDayHigh": 5250.0,
+      "nextDayHighTime": "10:45",
+      "nextDayClose": 5081.0
     }
   }
 }
