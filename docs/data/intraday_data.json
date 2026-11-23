@@ -8320,8 +8320,8 @@
         "isWatchlist": true,
         "lastMentioned": "20261013",
         "mentionCount": 1,
-        "lastMentionedPriceChange": 6.27,
-        "lastMentionedPriceChangeType": "翌営業日",
+        "lastMentionedPriceChange": 2.02,
+        "lastMentionedPriceChangeType": "同日",
         "referenceClose": 2557.0,
         "preEarningsChange": -0.85,
         "preEarningsFromDate": "20261027"
@@ -10392,7 +10392,12 @@
         "type": "2Q",
         "isWatchlist": true,
         "lastMentioned": "20260924",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": -1.42,
+        "lastMentionedPriceChangeType": "同日",
+        "referenceClose": 1871.0,
+        "preEarningsChange": -2.4,
+        "preEarningsFromDate": "20261102"
       },
       {
         "code": "5803",
@@ -10851,7 +10856,12 @@
         "type": "本決算",
         "isWatchlist": true,
         "lastMentioned": "20261007",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 0.54,
+        "lastMentionedPriceChangeType": "同日",
+        "referenceClose": 2122.0,
+        "preEarningsChange": -8.97,
+        "preEarningsFromDate": "20261104"
       },
       {
         "code": "3773",
@@ -11548,7 +11558,12 @@
         "type": "2Q",
         "isWatchlist": true,
         "lastMentioned": "20261105",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 0.57,
+        "lastMentionedPriceChangeType": "同日",
+        "referenceClose": 1610.0,
+        "preEarningsChange": 2.22,
+        "preEarningsFromDate": "20261105"
       },
       {
         "code": "3561",
@@ -11585,7 +11600,12 @@
         "type": "2Q",
         "isWatchlist": true,
         "lastMentioned": "20260427",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 21.0,
+        "lastMentionedPriceChangeType": "同日",
+        "referenceClose": 267.0,
+        "preEarningsChange": 1.91,
+        "preEarningsFromDate": "20261105"
       },
       {
         "code": "3913",
@@ -11608,7 +11628,10 @@
         "type": "本決算",
         "isWatchlist": true,
         "lastMentioned": "20260324",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "referenceClose": 918.0,
+        "preEarningsChange": 7.37,
+        "preEarningsFromDate": "20261105"
       },
       {
         "code": "3968",
@@ -12009,7 +12032,12 @@
         "type": "2Q",
         "isWatchlist": true,
         "lastMentioned": "20261028",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": -0.58,
+        "lastMentionedPriceChangeType": "同日",
+        "referenceClose": 335.0,
+        "preEarningsChange": 3.4,
+        "preEarningsFromDate": "20261105"
       },
       {
         "code": "8705",
@@ -12468,7 +12496,12 @@
         "type": "2Q",
         "isWatchlist": true,
         "lastMentioned": "20260629",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 1.94,
+        "lastMentionedPriceChangeType": "同日",
+        "referenceClose": 2265.0,
+        "preEarningsChange": 8.53,
+        "preEarningsFromDate": "20261106"
       },
       {
         "code": "5588",
@@ -12554,7 +12587,12 @@
         "type": "3Q",
         "isWatchlist": true,
         "lastMentioned": "20260622",
-        "mentionCount": 1
+        "mentionCount": 1,
+        "lastMentionedPriceChange": 2.68,
+        "lastMentionedPriceChangeType": "同日",
+        "referenceClose": 2322.0,
+        "preEarningsChange": 17.1,
+        "preEarningsFromDate": "20261106"
       },
       {
         "code": "6563",
@@ -13104,7 +13142,9 @@
         "name": "ベルグアース",
         "time": "15:00\n（予定）",
         "type": "本決算",
-        "isWatchlist": false
+        "isWatchlist": true,
+        "lastMentioned": "20261118",
+        "mentionCount": 1
       },
       {
         "code": "3665",
