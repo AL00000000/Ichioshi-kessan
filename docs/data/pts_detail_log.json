@@ -3101,14 +3101,18 @@
       "ptsOpen": 2900.0,
       "ptsOpenTime": "17:00　11/26",
       "ptsHighEarly": 2900.0,
-      "ptsHighEarlyTime": "17:00　11/26"
+      "ptsHighEarlyTime": "17:00　11/26",
+      "ptsHighFinal": 2937.0,
+      "ptsHighFinalTime": "22:30　11/26"
     },
     "7590": {
       "name": "タカショー",
       "ptsOpen": 463.0,
       "ptsOpenTime": "17:00　11/26",
       "ptsHighEarly": 463.0,
-      "ptsHighEarlyTime": "17:00　11/26"
+      "ptsHighEarlyTime": "17:00　11/26",
+      "ptsHighFinal": 463.0,
+      "ptsHighFinalTime": "17:00　11/26"
     }
   }
 }
